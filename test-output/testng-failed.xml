@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<<<<<< HEAD
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
@@ -10,6 +11,18 @@
           <include name="setup"/>
         </methods>
       </class> <!-- com.testCases.JMB_CALogin_010 -->
+=======
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.testCases.JMB_CALogin_006">
+        <methods>
+          <include name="loginInvalidUsernameAndPassword"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.JMB_CALogin_006 -->
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

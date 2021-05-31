@@ -11,15 +11,21 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+<<<<<<< HEAD
 import org.openqa.selenium.chrome.ChromeOptions;
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.asserts.SoftAssert;
 
 import com.utilities.ReadConfig;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 public class BaseClass 
 {
 	ReadConfig  readconfig = new ReadConfig(); // Creating object
@@ -27,6 +33,7 @@ public class BaseClass
 	public String baseURL=readconfig.getApplicationURL(); 
 	public String username1=readconfig.getUsername1();
 	public String password=readconfig.getPassword(); 
+<<<<<<< HEAD
 	public String username3=readconfig.getUsername3();
 	public String password3=readconfig.getPassword3();
 	public static SoftAssert asrt=new SoftAssert();
@@ -34,14 +41,21 @@ public class BaseClass
 	public static Logger logger;
 	public static String browser;
 
+=======
+	public static WebDriver driver;
+	public static Logger logger;
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 	
 	
 	@BeforeClass
 	public void setup()
 	{		
+<<<<<<< HEAD
 		
 				
 			
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 		// Initialization // Logger initiated within the setup method
 		logger=Logger.getLogger("Jombone");// Project Name 
 		PropertyConfigurator.configure("log4j.properties"); // Added Logger
@@ -54,7 +68,11 @@ public class BaseClass
 	}
 	
 	@AfterClass
+<<<<<<< HEAD
 	public static void tearDown()
+=======
+	public void tearDown()
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 	{
 		driver.quit();
 	}

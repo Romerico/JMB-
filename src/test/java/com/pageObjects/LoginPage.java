@@ -37,6 +37,7 @@ public class LoginPage {
 	WebElement btnSubmit;
 
 	// Capture "invalid credentials text"
+<<<<<<< HEAD
 	@FindBy(xpath = "/html[1]/body[1]/div[1]/div[2]/div[2]/form[1]/div[3]/div[1]/div[1]/span[1]")
 	@CacheLookup
 	WebElement blankEmailText;
@@ -51,6 +52,12 @@ public class LoginPage {
 	@CacheLookup
 	WebElement invalidCredentialsText;
 	
+=======
+	@FindBy(xpath = "//*[@id=\"toast-container\"]/div/div[2]")
+	@CacheLookup
+	WebElement invalidCredentialsText;
+
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 	// Capture "sign up" link in login page
 	@FindBy(xpath = "/html/body/div[1]/div[2]/div[3]/nav/ul/li/a")
 	@CacheLookup
@@ -65,11 +72,14 @@ public class LoginPage {
 	@FindBy(xpath = "//*[@id=\"candidateLogin\"]/div[3]/div[3]/div[1]/a")
 	@CacheLookup
 	WebElement forgotPasswordLink;
+<<<<<<< HEAD
 	
 	//capture popup
 		@FindBy(xpath="/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/span[1]")
 		@CacheLookup
 		WebElement popup;
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 
 	// ==================Action methods===========================//
 
@@ -129,6 +139,7 @@ public class LoginPage {
 	public Boolean isSubmitButtonDisplayed() {
 		return btnSubmit.isDisplayed();
 	}
+<<<<<<< HEAD
 	
 	public void Closepopup()
 	{
@@ -152,4 +163,7 @@ public class LoginPage {
 		String txt3=invalidCredentialsText.getText();
 		return txt3;
 	}
+=======
+
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 }

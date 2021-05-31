@@ -29,7 +29,11 @@ public class Reporting extends TestListenerAdapter
 		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
 		
 		htmlReporter.config().setDocumentTitle("Automation Report"); // Tile of report - given by the user
+<<<<<<< HEAD
 		htmlReporter.config().setReportName("Regression Testing"); // name of the report - given by the user
+=======
+		htmlReporter.config().setReportName("Functional Testing"); // name of the report - given by the user
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 		htmlReporter.config().setTheme(Theme.DARK); //
 	//	htmlReporter.config().setTheme(Theme.STANDARD); 
 		

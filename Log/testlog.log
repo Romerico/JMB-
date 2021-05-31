@@ -2202,6 +2202,7 @@
 2021-04-15 16:33:36,682 - Jombone -INFO - clicked on jombone text
 2021-04-15 16:33:36,691 - Jombone -INFO - Test Passed! Clicking on jombone text on any page,takes to home page
 2021-04-15 16:33:36,691 - Jombone -INFO - Completed jombone text click
+<<<<<<< HEAD
 2021-04-26 13:25:33,975 - Jombone -DEBUG - Debug logging has started 
 2021-04-26 13:30:33,869 - Jombone -DEBUG - Debug logging has started 
 2021-04-26 13:30:41,471 - Jombone -INFO - Started Logintest
@@ -3718,3 +3719,5 @@
 2021-05-31 10:16:35,435 - Jombone -INFO - Clicked on Submit button
 2021-05-31 10:16:35,465 - Jombone -INFO - Test Passed! BlankpwdLogintest Successful!
 2021-05-31 10:16:35,465 - Jombone -INFO - Completed BlankpwdLogintest
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc

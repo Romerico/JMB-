@@ -39,22 +39,28 @@ public class ReadConfig
 		String username1=pro.getProperty("username1");
 		return username1;
 	}
+<<<<<<< HEAD
 	public String getUsername3() // new 
 	{
 		String username3=pro.getProperty("username3");
 		return username3;
 	}
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 	
 	public String getPassword() 
 	{
 	String password=pro.getProperty("password");
 	return password;
 	}
+<<<<<<< HEAD
 	public String getPassword3() 
 	{
 	String password3=pro.getProperty("password3");
 	return password3;
 	}
+=======
+>>>>>>> 2231b5e5cd26920324f0ea9983f18c3dbfc835cc
 	
 	public String getChromePath() 
 	{
