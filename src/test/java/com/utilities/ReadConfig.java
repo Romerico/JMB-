@@ -39,21 +39,11 @@ public class ReadConfig
 		String username1=pro.getProperty("username1");
 		return username1;
 	}
-	public String getUsername3() // new 
-	{
-		String username3=pro.getProperty("username3");
-		return username3;
-	}
 	
 	public String getPassword() 
 	{
 	String password=pro.getProperty("password");
 	return password;
-	}
-	public String getPassword3() 
-	{
-	String password3=pro.getProperty("password3");
-	return password3;
 	}
 	
 	public String getChromePath() 

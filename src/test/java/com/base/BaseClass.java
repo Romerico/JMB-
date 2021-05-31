@@ -11,14 +11,11 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.asserts.SoftAssert;
 
 import com.utilities.ReadConfig;
-
-
 
 public class BaseClass 
 {
@@ -27,21 +24,13 @@ public class BaseClass
 	public String baseURL=readconfig.getApplicationURL(); 
 	public String username1=readconfig.getUsername1();
 	public String password=readconfig.getPassword(); 
-	public String username3=readconfig.getUsername3();
-	public String password3=readconfig.getPassword3();
-	public static SoftAssert asrt=new SoftAssert();
 	public static WebDriver driver;
 	public static Logger logger;
-	public static String browser;
-
 	
 	
 	@BeforeClass
 	public void setup()
 	{		
-		
-				
-			
 		// Initialization // Logger initiated within the setup method
 		logger=Logger.getLogger("Jombone");// Project Name 
 		PropertyConfigurator.configure("log4j.properties"); // Added Logger
@@ -54,7 +43,7 @@ public class BaseClass
 	}
 	
 	@AfterClass
-	public static void tearDown()
+	public void tearDown()
 	{
 		driver.quit();
 	}

@@ -37,20 +37,10 @@ public class LoginPage {
 	WebElement btnSubmit;
 
 	// Capture "invalid credentials text"
-	@FindBy(xpath = "/html[1]/body[1]/div[1]/div[2]/div[2]/form[1]/div[3]/div[1]/div[1]/span[1]")
-	@CacheLookup
-	WebElement blankEmailText;
-	
-	//Capture "invalid password text"
-	@FindBy(xpath="/html[1]/body[1]/div[1]/div[2]/div[2]/form[1]/div[3]/div[2]/div[1]/div[1]/span[1]")
-	@CacheLookup
-	WebElement blankpwdText;
-	
-	//Capture invalid 
-	@FindBy(xpath="/html[1]/body[1]/div[6]/div[1]/div[2]")	
+	@FindBy(xpath = "//*[@id=\"toast-container\"]/div/div[2]")
 	@CacheLookup
 	WebElement invalidCredentialsText;
-	
+
 	// Capture "sign up" link in login page
 	@FindBy(xpath = "/html/body/div[1]/div[2]/div[3]/nav/ul/li/a")
 	@CacheLookup
@@ -65,11 +55,6 @@ public class LoginPage {
 	@FindBy(xpath = "//*[@id=\"candidateLogin\"]/div[3]/div[3]/div[1]/a")
 	@CacheLookup
 	WebElement forgotPasswordLink;
-	
-	//capture popup
-		@FindBy(xpath="/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/span[1]")
-		@CacheLookup
-		WebElement popup;
 
 	// ==================Action methods===========================//
 
@@ -129,27 +114,5 @@ public class LoginPage {
 	public Boolean isSubmitButtonDisplayed() {
 		return btnSubmit.isDisplayed();
 	}
-	
-	public void Closepopup()
-	{
-		popup.click();
-	}
-	public String blankEmail()
-	
-	{
-		String txt=blankEmailText.getText();
-		return txt;
-	}
-	
-	public String blankPwd()
-	{
-		String txt1=blankpwdText.getText();
-		return txt1;
-	}
 
-	public String InvalidCreds()
-	{
-		String txt3=invalidCredentialsText.getText();
-		return txt3;
-	}
 }
