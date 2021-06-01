@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JomboneTestSuite">
+
+	<listeners>
+
+		<listener class-name="com.utilities.Reporting" />
+	</listeners>
+
+
+
+
+
+
+
+
+	<test name="TestNGTest1" thread-count="5">
+		<classes>
+			<!-- packagename.classname -->
+
+
+
+			<class name="com.testCases.JMB_DB_010" />  
+			<class name="com.testCases.JMB_DB_011" />  
+			<class name="com.testCases.JMB_DB_012" />  
+			<class name="com.testCases.JMB_DB_013" />  
+			<class name="com.testCases.JMB_DB_014" />  
+			<class name="com.testCases.JMB_DB_015" />  
+			<class name="com.testCases.JMB_DB_016" />  
+			<class name="com.testCases.JMB_DB_017" />  
+			<class name="com.testCases.JMB_DB_018" />  
+
+
+
+
+			<class name="com.testCases.JMB_CALogin_006" />
+			<class name="com.testCases.JMB_CALogin_007" />
+			<class name="com.testCases.JMB_CALogin_008" />
+			<class name="com.testCases.JMB_CALogin_009" />
+			<class name="com.testCases.JMB_CALogin_010" />
+
+
+
+
+		</classes>
+	</test>
+</suite> <!-- Suite --> 
