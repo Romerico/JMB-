@@ -2202,6 +2202,1519 @@
 2021-04-15 16:33:36,682 [main] INFO Jombone - clicked on jombone text
 2021-04-15 16:33:36,691 [main] INFO Jombone - Test Passed! Clicking on jombone text on any page,takes to home page
 2021-04-15 16:33:36,691 [main] INFO Jombone - Completed jombone text click
-2021-04-26 11:35:09,352 [main] DEBUG Jombone - Debug logging has started 
-2021-04-26 11:46:08,855 [main] DEBUG Jombone - Debug logging has started 
-2021-04-26 11:46:19,549 [main] INFO Jombone - Started Logintest
+2021-04-26 13:25:33,975 [main] DEBUG Jombone - Debug logging has started 
+2021-04-26 13:30:33,869 [main] DEBUG Jombone - Debug logging has started 
+2021-04-26 13:30:41,471 [main] INFO Jombone - Started Logintest
+2021-04-26 13:37:24,402 [main] DEBUG Jombone - Debug logging has started 
+2021-04-26 13:37:29,072 [main] INFO Jombone - Started Logintest
+2021-04-26 13:38:07,119 [main] DEBUG Jombone - Debug logging has started 
+2021-04-26 13:38:12,146 [main] INFO Jombone - Started Logintest
+2021-04-26 13:38:13,376 [main] INFO Jombone - Clicked on Login
+2021-04-26 13:38:16,236 [main] INFO Jombone - Test Passed! Login Successful!
+2021-04-26 13:38:16,236 [main] INFO Jombone - Completed Logintest
+2021-04-27 14:31:12,227 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 14:31:17,722 [main] INFO Jombone - Started Logintest
+2021-04-27 14:31:18,739 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 14:36:52,454 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 14:37:01,562 [main] INFO Jombone - Started Logintest
+2021-04-27 14:48:11,119 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 14:48:16,291 [main] INFO Jombone - Started Logintest
+2021-04-27 14:57:25,245 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 14:57:30,068 [main] INFO Jombone - Started Logintest
+2021-04-27 15:04:19,111 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:04:27,647 [main] INFO Jombone - Started Logintest
+2021-04-27 15:09:41,160 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:09:54,667 [main] INFO Jombone - Started Logintest
+2021-04-27 15:11:36,098 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:11:45,945 [main] INFO Jombone - Started Logintest
+2021-04-27 15:13:23,769 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:13:32,899 [main] INFO Jombone - Started Logintest
+2021-04-27 15:15:04,785 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:15:14,283 [main] INFO Jombone - Started Logintest
+2021-04-27 15:31:45,016 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:31:54,597 [main] INFO Jombone - Started Logintest
+2021-04-27 15:32:00,617 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 15:40:50,179 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:40:59,083 [main] INFO Jombone - Started Logintest
+2021-04-27 15:41:06,633 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 15:42:46,273 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:42:55,310 [main] INFO Jombone - Started Logintest
+2021-04-27 15:43:01,106 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 15:49:06,408 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:49:14,361 [main] INFO Jombone - Started Logintest
+2021-04-27 15:49:21,834 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 15:49:52,238 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:50:00,968 [main] INFO Jombone - Started Logintest
+2021-04-27 15:50:06,842 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 15:59:26,887 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 15:59:35,175 [main] INFO Jombone - Started Logintest
+2021-04-27 15:59:40,949 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 16:01:23,130 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 16:01:34,623 [main] INFO Jombone - Started Logintest
+2021-04-27 16:01:40,413 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 16:03:55,254 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 16:04:02,907 [main] INFO Jombone - Started Logintest
+2021-04-27 16:04:08,572 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 16:05:02,542 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 16:05:11,490 [main] INFO Jombone - Started Logintest
+2021-04-27 16:05:19,059 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 16:20:45,284 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 16:20:53,855 [main] INFO Jombone - Started Logintest
+2021-04-27 16:20:59,708 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 16:42:01,494 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 16:42:10,901 [main] INFO Jombone - Started Logintest
+2021-04-27 16:42:12,408 [main] INFO Jombone - Clicked on Login
+2021-04-27 16:42:16,834 [main] INFO Jombone - Test Passed! Login Successful!
+2021-04-27 16:42:16,835 [main] INFO Jombone - Completed Logintest
+2021-04-27 17:53:22,477 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 17:53:40,794 [main] INFO Jombone - Started Logintest
+2021-04-27 17:53:52,380 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 17:57:00,255 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 17:57:10,144 [main] INFO Jombone - Started Logintest
+2021-04-27 17:57:18,644 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 17:57:23,000 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-04-27 18:01:53,131 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:02:04,445 [main] INFO Jombone - Started Logintest
+2021-04-27 18:02:11,956 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:02:16,206 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-04-27 18:08:27,931 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:08:36,814 [main] INFO Jombone - Started Logintest
+2021-04-27 18:08:42,476 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:11:48,262 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:11:59,275 [main] INFO Jombone - Started Logintest
+2021-04-27 18:12:07,521 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:12:33,281 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:12:42,582 [main] INFO Jombone - Started Logintest
+2021-04-27 18:12:53,471 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:13:21,758 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:13:30,819 [main] INFO Jombone - Started Logintest
+2021-04-27 18:13:38,697 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:20:04,880 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:20:22,000 [main] INFO Jombone - Started Logintest
+2021-04-27 18:20:28,380 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:21:01,000 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:21:15,209 [main] INFO Jombone - Started Logintest
+2021-04-27 18:21:21,268 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-04-27 18:21:51,502 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-04-27 18:23:22,867 [main] DEBUG Jombone - Debug logging has started 
+2021-04-27 18:23:33,163 [main] INFO Jombone - Started Logintest
+2021-04-27 18:23:40,953 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-10 14:29:48,407 [main] DEBUG Jombone - Debug logging has started 
+2021-05-10 14:29:54,174 [main] INFO Jombone - Started Logintest
+2021-05-10 14:29:55,013 [main] INFO Jombone - Clicked on Login
+2021-05-10 14:29:57,792 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-10 14:29:57,794 [main] INFO Jombone - Completed Logintest
+2021-05-10 15:33:01,206 [main] DEBUG Jombone - Debug logging has started 
+2021-05-10 15:33:06,083 [main] INFO Jombone - Started Logintest
+2021-05-10 15:33:07,144 [main] INFO Jombone - Clicked on Login
+2021-05-10 15:33:09,764 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-10 15:33:09,764 [main] INFO Jombone - Completed Logintest
+2021-05-10 16:22:53,269 [main] DEBUG Jombone - Debug logging has started 
+2021-05-10 16:22:57,760 [main] INFO Jombone - Started Logintest
+2021-05-10 16:22:59,265 [main] INFO Jombone - Clicked on Login
+2021-05-10 16:23:02,241 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-10 16:23:02,241 [main] INFO Jombone - Completed Logintest
+2021-05-11 11:46:59,840 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 11:47:04,285 [main] INFO Jombone - Started Logintest
+2021-05-11 11:47:09,312 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 11:47:18,364 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-05-11 11:48:27,762 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 11:48:32,216 [main] INFO Jombone - Started Logintest
+2021-05-11 11:48:37,271 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 11:48:46,498 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-05-11 11:49:50,724 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 11:49:55,075 [main] INFO Jombone - Started Logintest
+2021-05-11 11:50:00,632 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 11:50:09,839 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-05-11 11:58:20,751 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 11:58:25,472 [main] INFO Jombone - Started Logintest
+2021-05-11 11:58:30,808 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 11:59:13,561 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 11:59:18,178 [main] INFO Jombone - Started Logintest
+2021-05-11 11:59:23,425 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 11:59:53,683 [main] INFO Jombone - Test Passed!  Successfully Submitted!
+2021-05-11 11:59:53,683 [main] INFO Jombone - Completed SignUp Submission
+2021-05-11 12:00:10,045 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 12:00:15,273 [main] INFO Jombone - Started Logintest
+2021-05-11 12:00:20,730 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 12:07:38,599 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 12:07:43,083 [main] INFO Jombone - Started Logintest
+2021-05-11 12:07:47,456 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 12:07:54,936 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 12:07:59,539 [main] INFO Jombone - Started Logintest
+2021-05-11 12:08:04,762 [main] INFO Jombone - Clicked on Candidate SignUp
+2021-05-11 12:08:34,435 [main] ERROR Jombone - Test Failed! Submission failed!
+2021-05-11 17:01:37,029 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:01:43,021 [main] INFO Jombone - Started Logintest
+2021-05-11 17:01:44,074 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:01:47,442 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:01:47,443 [main] INFO Jombone - Completed Logintest
+2021-05-11 17:08:13,867 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:08:18,996 [main] INFO Jombone - Started Logintest
+2021-05-11 17:08:20,196 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:08:22,855 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:08:22,856 [main] INFO Jombone - Completed Logintest
+2021-05-11 17:21:09,374 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:21:14,955 [main] INFO Jombone - Started Logintest
+2021-05-11 17:21:16,101 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:21:19,081 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:21:19,081 [main] INFO Jombone - Completed Logintest
+2021-05-11 17:22:30,040 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:23:12,336 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:23:17,477 [main] INFO Jombone - Started Logintest
+2021-05-11 17:23:18,474 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:23:21,824 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:23:21,825 [main] INFO Jombone - Completed Logintest
+2021-05-11 17:24:05,900 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:24:10,989 [main] INFO Jombone - Started Logintest
+2021-05-11 17:24:12,256 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:24:16,160 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:24:16,161 [main] INFO Jombone - Completed Logintest
+2021-05-11 17:26:02,143 [main] DEBUG Jombone - Debug logging has started 
+2021-05-11 17:26:07,349 [main] INFO Jombone - Started Logintest
+2021-05-11 17:26:08,695 [main] INFO Jombone - Clicked on Login
+2021-05-11 17:26:11,919 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-11 17:26:11,920 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:22:01,405 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:22:06,775 [main] INFO Jombone - Started Logintest
+2021-05-12 14:22:07,513 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:22:10,588 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:22:10,588 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:35:33,405 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:35:39,301 [main] INFO Jombone - Started Logintest
+2021-05-12 14:35:40,368 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:35:41,000 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-12 14:36:57,928 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:37:03,669 [main] INFO Jombone - Started Logintest
+2021-05-12 14:37:04,728 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:37:07,676 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:37:07,677 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:38:45,292 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:38:50,654 [main] INFO Jombone - Started Logintest
+2021-05-12 14:38:51,706 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:38:52,611 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-12 14:41:19,028 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:41:23,607 [main] INFO Jombone - Started Logintest
+2021-05-12 14:41:24,849 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:41:28,268 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:41:28,269 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:44:13,012 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:44:18,595 [main] INFO Jombone - Started Logintest
+2021-05-12 14:44:19,603 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:44:20,355 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-12 14:44:48,600 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:44:54,467 [main] INFO Jombone - Started Logintest
+2021-05-12 14:44:55,568 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:44:59,273 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:44:59,275 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:49:57,194 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:50:02,606 [main] INFO Jombone - Started Logintest
+2021-05-12 14:50:03,816 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:50:07,142 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:50:07,142 [main] INFO Jombone - Completed Logintest
+2021-05-12 14:50:21,619 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:50:27,353 [main] INFO Jombone - Started Logintest
+2021-05-12 14:50:28,122 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:50:28,749 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-12 14:50:39,913 [main] DEBUG Jombone - Debug logging has started 
+2021-05-12 14:50:45,911 [main] INFO Jombone - Started Logintest
+2021-05-12 14:50:46,816 [main] INFO Jombone - Clicked on Login
+2021-05-12 14:50:50,579 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-12 14:50:50,579 [main] INFO Jombone - Completed Logintest
+2021-05-14 13:21:20,836 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 13:21:27,784 [main] INFO Jombone - Started Logintest
+2021-05-14 13:21:28,547 [main] INFO Jombone - Clicked on Login
+2021-05-14 13:47:37,043 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 13:47:40,608 [main] INFO Jombone - Started Logintest
+2021-05-14 13:47:42,404 [main] INFO Jombone - Clicked on Login
+2021-05-14 13:53:38,036 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 13:53:42,553 [main] INFO Jombone - Started Logintest
+2021-05-14 13:53:43,822 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:08:35,788 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:08:40,002 [main] INFO Jombone - Started Logintest
+2021-05-14 15:08:40,923 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:08:43,610 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 15:08:43,611 [main] INFO Jombone - Completed Logintest
+2021-05-14 15:10:43,534 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:10:47,856 [main] INFO Jombone - Started Logintest
+2021-05-14 15:10:48,779 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:14:15,244 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:14:19,537 [main] INFO Jombone - Started Logintest
+2021-05-14 15:14:20,415 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:16:00,022 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:16:04,796 [main] INFO Jombone - Started Logintest
+2021-05-14 15:16:05,948 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:16:33,702 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:16:38,076 [main] INFO Jombone - Started Logintest
+2021-05-14 15:16:39,082 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:17:59,635 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:18:04,727 [main] INFO Jombone - Started Logintest
+2021-05-14 15:18:05,540 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:21:24,570 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:21:28,678 [main] INFO Jombone - Started Logintest
+2021-05-14 15:21:29,596 [main] INFO Jombone - Clicked on Login
+2021-05-14 15:54:44,050 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 15:54:48,653 [main] INFO Jombone - Started Logintest
+2021-05-14 15:54:50,136 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:03:47,585 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:03:51,705 [main] INFO Jombone - Started Logintest
+2021-05-14 16:03:53,278 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:16:11,483 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:16:16,011 [main] INFO Jombone - Started Logintest
+2021-05-14 16:16:17,303 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:18:01,549 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:18:05,379 [main] INFO Jombone - Started Logintest
+2021-05-14 16:18:07,085 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:19:10,192 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:19:14,001 [main] INFO Jombone - Started Logintest
+2021-05-14 16:19:15,229 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:19:41,716 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:19:45,698 [main] INFO Jombone - Started Logintest
+2021-05-14 16:19:46,999 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:20:15,597 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:20:19,473 [main] INFO Jombone - Started Logintest
+2021-05-14 16:20:20,718 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:24:25,368 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:24:30,235 [main] INFO Jombone - Started Logintest
+2021-05-14 16:24:31,421 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:24:58,692 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:25:02,618 [main] INFO Jombone - Started Logintest
+2021-05-14 16:25:04,321 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:25:06,939 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 16:25:06,940 [main] INFO Jombone - Completed Logintest
+2021-05-14 16:33:38,446 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:33:42,208 [main] INFO Jombone - Started Logintest
+2021-05-14 16:33:43,217 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:35:08,026 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:35:11,711 [main] INFO Jombone - Started Logintest
+2021-05-14 16:35:12,653 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:38:56,215 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:39:00,430 [main] INFO Jombone - Started Logintest
+2021-05-14 16:39:01,985 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:39:38,502 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:39:42,710 [main] INFO Jombone - Started Logintest
+2021-05-14 16:39:43,868 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:39:48,130 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 16:39:57,159 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:40:00,924 [main] INFO Jombone - Started Logintest
+2021-05-14 16:40:02,133 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:45:53,354 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:45:58,249 [main] INFO Jombone - Started Logintest
+2021-05-14 16:45:59,661 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:46:03,724 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 16:47:37,100 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 16:47:41,194 [main] INFO Jombone - Started Logintest
+2021-05-14 16:47:42,773 [main] INFO Jombone - Clicked on Login
+2021-05-14 16:47:48,423 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 17:03:27,934 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:03:32,326 [main] INFO Jombone - Started Logintest
+2021-05-14 17:03:33,825 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:03:40,285 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 17:05:15,510 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:05:20,129 [main] INFO Jombone - Started Logintest
+2021-05-14 17:05:21,331 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:05:28,558 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 17:09:42,758 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:09:47,584 [main] INFO Jombone - Started Logintest
+2021-05-14 17:09:49,117 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:10:05,774 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-14 17:17:39,706 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:17:43,601 [main] INFO Jombone - Started Logintest
+2021-05-14 17:17:45,004 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:18:01,830 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 17:18:01,830 [main] INFO Jombone - Completed Logintest
+2021-05-14 17:22:54,053 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:22:58,510 [main] INFO Jombone - Started Logintest
+2021-05-14 17:22:59,751 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:23:16,181 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 17:23:16,182 [main] INFO Jombone - Completed Logintest
+2021-05-14 17:25:12,023 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:25:16,399 [main] INFO Jombone - Started Logintest
+2021-05-14 17:25:17,611 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:25:33,602 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 17:25:33,603 [main] INFO Jombone - Completed Logintest
+2021-05-14 17:27:53,453 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:27:57,065 [main] INFO Jombone - Started Logintest
+2021-05-14 17:27:58,435 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:28:14,889 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 17:28:14,890 [main] INFO Jombone - Completed Logintest
+2021-05-14 17:31:35,262 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:31:39,746 [main] INFO Jombone - Started Logintest
+2021-05-14 17:31:41,222 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:31:58,508 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-14 17:31:58,508 [main] INFO Jombone - Completed Logintest
+2021-05-14 17:32:53,210 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:32:57,180 [main] INFO Jombone - Started Logintest
+2021-05-14 17:32:58,705 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:33:09,522 [main] DEBUG Jombone - Debug logging has started 
+2021-05-14 17:33:14,133 [main] INFO Jombone - Started Logintest
+2021-05-14 17:33:15,827 [main] INFO Jombone - Clicked on Login
+2021-05-14 17:33:32,558 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-17 11:07:58,254 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:08:02,156 [main] INFO Jombone - Started Logintest
+2021-05-17 11:08:02,953 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:10:00,003 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:10:03,668 [main] INFO Jombone - Started Logintest
+2021-05-17 11:10:04,518 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:10:56,151 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:10:59,951 [main] INFO Jombone - Started Logintest
+2021-05-17 11:11:01,295 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:11:21,060 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-17 11:15:54,884 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:15:59,147 [main] INFO Jombone - Started Logintest
+2021-05-17 11:16:00,339 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:16:18,646 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-17 11:17:20,427 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:17:24,666 [main] INFO Jombone - Started Logintest
+2021-05-17 11:17:25,959 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:17:43,571 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 11:17:43,572 [main] INFO Jombone - Completed Logintest
+2021-05-17 11:51:24,622 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:51:28,372 [main] INFO Jombone - Started Logintest
+2021-05-17 11:51:29,731 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:51:48,697 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 11:51:48,697 [main] INFO Jombone - Completed Logintest
+2021-05-17 11:53:03,313 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 11:53:07,458 [main] INFO Jombone - Started Logintest
+2021-05-17 11:53:08,866 [main] INFO Jombone - Clicked on Login
+2021-05-17 11:53:11,598 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 11:53:11,598 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:06:40,250 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:06:44,331 [main] INFO Jombone - Started Logintest
+2021-05-17 15:06:45,412 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:07:03,911 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:07:03,912 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:10:46,338 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:10:50,178 [main] INFO Jombone - Started Logintest
+2021-05-17 15:10:51,280 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:42:16,465 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:42:20,650 [main] INFO Jombone - Started Logintest
+2021-05-17 15:42:21,468 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:42:39,794 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:42:39,795 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:43:14,653 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:43:18,945 [main] INFO Jombone - Started Logintest
+2021-05-17 15:43:19,788 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:43:22,735 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:43:22,736 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:43:30,588 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:43:35,915 [main] INFO Jombone - Started Logintest
+2021-05-17 15:43:36,673 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:43:37,275 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-17 15:43:56,262 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:44:03,274 [main] INFO Jombone - Started Logintest
+2021-05-17 15:44:04,659 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:44:07,232 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:44:07,232 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:44:13,555 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:44:17,902 [main] INFO Jombone - Started Logintest
+2021-05-17 15:44:19,034 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:44:22,527 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:44:22,528 [main] INFO Jombone - Completed Logintest
+2021-05-17 15:44:31,387 [main] DEBUG Jombone - Debug logging has started 
+2021-05-17 15:44:36,689 [main] INFO Jombone - Started Logintest
+2021-05-17 15:44:38,351 [main] INFO Jombone - Clicked on Login
+2021-05-17 15:44:41,402 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-17 15:44:41,402 [main] INFO Jombone - Completed Logintest
+2021-05-18 11:18:32,776 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:18:37,316 [main] INFO Jombone - Started Logintest
+2021-05-18 11:18:38,420 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:26:03,287 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:26:09,396 [main] INFO Jombone - Started Logintest
+2021-05-18 11:26:10,254 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:27:33,377 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:27:37,604 [main] INFO Jombone - Started Logintest
+2021-05-18 11:27:38,499 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:27:58,336 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:28:02,732 [main] INFO Jombone - Started Logintest
+2021-05-18 11:28:03,840 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:28:25,372 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:28:30,307 [main] INFO Jombone - Started Logintest
+2021-05-18 11:28:31,129 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:56:07,263 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:56:11,723 [main] INFO Jombone - Started Logintest
+2021-05-18 11:56:12,659 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:59:02,088 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:59:06,562 [main] INFO Jombone - Started Logintest
+2021-05-18 11:59:07,606 [main] INFO Jombone - Clicked on Login
+2021-05-18 11:59:48,707 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 11:59:53,035 [main] INFO Jombone - Started Logintest
+2021-05-18 11:59:53,955 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:01:05,328 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:01:10,873 [main] INFO Jombone - Started Logintest
+2021-05-18 12:01:12,591 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:05:03,530 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:05:08,367 [main] INFO Jombone - Started Logintest
+2021-05-18 12:05:09,662 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:05:41,982 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:05:46,993 [main] INFO Jombone - Started Logintest
+2021-05-18 12:05:47,877 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:06:58,490 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:07:03,530 [main] INFO Jombone - Started Logintest
+2021-05-18 12:07:06,742 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:07:33,933 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:07:38,039 [main] INFO Jombone - Started Logintest
+2021-05-18 12:07:39,173 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:14:48,334 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:14:53,795 [main] INFO Jombone - Started Logintest
+2021-05-18 12:14:54,912 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:15:37,172 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:15:41,923 [main] INFO Jombone - Started Logintest
+2021-05-18 12:15:43,355 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:16:53,621 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:16:58,261 [main] INFO Jombone - Started Logintest
+2021-05-18 12:16:59,245 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:23:24,144 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:23:28,886 [main] INFO Jombone - Started Logintest
+2021-05-18 12:23:30,053 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:24:06,213 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:24:10,829 [main] INFO Jombone - Started Logintest
+2021-05-18 12:24:13,657 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:25:48,948 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:25:53,467 [main] INFO Jombone - Started Logintest
+2021-05-18 12:25:54,690 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:27:07,544 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:27:12,081 [main] INFO Jombone - Started Logintest
+2021-05-18 12:27:13,222 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:28:13,275 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:28:17,298 [main] INFO Jombone - Started Logintest
+2021-05-18 12:28:18,391 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:29:20,803 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:29:25,616 [main] INFO Jombone - Started Logintest
+2021-05-18 12:29:27,099 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:30:24,982 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:30:29,257 [main] INFO Jombone - Started Logintest
+2021-05-18 12:30:30,538 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:31:32,516 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:31:38,121 [main] INFO Jombone - Started Logintest
+2021-05-18 12:31:39,379 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:35:40,630 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:35:45,091 [main] INFO Jombone - Started Logintest
+2021-05-18 12:35:47,505 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:36:47,684 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:36:52,353 [main] INFO Jombone - Started Logintest
+2021-05-18 12:36:53,593 [main] INFO Jombone - Clicked on Login
+2021-05-18 12:45:13,541 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 12:45:18,094 [main] INFO Jombone - Started Logintest
+2021-05-18 12:45:19,062 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:07:03,082 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:07:07,475 [main] INFO Jombone - Started Logintest
+2021-05-18 14:07:08,674 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:09:38,625 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:09:43,417 [main] INFO Jombone - Started Logintest
+2021-05-18 14:09:44,121 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:43:18,406 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:43:23,000 [main] INFO Jombone - Started Logintest
+2021-05-18 14:43:24,108 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:44:03,194 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:44:07,776 [main] INFO Jombone - Started Logintest
+2021-05-18 14:44:08,784 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:45:01,612 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:45:06,207 [main] INFO Jombone - Started Logintest
+2021-05-18 14:45:06,955 [main] INFO Jombone - Clicked on Login
+2021-05-18 14:49:03,351 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 14:49:07,871 [main] INFO Jombone - Started Logintest
+2021-05-18 14:49:08,962 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:05:31,378 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:05:36,054 [main] INFO Jombone - Started Logintest
+2021-05-18 15:05:36,940 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:07:33,806 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:07:38,703 [main] INFO Jombone - Started Logintest
+2021-05-18 15:07:39,831 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:08:49,903 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:08:54,683 [main] INFO Jombone - Started Logintest
+2021-05-18 15:08:55,675 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:14:13,567 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:14:18,588 [main] INFO Jombone - Started Logintest
+2021-05-18 15:14:19,592 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:16:19,250 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:16:24,025 [main] INFO Jombone - Started Logintest
+2021-05-18 15:16:24,927 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:22:54,941 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:22:59,866 [main] INFO Jombone - Started Logintest
+2021-05-18 15:23:00,856 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:25:22,735 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:25:27,331 [main] INFO Jombone - Started Logintest
+2021-05-18 15:25:28,474 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:36:45,578 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:36:51,303 [main] INFO Jombone - Started Logintest
+2021-05-18 15:36:52,430 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:41:20,044 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:41:24,531 [main] INFO Jombone - Started Logintest
+2021-05-18 15:41:25,871 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:43:44,718 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:43:49,531 [main] INFO Jombone - Started Logintest
+2021-05-18 15:43:50,650 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:46:06,434 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:46:11,280 [main] INFO Jombone - Started Logintest
+2021-05-18 15:46:12,688 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:46:38,236 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:46:42,680 [main] INFO Jombone - Started Logintest
+2021-05-18 15:46:43,964 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:48:04,863 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:48:09,223 [main] INFO Jombone - Started Logintest
+2021-05-18 15:48:10,492 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:48:26,973 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-18 15:48:26,973 [main] INFO Jombone - Completed Logintest
+2021-05-18 15:49:17,095 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:49:21,575 [main] INFO Jombone - Started Logintest
+2021-05-18 15:49:22,763 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:49:39,586 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-18 15:49:39,586 [main] INFO Jombone - Completed Logintest
+2021-05-18 15:51:07,310 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:51:11,985 [main] INFO Jombone - Started Logintest
+2021-05-18 15:51:13,294 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:52:32,079 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:52:36,791 [main] INFO Jombone - Started Logintest
+2021-05-18 15:52:37,880 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:52:43,916 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-18 15:52:43,916 [main] INFO Jombone - Completed Logintest
+2021-05-18 15:53:42,694 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 15:53:47,178 [main] INFO Jombone - Started Logintest
+2021-05-18 15:53:48,468 [main] INFO Jombone - Clicked on Login
+2021-05-18 15:53:53,958 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-18 15:53:53,958 [main] INFO Jombone - Completed Logintest
+2021-05-18 16:04:33,870 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:04:38,203 [main] INFO Jombone - Started Logintest
+2021-05-18 16:04:39,359 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:06:29,688 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:06:34,711 [main] INFO Jombone - Started Logintest
+2021-05-18 16:06:35,927 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:08:58,893 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:09:03,575 [main] INFO Jombone - Started Logintest
+2021-05-18 16:09:04,768 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:12:54,226 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:12:58,464 [main] INFO Jombone - Started Logintest
+2021-05-18 16:12:59,947 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:17:33,283 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:17:38,197 [main] INFO Jombone - Started Logintest
+2021-05-18 16:17:39,213 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:22:22,193 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:22:26,874 [main] INFO Jombone - Started Logintest
+2021-05-18 16:22:28,110 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:25:29,802 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:25:33,832 [main] INFO Jombone - Started Logintest
+2021-05-18 16:25:36,634 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:27:12,500 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:27:17,251 [main] INFO Jombone - Started Logintest
+2021-05-18 16:27:18,569 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:41:22,381 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:41:27,938 [main] INFO Jombone - Started Logintest
+2021-05-18 16:41:29,167 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:42:30,632 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:42:35,252 [main] INFO Jombone - Started Logintest
+2021-05-18 16:42:36,430 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:43:25,279 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:43:29,849 [main] INFO Jombone - Started Logintest
+2021-05-18 16:43:31,005 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:48:28,497 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:48:33,080 [main] INFO Jombone - Started Logintest
+2021-05-18 16:48:34,135 [main] INFO Jombone - Clicked on Login
+2021-05-18 16:53:53,889 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 16:53:58,197 [main] INFO Jombone - Started Logintest
+2021-05-18 16:53:59,572 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:16:30,685 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:16:35,267 [main] INFO Jombone - Started Logintest
+2021-05-18 17:16:36,625 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:16:46,191 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:17:55,231 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:17:59,489 [main] INFO Jombone - Started Logintest
+2021-05-18 17:18:00,901 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:18:10,653 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:19:55,507 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:20:00,356 [main] INFO Jombone - Started Logintest
+2021-05-18 17:20:04,033 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:20:17,124 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:26:22,982 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:26:27,771 [main] INFO Jombone - Started Logintest
+2021-05-18 17:26:29,080 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:26:39,288 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:35:28,225 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:35:32,863 [main] INFO Jombone - Started Logintest
+2021-05-18 17:35:34,304 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:35:44,962 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:36:21,149 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:36:26,015 [main] INFO Jombone - Started Logintest
+2021-05-18 17:36:27,524 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:36:42,021 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-18 17:37:31,720 [main] DEBUG Jombone - Debug logging has started 
+2021-05-18 17:37:36,069 [main] INFO Jombone - Started Logintest
+2021-05-18 17:37:37,238 [main] INFO Jombone - Clicked on Login
+2021-05-18 17:37:46,648 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-19 16:53:06,003 [main] DEBUG Jombone - Debug logging has started 
+2021-05-19 16:53:13,163 [main] INFO Jombone - Started Logintest
+2021-05-19 16:53:14,550 [main] INFO Jombone - Clicked on Login
+2021-05-19 16:54:41,489 [main] DEBUG Jombone - Debug logging has started 
+2021-05-19 16:54:45,860 [main] INFO Jombone - Started Logintest
+2021-05-19 16:54:46,872 [main] INFO Jombone - Clicked on Login
+2021-05-19 16:54:57,037 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-19 16:57:55,828 [main] DEBUG Jombone - Debug logging has started 
+2021-05-19 16:58:00,571 [main] INFO Jombone - Started Logintest
+2021-05-19 16:58:01,621 [main] INFO Jombone - Clicked on Login
+2021-05-19 16:58:10,647 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-19 16:59:01,452 [main] DEBUG Jombone - Debug logging has started 
+2021-05-19 16:59:05,997 [main] INFO Jombone - Started Logintest
+2021-05-19 16:59:07,423 [main] INFO Jombone - Clicked on Login
+2021-05-19 16:59:27,704 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-19 16:59:27,704 [main] INFO Jombone - Completed Logintest
+2021-05-20 12:28:34,629 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 12:28:39,183 [main] INFO Jombone - Started Logintest
+2021-05-20 12:28:40,526 [main] INFO Jombone - Clicked on Login
+2021-05-20 12:29:43,638 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 12:29:48,113 [main] INFO Jombone - Started Logintest
+2021-05-20 12:29:48,913 [main] INFO Jombone - Clicked on Login
+2021-05-20 12:32:30,971 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 12:32:35,934 [main] INFO Jombone - Started Logintest
+2021-05-20 12:32:36,933 [main] INFO Jombone - Clicked on Login
+2021-05-20 12:32:47,983 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 12:32:47,983 [main] INFO Jombone - Completed Logintest
+2021-05-20 12:35:46,598 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 12:35:51,561 [main] INFO Jombone - Started Logintest
+2021-05-20 12:35:52,923 [main] INFO Jombone - Clicked on Login
+2021-05-20 12:36:05,359 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 12:36:05,359 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:08:22,423 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:08:27,048 [main] INFO Jombone - Started Logintest
+2021-05-20 15:08:27,919 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:08:35,277 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:08:35,277 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:13:36,429 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:13:41,083 [main] INFO Jombone - Started Logintest
+2021-05-20 15:13:41,915 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:13:54,173 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:13:54,174 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:23:35,351 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:23:39,669 [main] INFO Jombone - Started Logintest
+2021-05-20 15:23:40,698 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:24:59,841 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:25:04,772 [main] INFO Jombone - Started Logintest
+2021-05-20 15:25:05,938 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:25:16,733 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:25:16,733 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:37:19,045 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:37:23,259 [main] INFO Jombone - Started Logintest
+2021-05-20 15:37:23,986 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:38:51,166 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:38:55,590 [main] INFO Jombone - Started Logintest
+2021-05-20 15:38:56,641 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:39:10,286 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:39:10,286 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:40:29,422 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:40:33,610 [main] INFO Jombone - Started Logintest
+2021-05-20 15:40:34,805 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:40:49,377 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:40:49,378 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:41:04,629 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:41:09,134 [main] INFO Jombone - Started Logintest
+2021-05-20 15:41:10,391 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:41:23,332 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:41:23,332 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:41:59,929 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:42:04,338 [main] INFO Jombone - Started Logintest
+2021-05-20 15:42:05,088 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:42:18,181 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:42:18,181 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:45:56,678 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:46:01,332 [main] INFO Jombone - Started Logintest
+2021-05-20 15:46:02,432 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:46:15,522 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:46:15,523 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:46:51,071 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:46:55,729 [main] INFO Jombone - Started Logintest
+2021-05-20 15:46:56,997 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:47:10,063 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:47:10,064 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:51:57,740 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:52:02,704 [main] INFO Jombone - Started Logintest
+2021-05-20 15:52:03,954 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:52:17,419 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:52:17,420 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:54:30,028 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:54:34,796 [main] INFO Jombone - Started Logintest
+2021-05-20 15:54:35,877 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:54:48,814 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:54:48,815 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:57:14,176 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:57:18,787 [main] INFO Jombone - Started Logintest
+2021-05-20 15:57:19,913 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:57:31,997 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:57:31,998 [main] INFO Jombone - Completed Logintest
+2021-05-20 15:58:20,112 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 15:58:25,407 [main] INFO Jombone - Started Logintest
+2021-05-20 15:58:26,774 [main] INFO Jombone - Clicked on Login
+2021-05-20 15:58:37,838 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 15:58:37,838 [main] INFO Jombone - Completed Logintest
+2021-05-20 16:03:41,621 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 16:03:46,363 [main] INFO Jombone - Started Logintest
+2021-05-20 16:03:47,676 [main] INFO Jombone - Clicked on Login
+2021-05-20 16:03:57,810 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 16:03:57,811 [main] INFO Jombone - Completed Logintest
+2021-05-20 16:08:07,440 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 16:08:12,118 [main] INFO Jombone - Started Logintest
+2021-05-20 16:08:13,497 [main] INFO Jombone - Clicked on Login
+2021-05-20 16:08:28,472 [main] INFO Jombone - Test Passed! EditCandidateTeaser Successful!
+2021-05-20 16:08:28,473 [main] INFO Jombone - Completed EditCandidateTeaser
+2021-05-20 16:12:33,174 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 16:12:38,111 [main] INFO Jombone - Started Logintest
+2021-05-20 16:12:39,304 [main] INFO Jombone - Clicked on Login
+2021-05-20 16:12:49,884 [main] INFO Jombone - Test Passed! EditCandidateTeaser Successful!
+2021-05-20 16:12:49,885 [main] INFO Jombone - Completed EditCandidateTeaser
+2021-05-20 17:14:07,343 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:18:22,484 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:18:28,338 [main] INFO Jombone - Started Logintest
+2021-05-20 17:18:30,692 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:18:34,496 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 17:18:34,497 [main] INFO Jombone - Completed Logintest
+2021-05-20 17:23:09,894 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:23:34,856 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:27:15,702 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:27:21,360 [main] INFO Jombone - Started Logintest
+2021-05-20 17:27:22,716 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:27:25,851 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-20 17:27:25,853 [main] INFO Jombone - Completed Logintest
+2021-05-20 17:43:42,518 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:43:48,637 [main] INFO Jombone - Started Logintest
+2021-05-20 17:43:49,607 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:47:51,894 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:47:56,441 [main] INFO Jombone - Started Logintest
+2021-05-20 17:47:57,542 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:49:23,654 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:49:28,624 [main] INFO Jombone - Started Logintest
+2021-05-20 17:49:29,739 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:50:50,059 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:50:54,657 [main] INFO Jombone - Started Logintest
+2021-05-20 17:50:57,142 [main] INFO Jombone - Clicked on Login
+2021-05-20 17:57:36,468 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 17:57:41,083 [main] INFO Jombone - Started Logintest
+2021-05-20 17:57:42,026 [main] INFO Jombone - Clicked on Login
+2021-05-20 18:00:45,537 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 18:00:50,093 [main] INFO Jombone - Started Logintest
+2021-05-20 18:00:51,158 [main] INFO Jombone - Clicked on Login
+2021-05-20 18:01:04,619 [main] ERROR Jombone - Test Failed! EditCandidateTeaser failed!
+2021-05-20 18:01:24,323 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 18:01:29,235 [main] INFO Jombone - Started Logintest
+2021-05-20 18:01:29,960 [main] INFO Jombone - Clicked on Login
+2021-05-20 18:01:42,367 [main] ERROR Jombone - Test Failed! EditCandidateTeaser failed!
+2021-05-20 18:03:15,942 [main] DEBUG Jombone - Debug logging has started 
+2021-05-20 18:03:22,316 [main] INFO Jombone - Started Logintest
+2021-05-20 18:03:23,384 [main] INFO Jombone - Clicked on Login
+2021-05-20 18:03:36,898 [main] INFO Jombone - Test Passed! EditCandidateTeaser Successful!
+2021-05-20 18:03:36,899 [main] INFO Jombone - Completed EditCandidateTeaser
+2021-05-21 13:54:58,910 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 13:55:05,149 [main] INFO Jombone - Started Logintest
+2021-05-21 13:55:06,021 [main] INFO Jombone - Clicked on Login
+2021-05-21 13:55:12,418 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-21 13:55:56,898 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 13:57:50,049 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 13:57:55,689 [main] INFO Jombone - Started Logintest
+2021-05-21 13:57:56,735 [main] INFO Jombone - Clicked on Login
+2021-05-21 13:58:02,640 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-21 14:00:27,320 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 14:00:32,866 [main] INFO Jombone - Started Logintest
+2021-05-21 14:00:34,169 [main] INFO Jombone - Clicked on Login
+2021-05-21 14:00:40,100 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-21 14:00:40,100 [main] INFO Jombone - Completed Logintest
+2021-05-21 15:54:12,964 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 15:54:19,392 [main] INFO Jombone - Started Logintest
+2021-05-21 15:54:20,559 [main] INFO Jombone - Clicked on Login
+2021-05-21 15:54:24,875 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-21 15:55:55,617 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 15:56:01,692 [main] INFO Jombone - Started Logintest
+2021-05-21 15:56:02,705 [main] INFO Jombone - Clicked on Login
+2021-05-21 15:56:05,976 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-21 15:57:46,973 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 15:57:54,040 [main] INFO Jombone - Started Logintest
+2021-05-21 15:57:55,337 [main] INFO Jombone - Clicked on Login
+2021-05-21 15:57:58,577 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-21 15:58:01,771 [main] INFO Jombone - Test Passed! FindJob Successful!
+2021-05-21 15:58:01,772 [main] INFO Jombone - Completed FindJobtest
+2021-05-21 16:38:41,907 [main] DEBUG Jombone - Debug logging has started 
+2021-05-21 16:38:46,868 [main] INFO Jombone - Started Logintest
+2021-05-21 16:38:50,450 [main] INFO Jombone - Test Passed! lpFindJobs Successful!
+2021-05-21 16:38:50,450 [main] INFO Jombone - Completed lpFindJobs
+2021-05-25 14:12:50,643 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:12:56,617 [main] INFO Jombone - Started Logintest
+2021-05-25 14:12:59,354 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:14:04,998 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:14:05,860 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:14:11,733 [main] INFO Jombone - Started Logintest
+2021-05-25 14:14:12,684 [main] INFO Jombone - Started Logintest
+2021-05-25 14:14:12,809 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:14:14,045 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:15:40,178 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:19:39,423 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:20:08,794 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:20:14,767 [main] INFO Jombone - Started Logintest
+2021-05-25 14:20:15,653 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:21:47,455 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:21:55,760 [main] INFO Jombone - Started Logintest
+2021-05-25 14:21:56,981 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:21:59,946 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-25 14:21:59,947 [main] INFO Jombone - Completed Logintest
+2021-05-25 14:23:17,665 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:23:22,996 [main] INFO Jombone - Started Logintest
+2021-05-25 14:23:25,202 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:39:18,654 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:39:24,540 [main] INFO Jombone - Started Logintest
+2021-05-25 14:39:25,758 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:39:26,257 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-25 14:50:33,166 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:50:39,152 [main] INFO Jombone - Started Logintest
+2021-05-25 14:50:41,149 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:50:41,655 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-25 14:51:31,332 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:51:37,173 [main] INFO Jombone - Started Logintest
+2021-05-25 14:51:38,128 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:51:39,621 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-25 14:53:07,284 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:53:14,342 [main] INFO Jombone - Started Logintest
+2021-05-25 14:53:15,176 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:53:16,706 [main] ERROR Jombone - Test Failed! Login failed!
+2021-05-25 14:53:57,497 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 14:54:03,068 [main] INFO Jombone - Started Logintest
+2021-05-25 14:54:03,860 [main] INFO Jombone - Clicked on Login
+2021-05-25 14:54:05,365 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-25 14:54:05,366 [main] INFO Jombone - Completed Logintest
+2021-05-25 15:21:25,322 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:21:31,169 [main] INFO Jombone - Started Logintest
+2021-05-25 15:21:33,640 [main] INFO Jombone - Clicked on Login
+2021-05-25 15:30:29,699 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:30:35,161 [main] INFO Jombone - Started Logintest
+2021-05-25 15:30:36,412 [main] INFO Jombone - Clicked on Login
+2021-05-25 15:30:36,936 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-25 15:30:36,936 [main] INFO Jombone - Completed Logintest
+2021-05-25 15:33:51,345 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:33:57,355 [main] INFO Jombone - Started Logintest
+2021-05-25 15:33:58,252 [main] INFO Jombone - Clicked on Login
+2021-05-25 15:33:58,757 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-25 15:33:58,757 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-25 15:34:26,001 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:34:31,575 [main] INFO Jombone - Started Logintest
+2021-05-25 15:34:32,942 [main] INFO Jombone - Clicked on Login
+2021-05-25 15:34:33,447 [main] INFO Jombone - Test Passed! InvalidEmailIdLogintest Successful!
+2021-05-25 15:34:33,449 [main] INFO Jombone - Completed InvalidEmailIdLogintest
+2021-05-25 15:52:31,461 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:52:34,248 [main] INFO Jombone - Started Logintest
+2021-05-25 15:53:49,595 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 15:53:56,231 [main] INFO Jombone - Started Logintest
+2021-05-25 15:53:59,631 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:04:27,712 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:04:33,358 [main] INFO Jombone - Started Logintest
+2021-05-25 16:04:34,455 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:04:35,168 [main] ERROR Jombone - Test Failed! InvalidpwdLogintest failed!
+2021-05-25 16:05:58,673 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:06:04,556 [main] INFO Jombone - Started Logintest
+2021-05-25 16:06:05,343 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:06:06,070 [main] ERROR Jombone - Test Failed! InvalidpwdLogintest failed!
+2021-05-25 16:06:45,896 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:06:51,827 [main] INFO Jombone - Started Logintest
+2021-05-25 16:06:53,059 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:06:53,812 [main] ERROR Jombone - Test Failed! InvalidpwdLogintest failed!
+2021-05-25 16:07:23,372 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:07:29,163 [main] INFO Jombone - Started Logintest
+2021-05-25 16:07:30,042 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:07:30,794 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-25 16:07:30,795 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-25 16:48:33,669 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:48:40,891 [main] INFO Jombone - Started Logintest
+2021-05-25 16:48:41,975 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:48:42,460 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-25 16:48:42,461 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-25 16:48:43,135 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 16:48:47,155 [main] INFO Jombone - Started Logintest
+2021-05-25 16:48:48,178 [main] INFO Jombone - Clicked on Login
+2021-05-25 16:48:48,518 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-25 16:48:48,519 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-25 17:06:20,454 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:06:27,476 [main] INFO Jombone - Started Logintest
+2021-05-25 17:06:28,563 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:06:29,053 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-25 17:06:29,054 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-25 17:06:51,169 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:06:56,831 [main] INFO Jombone - Started Logintest
+2021-05-25 17:06:57,955 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:06:58,699 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-25 17:06:58,700 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-25 17:06:59,908 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:07:04,035 [main] INFO Jombone - Started Logintest
+2021-05-25 17:07:05,061 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:07:05,395 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-25 17:07:05,395 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-25 17:07:06,048 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:07:11,216 [main] INFO Jombone - Started Logintest
+2021-05-25 17:07:12,303 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:07:12,643 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-25 17:07:12,643 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-25 17:14:41,184 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:14:46,631 [main] INFO Jombone - Started Logintest
+2021-05-25 17:14:47,691 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:14:48,433 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-25 17:14:48,434 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-25 17:14:49,121 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:14:53,072 [main] INFO Jombone - Started Logintest
+2021-05-25 17:14:53,808 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:14:54,164 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-25 17:14:54,164 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-25 17:14:54,847 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:14:59,995 [main] INFO Jombone - Started Logintest
+2021-05-25 17:15:00,750 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:15:01,256 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-25 17:15:01,256 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-25 17:16:26,752 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:16:32,938 [main] INFO Jombone - Started Logintest
+2021-05-25 17:16:34,506 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:16:35,300 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-25 17:16:35,301 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-25 17:16:35,987 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:16:40,006 [main] INFO Jombone - Started Logintest
+2021-05-25 17:16:40,996 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:16:41,321 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-25 17:16:41,321 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-25 17:16:41,954 [main] DEBUG Jombone - Debug logging has started 
+2021-05-25 17:16:45,519 [main] INFO Jombone - Started Logintest
+2021-05-25 17:16:46,632 [main] INFO Jombone - Clicked on Login
+2021-05-25 17:16:46,993 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-25 17:16:46,994 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-26 11:50:50,623 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 11:50:57,798 [main] INFO Jombone - Started Logintest
+2021-05-26 11:50:58,969 [main] INFO Jombone - Clicked on Login
+2021-05-26 11:50:59,734 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-26 11:50:59,734 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-26 11:51:01,168 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 11:51:05,292 [main] INFO Jombone - Started Logintest
+2021-05-26 11:51:06,044 [main] INFO Jombone - Clicked on Login
+2021-05-26 11:51:06,703 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 11:51:10,215 [main] INFO Jombone - Started Logintest
+2021-05-26 11:51:13,167 [main] INFO Jombone - Clicked on Login
+2021-05-26 11:51:13,475 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-26 11:51:13,475 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-26 12:07:52,443 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 12:07:57,649 [main] INFO Jombone - Started Logintest
+2021-05-26 12:11:03,368 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 12:11:08,791 [main] INFO Jombone - Started Logintest
+2021-05-26 12:11:09,693 [main] INFO Jombone - Clicked on Login
+2021-05-26 12:11:10,199 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-26 12:11:10,199 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-26 12:28:53,233 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 12:28:58,991 [main] INFO Jombone - Started Logintest
+2021-05-26 12:30:55,394 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 12:31:00,328 [main] INFO Jombone - Started Logintest
+2021-05-26 13:42:46,581 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 13:42:52,129 [main] INFO Jombone - Started Logintest
+2021-05-26 14:57:48,282 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 14:57:54,519 [main] INFO Jombone - Started Logintest
+2021-05-26 14:57:55,833 [main] INFO Jombone - Clicked on Login
+2021-05-26 14:57:56,156 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 14:57:56,435 [main] INFO Jombone - Clicked on Submit
+2021-05-26 14:57:56,477 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 14:57:56,477 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 15:01:44,390 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 15:01:49,170 [main] INFO Jombone - Started Logintest
+2021-05-26 15:01:52,019 [main] INFO Jombone - Clicked on Login
+2021-05-26 15:01:52,327 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 15:01:52,596 [main] INFO Jombone - Clicked on Submit
+2021-05-26 15:01:52,636 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 15:01:52,637 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 16:26:31,147 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 16:26:36,783 [main] INFO Jombone - Started Logintest
+2021-05-26 16:26:38,049 [main] INFO Jombone - Clicked on Login
+2021-05-26 16:31:08,523 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 16:31:14,152 [main] INFO Jombone - Started Logintest
+2021-05-26 16:31:15,417 [main] INFO Jombone - Clicked on Login
+2021-05-26 16:33:57,923 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 16:34:04,126 [main] INFO Jombone - Started Logintest
+2021-05-26 16:34:05,353 [main] INFO Jombone - Clicked on Login
+2021-05-26 16:35:38,239 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 16:35:43,238 [main] INFO Jombone - Started Logintest
+2021-05-26 16:35:44,218 [main] INFO Jombone - Clicked on Login
+2021-05-26 16:53:26,952 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 16:53:32,200 [main] INFO Jombone - Started Logintest
+2021-05-26 16:53:33,380 [main] INFO Jombone - Clicked on Login
+2021-05-26 16:53:35,225 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 16:53:35,312 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 16:53:35,390 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 16:53:35,391 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-26 17:00:52,025 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:00:57,067 [main] INFO Jombone - Started Logintest
+2021-05-26 17:00:58,389 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:00:58,688 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:01:00,695 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:01:00,735 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-26 17:01:00,736 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-26 17:13:20,945 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:13:25,642 [main] INFO Jombone - Started Logintest
+2021-05-26 17:13:26,786 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:13:26,992 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:13:26,992 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:14:01,982 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:14:06,849 [main] INFO Jombone - Started Logintest
+2021-05-26 17:14:08,008 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:14:09,194 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:14:09,194 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:21:51,843 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:21:56,784 [main] INFO Jombone - Started Logintest
+2021-05-26 17:21:59,602 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:21:59,923 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:22:00,225 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:22:00,272 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 17:22:00,272 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 17:22:00,936 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:04,413 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:07,167 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:07,811 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-26 17:22:07,812 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-26 17:22:08,488 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:13,893 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:15,211 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:15,559 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-26 17:22:15,560 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-26 17:22:16,219 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:20,310 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:21,821 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:22,166 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-26 17:22:22,166 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-26 17:22:22,829 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:27,249 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:28,386 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:28,555 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:22:28,556 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:22:29,896 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:33,945 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:34,955 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:35,384 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-26 17:22:35,436 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:22:35,504 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:22:35,550 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:22:35,550 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-26 17:22:36,202 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:22:40,151 [main] INFO Jombone - Started Logintest
+2021-05-26 17:22:41,411 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:22:41,600 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:22:41,868 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:22:41,911 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-26 17:22:41,911 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-26 17:28:54,311 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:00,911 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:02,225 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:02,952 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-26 17:29:02,953 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-26 17:29:03,623 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:08,100 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:09,125 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:09,337 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:29:09,586 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:29:09,621 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 17:29:09,621 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 17:29:10,268 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:14,425 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:15,669 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:15,861 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:29:16,097 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:29:16,133 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-26 17:29:16,133 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-26 17:29:16,788 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:20,993 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:22,171 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:22,602 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-26 17:29:22,735 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:29:22,784 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:29:22,833 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:29:22,833 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-26 17:29:23,498 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:28,188 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:29,079 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:29,230 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:29:29,231 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:29:29,886 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:34,193 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:35,489 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:35,884 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-26 17:29:35,884 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-26 17:29:36,545 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:29:41,305 [main] INFO Jombone - Started Logintest
+2021-05-26 17:29:42,142 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:29:42,468 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-26 17:29:42,469 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-26 17:35:05,623 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:11,053 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:14,269 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:15,036 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-26 17:35:15,037 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-26 17:35:15,728 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:19,561 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:22,489 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:22,728 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:35:22,991 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:35:23,032 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 17:35:23,033 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 17:35:23,700 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:27,721 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:28,815 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:29,034 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:35:29,170 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:35:29,898 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:33,570 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:34,788 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:35,264 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-26 17:35:35,331 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:35:35,379 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:35:35,427 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:35:35,427 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-26 17:35:36,106 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:41,698 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:42,756 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:42,928 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:35:42,929 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:35:43,581 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:47,521 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:48,754 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:49,131 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-26 17:35:49,132 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-26 17:35:49,806 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:35:53,893 [main] INFO Jombone - Started Logintest
+2021-05-26 17:35:54,840 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:35:55,233 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-26 17:35:55,235 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-26 17:42:51,526 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:42:57,306 [main] INFO Jombone - Started Logintest
+2021-05-26 17:42:58,486 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:42:59,257 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-26 17:42:59,257 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-26 17:42:59,956 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:04,279 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:05,355 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:05,595 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:43:05,863 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:43:05,900 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-26 17:43:05,901 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-26 17:43:06,559 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:10,678 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:11,623 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:11,822 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-26 17:43:12,108 [main] INFO Jombone - Clicked on Submit
+2021-05-26 17:43:12,152 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-26 17:43:12,152 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-26 17:43:12,875 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:17,166 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:18,622 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:19,100 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-26 17:43:19,255 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:43:19,316 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:43:19,365 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-26 17:43:19,366 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-26 17:43:20,029 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:25,201 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:27,462 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:27,676 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-26 17:43:27,677 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-26 17:43:28,341 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:32,516 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:33,525 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:33,921 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-26 17:43:33,921 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-26 17:43:34,569 [main] DEBUG Jombone - Debug logging has started 
+2021-05-26 17:43:38,760 [main] INFO Jombone - Started Logintest
+2021-05-26 17:43:39,778 [main] INFO Jombone - Clicked on Login
+2021-05-26 17:43:40,177 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-26 17:43:40,178 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-27 10:10:03,886 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:09,388 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:10,608 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:11,327 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-27 10:10:11,327 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-27 10:10:12,049 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:16,312 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:17,330 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:17,542 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 10:10:17,780 [main] INFO Jombone - Clicked on Submit
+2021-05-27 10:10:17,817 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-27 10:10:17,817 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-27 10:10:18,474 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:22,736 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:24,156 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:24,330 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 10:10:24,568 [main] INFO Jombone - Clicked on Submit
+2021-05-27 10:10:24,613 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-27 10:10:24,614 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-27 10:10:25,256 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:29,344 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:30,370 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:30,957 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-27 10:10:31,046 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 10:10:31,135 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 10:10:31,179 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 10:10:31,180 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-27 10:10:31,836 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:35,811 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:36,796 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:36,966 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 10:10:36,967 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-27 10:10:37,632 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:41,685 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:42,559 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:42,860 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-27 10:10:42,861 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-27 10:10:43,514 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 10:10:47,694 [main] INFO Jombone - Started Logintest
+2021-05-27 10:10:48,760 [main] INFO Jombone - Clicked on Login
+2021-05-27 10:10:49,072 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-27 10:10:49,072 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-27 11:14:51,037 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:14:55,732 [main] INFO Jombone - Started Logintest
+2021-05-27 11:14:56,475 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:14:56,492 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:14:56,579 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:14:56,638 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:14:56,687 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:14:56,687 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-27 11:15:03,827 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:15:08,755 [main] INFO Jombone - Started Logintest
+2021-05-27 11:15:12,046 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:15:12,062 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:15:12,144 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:15:12,205 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:15:12,265 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-27 11:15:12,266 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-27 11:17:32,586 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:17:37,331 [main] INFO Jombone - Started Logintest
+2021-05-27 11:17:38,372 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:17:38,392 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:17:38,475 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:17:38,542 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:17:38,603 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:17:38,604 [main] INFO Jombone - Completed CompanyLoginTest
+2021-05-27 11:30:41,454 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:30:47,376 [main] INFO Jombone - Started Logintest
+2021-05-27 11:30:48,682 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:30:48,994 [main] INFO Jombone - Entered UserName and Password
+2021-05-27 11:30:49,374 [main] INFO Jombone - Clicked Submit button
+2021-05-27 11:30:49,386 [main] ERROR Jombone - Test Failed! CompanyValidLogintest failed!
+2021-05-27 11:32:03,286 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:32:10,584 [main] INFO Jombone - Started Logintest
+2021-05-27 11:32:12,286 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:32:12,622 [main] INFO Jombone - Entered UserName and Password
+2021-05-27 11:32:19,469 [main] INFO Jombone - Clicked Submit button
+2021-05-27 11:32:19,481 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-27 11:32:19,482 [main] INFO Jombone - Completed CompanyValidLogintest
+2021-05-27 11:56:34,138 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:56:39,828 [main] INFO Jombone - Started Logintest
+2021-05-27 11:56:39,875 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-27 11:56:41,122 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:56:41,134 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:56:41,456 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 11:56:41,712 [main] INFO Jombone - Clicked on Submit
+2021-05-27 11:56:41,763 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-27 11:56:41,763 [main] INFO Jombone - Completed InvalidEmailpwdCompanyLogintest
+2021-05-27 11:58:04,089 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:58:10,850 [main] INFO Jombone - Started Logintest
+2021-05-27 11:58:10,899 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-27 11:58:12,145 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:58:12,157 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:58:12,471 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 11:58:12,732 [main] INFO Jombone - Clicked on Submit
+2021-05-27 11:58:12,775 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-27 11:58:12,775 [main] INFO Jombone - Completed InvalidEmailpwdCompanyLogintest
+2021-05-27 11:58:29,196 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 11:58:36,559 [main] INFO Jombone - Started Logintest
+2021-05-27 11:58:36,606 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-27 11:58:37,834 [main] INFO Jombone - Clicked on Login
+2021-05-27 11:58:37,849 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 11:58:38,161 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 11:58:38,429 [main] INFO Jombone - Clicked on Submit
+2021-05-27 11:58:38,466 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-27 11:58:38,466 [main] INFO Jombone - Completed InvalidEmailpwdCompanyLogintest
+2021-05-27 12:21:34,704 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 12:21:39,945 [main] INFO Jombone - Started Logintest
+2021-05-27 12:21:39,988 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-27 12:21:43,113 [main] INFO Jombone - Clicked on Login
+2021-05-27 12:21:43,125 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-27 12:21:43,439 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 12:21:43,823 [main] INFO Jombone - Clicked on Submit
+2021-05-27 12:21:43,857 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-27 12:21:43,857 [main] INFO Jombone - Completed InvalidpwdCompanyLogintest
+2021-05-27 12:29:31,127 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 12:29:37,174 [main] INFO Jombone - Started Logintest
+2021-05-27 12:29:37,221 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:39,771 [main] INFO Jombone - Clicked on Login
+2021-05-27 12:29:39,785 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:40,094 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 12:29:40,366 [main] INFO Jombone - Clicked on Submit
+2021-05-27 12:29:40,407 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:40,408 [main] INFO Jombone - Completed InvalidEmailCompanyLogintest
+2021-05-27 12:29:46,306 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 12:29:51,283 [main] INFO Jombone - Started Logintest
+2021-05-27 12:29:51,324 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:54,294 [main] INFO Jombone - Clicked on Login
+2021-05-27 12:29:54,307 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:54,614 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 12:29:54,877 [main] INFO Jombone - Clicked on Submit
+2021-05-27 12:29:54,907 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-27 12:29:54,908 [main] INFO Jombone - Completed InvalidEmailCompanyLogintest
+2021-05-27 15:30:45,600 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 15:30:51,087 [main] INFO Jombone - Started Logintest
+2021-05-27 15:30:51,948 [main] INFO Jombone - Clicked on Login
+2021-05-27 15:30:52,248 [main] INFO Jombone - Entered UserName and Password
+2021-05-27 15:30:52,403 [main] INFO Jombone - Clicked on Submit button
+2021-05-27 15:30:52,449 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-27 15:30:52,450 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-27 15:40:36,573 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 15:40:42,568 [main] INFO Jombone - Started Logintest
+2021-05-27 15:40:43,815 [main] INFO Jombone - Clicked on Login
+2021-05-27 15:40:44,133 [main] INFO Jombone - Entered UserName and Password
+2021-05-27 15:40:44,288 [main] INFO Jombone - Clicked on Submit button
+2021-05-27 15:40:44,338 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-27 15:40:44,339 [main] INFO Jombone - Completed BlankpwdLogintest
+2021-05-27 15:49:31,162 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 15:49:36,906 [main] INFO Jombone - Started Logintest
+2021-05-27 15:49:38,186 [main] INFO Jombone - Clicked on Login
+2021-05-27 15:49:38,522 [main] INFO Jombone - Entered UserName and Password
+2021-05-27 15:49:38,897 [main] INFO Jombone - Clicked on Submit button
+2021-05-27 15:49:38,947 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-27 15:49:38,956 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-27 15:49:38,957 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-27 15:49:47,802 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 15:49:53,715 [main] INFO Jombone - Started Logintest
+2021-05-27 15:49:55,033 [main] INFO Jombone - Clicked on Login
+2021-05-27 15:49:55,349 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 15:49:55,593 [main] INFO Jombone - Clicked on Submit
+2021-05-27 15:49:55,636 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-27 15:49:55,641 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-27 15:49:55,642 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-27 15:57:19,013 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 15:57:24,702 [main] INFO Jombone - Started Logintest
+2021-05-27 15:57:25,642 [main] INFO Jombone - Clicked on Login
+2021-05-27 15:57:25,964 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-27 15:57:26,223 [main] INFO Jombone - Clicked on Submit
+2021-05-27 15:57:26,266 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-27 15:57:26,274 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-27 15:57:26,274 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-27 16:22:49,940 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 16:22:54,988 [main] INFO Jombone - Started Logintest
+2021-05-27 16:22:56,218 [main] INFO Jombone - Clicked on Login
+2021-05-27 16:22:56,720 [main] INFO Jombone - Test Passed! Login Successful!
+2021-05-27 16:22:56,865 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:22:56,955 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:22:57,049 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:22:57,050 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-27 16:27:08,447 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 16:27:13,643 [main] INFO Jombone - Started Logintest
+2021-05-27 16:27:13,690 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 16:27:15,040 [main] INFO Jombone - Clicked on Login
+2021-05-27 16:27:15,053 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 16:27:15,144 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 16:27:15,207 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 16:27:15,266 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 16:27:15,266 [main] INFO Jombone - Completed CompanyLoginTest
+2021-05-27 16:53:28,751 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 16:53:34,156 [main] INFO Jombone - Started Logintest
+2021-05-27 16:53:35,515 [main] INFO Jombone - Clicked on Login
+2021-05-27 16:53:36,054 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:53:36,156 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:53:36,215 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:53:36,276 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-27 16:53:36,277 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-27 17:04:34,944 [main] DEBUG Jombone - Debug logging has started 
+2021-05-27 17:04:39,929 [main] INFO Jombone - Started Logintest
+2021-05-27 17:04:39,981 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 17:04:41,367 [main] INFO Jombone - Clicked on Login
+2021-05-27 17:04:41,378 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 17:04:41,464 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 17:04:41,521 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 17:04:41,582 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-27 17:04:41,583 [main] INFO Jombone - Completed CompanyLoginTest
+2021-05-31 10:15:02,766 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:09,157 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:10,459 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:10,781 [main] INFO Jombone - Entered UserName and Password
+2021-05-31 10:15:11,159 [main] INFO Jombone - Clicked on Submit button
+2021-05-31 10:15:11,207 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-31 10:15:11,218 [main] INFO Jombone - Test Passed! InvalidpwdLogintest Successful!
+2021-05-31 10:15:11,219 [main] INFO Jombone - Completed InvalidpwdLogintest
+2021-05-31 10:15:11,905 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:15,871 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:16,806 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:16,995 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-31 10:15:17,229 [main] INFO Jombone - Clicked on Submit
+2021-05-31 10:15:17,261 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-31 10:15:17,269 [main] INFO Jombone - Test Passed! InvalidEmailLogintest Successful!
+2021-05-31 10:15:17,269 [main] INFO Jombone - Completed InvalidEmailLogintest
+2021-05-31 10:15:17,942 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:21,789 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:23,354 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:23,527 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-31 10:15:23,778 [main] INFO Jombone - Clicked on Submit
+2021-05-31 10:15:23,820 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-31 10:15:23,825 [main] INFO Jombone - Test Passed! InvalidEmailpwdLogintest Successful!
+2021-05-31 10:15:23,825 [main] INFO Jombone - Completed InvalidEmailpwdLogintest
+2021-05-31 10:15:24,483 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:28,425 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:29,563 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:30,076 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-31 10:15:30,122 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-31 10:15:30,151 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-31 10:15:30,249 [main] INFO Jombone - Test Passed! SignUpLogintest Successful!
+2021-05-31 10:15:30,249 [main] INFO Jombone - Completed SignUpLogintest
+2021-05-31 10:15:30,878 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:34,578 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:35,424 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:35,595 [main] INFO Jombone - Test Passed! ForgotPasswordtest Successful!
+2021-05-31 10:15:35,596 [main] INFO Jombone - Completed ForgotPasswordtest
+2021-05-31 10:15:36,264 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:40,551 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:40,557 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-31 10:15:42,640 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:42,645 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-31 10:15:42,679 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-31 10:15:42,722 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-31 10:15:42,752 [main] INFO Jombone - Test Passed! CompanyLoginTest Successful!
+2021-05-31 10:15:42,752 [main] INFO Jombone - Completed CompanyLoginTest
+2021-05-31 10:15:43,399 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:47,203 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:47,211 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-31 10:15:48,474 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:15:48,477 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-31 10:15:48,676 [main] INFO Jombone - Entered UserName and Password
+2021-05-31 10:15:55,119 [main] INFO Jombone - Clicked Submit button
+2021-05-31 10:15:55,126 [main] INFO Jombone - Test Passed! CompanyValidLogintest Successful!
+2021-05-31 10:15:55,126 [main] INFO Jombone - Completed CompanyValidLogintest
+2021-05-31 10:15:55,807 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:15:59,471 [main] INFO Jombone - Started Logintest
+2021-05-31 10:15:59,476 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-31 10:16:00,336 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:16:00,340 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-31 10:16:00,522 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-31 10:16:00,767 [main] INFO Jombone - Clicked on Submit
+2021-05-31 10:16:00,797 [main] INFO Jombone - Test Passed! InvalidEmailCompanyLogintest Successful!
+2021-05-31 10:16:00,797 [main] INFO Jombone - Completed InvalidEmailCompanyLogintest
+2021-05-31 10:16:01,418 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:16:05,083 [main] INFO Jombone - Started Logintest
+2021-05-31 10:16:05,090 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-31 10:16:06,180 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:16:06,183 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-31 10:16:06,359 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-31 10:16:06,676 [main] INFO Jombone - Clicked on Submit
+2021-05-31 10:16:06,714 [main] INFO Jombone - Test Passed! InvalidpwdCompanyLogintest Successful!
+2021-05-31 10:16:06,714 [main] INFO Jombone - Completed InvalidpwdCompanyLogintest
+2021-05-31 10:16:07,361 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:16:11,385 [main] INFO Jombone - Started Logintest
+2021-05-31 10:16:11,391 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-31 10:16:16,308 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:16:16,313 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-31 10:16:16,492 [main] INFO Jombone - Enetered UserName and Passsword
+2021-05-31 10:16:16,907 [main] INFO Jombone - Clicked on Submit
+2021-05-31 10:16:16,934 [main] INFO Jombone - Test Passed! InvalidEmailpwdCompanyLogintest Successful!
+2021-05-31 10:16:16,935 [main] INFO Jombone - Completed InvalidEmailpwdCompanyLogintest
+2021-05-31 10:16:17,581 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:16:27,074 [main] INFO Jombone - Started Logintest
+2021-05-31 10:16:29,206 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:16:29,400 [main] INFO Jombone - Entered UserName and Password
+2021-05-31 10:16:29,520 [main] INFO Jombone - Clicked on Submit button
+2021-05-31 10:16:29,557 [main] INFO Jombone - Test Passed! BlankEmailIdLogintest Successful!
+2021-05-31 10:16:29,558 [main] INFO Jombone - Completed BlankEmailIdLogintest
+2021-05-31 10:16:30,229 [main] DEBUG Jombone - Debug logging has started 
+2021-05-31 10:16:33,994 [main] INFO Jombone - Started Logintest
+2021-05-31 10:16:35,157 [main] INFO Jombone - Clicked on Login
+2021-05-31 10:16:35,325 [main] INFO Jombone - Entered UserName and Password
+2021-05-31 10:16:35,435 [main] INFO Jombone - Clicked on Submit button
+2021-05-31 10:16:35,465 [main] INFO Jombone - Test Passed! BlankpwdLogintest Successful!
+2021-05-31 10:16:35,465 [main] INFO Jombone - Completed BlankpwdLogintest

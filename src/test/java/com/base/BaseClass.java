@@ -22,48 +22,42 @@ import com.utilities.ReadConfig;
 
 public class BaseClass 
 {
-	static ReadConfig  readconfig = new ReadConfig(); // Creating object
+	ReadConfig  readconfig = new ReadConfig(); // Creating object
 	// Integrating data from ReadConfig
-	public static String baseURL=readconfig.getApplicationURL(); 
+	public String baseURL=readconfig.getApplicationURL(); 
 	public String username1=readconfig.getUsername1();
 	public String password=readconfig.getPassword(); 
-	public  String browser=readconfig.getbrowser();
-	public static ChromeOptions handlingSSL = new ChromeOptions();
+	public String username3=readconfig.getUsername3();
+	public String password3=readconfig.getPassword3();
+	public static SoftAssert asrt=new SoftAssert();
 	public static WebDriver driver;
 	public static Logger logger;
+	public static String browser;
+
 	
 	
 	@BeforeClass
-	public  void setup()
-	{	
-		if(browser.equalsIgnoreCase("chrome")) {
-			 //Create instance of ChromeOptions Class
+	public void setup()
+	{		
+		
+				
 			
-			//Using the accept insecure cert method with true as parameter to accept the untrusted certificate
-			handlingSSL.setAcceptInsecureCerts(true);
-			//Creating instance of Chrome driver by passing reference of ChromeOptions object
-			System.setProperty("webdriver.chrome.driver",
-					"C:\\Users\\vidhy\\eclipse-workspace\\jombone-master\\Drivers\\chromedriver.exe");
-			
-			driver = new ChromeDriver(handlingSSL);
 		// Initialization // Logger initiated within the setup method
 		logger=Logger.getLogger("Jombone");// Project Name 
 		PropertyConfigurator.configure("log4j.properties"); // Added Logger
 		logger.setLevel(Level.DEBUG); // to get the debug log
 		logger.debug("Debug logging has started ");
-		
-		
-		}
+		System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
+		driver = new ChromeDriver();
 		driver.get(baseURL);
         driver.manage().window().maximize();
 	}
 	
 	@AfterClass
-	public void tearDown()
+	public static void tearDown()
 	{
 		driver.quit();
 	}
-
 	
 	public void captureScreen(WebDriver driver, String tname) throws IOException 
 	{
