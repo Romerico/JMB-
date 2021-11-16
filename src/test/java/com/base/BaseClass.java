@@ -43,7 +43,7 @@ public class BaseClass
 			handlingSSL.setAcceptInsecureCerts(true);
 			//Creating instance of Chrome driver by passing reference of ChromeOptions object
 			System.setProperty("webdriver.chrome.driver",
-					"C:\\Users\\vidhy\\eclipse-workspace\\jombone-master\\Drivers\\chromedriver.exe");
+					"/Users/saranya/git/jombone/Drivers/chromedriver");
 			
 			driver = new ChromeDriver(handlingSSL);
 		// Initialization // Logger initiated within the setup method

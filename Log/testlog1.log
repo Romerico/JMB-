@@ -2205,3 +2205,826 @@
 2021-04-26 11:35:09,352 [main] DEBUG Jombone - Debug logging has started 
 2021-04-26 11:46:08,855 [main] DEBUG Jombone - Debug logging has started 
 2021-04-26 11:46:19,549 [main] INFO Jombone - Started Logintest
+2021-11-10 23:51:01,766 [main] DEBUG Jombone - Debug logging has started 
+2021-11-10 23:51:05,420 [main] INFO Jombone - Started Logintest
+2021-11-11 00:09:09,280 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 00:09:11,400 [main] INFO Jombone - Started Logintest
+2021-11-11 00:09:12,077 [main] INFO Jombone - Clicked on Login
+2021-11-11 00:09:14,991 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 00:09:14,992 [main] INFO Jombone - Completed Logintest
+2021-11-11 01:28:02,430 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 01:28:04,379 [main] INFO Jombone - Started Logintest
+2021-11-11 01:28:05,107 [main] INFO Jombone - Clicked on Login
+2021-11-11 01:28:07,813 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 01:28:07,814 [main] INFO Jombone - Completed Logintest
+2021-11-11 10:11:37,517 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 10:11:39,649 [main] INFO Jombone - Started Logintest
+2021-11-11 10:11:40,269 [main] INFO Jombone - Clicked on Login
+2021-11-11 10:11:42,909 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 10:11:42,909 [main] INFO Jombone - Completed Logintest
+2021-11-11 13:21:08,243 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 13:21:10,893 [main] INFO Jombone - Started Logintest
+2021-11-11 13:21:11,692 [main] INFO Jombone - Clicked on Login
+2021-11-11 13:21:15,133 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 13:21:15,134 [main] INFO Jombone - Completed Logintest
+2021-11-11 15:36:13,803 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 15:36:15,765 [main] INFO Jombone - Started Logintest
+2021-11-11 15:36:16,411 [main] INFO Jombone - Clicked on Login
+2021-11-11 15:36:19,102 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 15:36:19,103 [main] INFO Jombone - Completed Logintest
+2021-11-11 18:04:55,504 [main] DEBUG Jombone - Debug logging has started 
+2021-11-11 18:04:57,589 [main] INFO Jombone - Started Logintest
+2021-11-11 18:04:58,361 [main] INFO Jombone - Clicked on Login
+2021-11-11 18:05:01,267 [main] INFO Jombone - Test Passed! Login Successful!
+2021-11-11 18:05:01,268 [main] INFO Jombone - Completed Logintest
+2021-11-12 01:20:13,207 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 01:20:15,642 [main] INFO Jombone - clicking on sign up
+2021-11-12 01:34:49,000 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 01:34:51,589 [main] INFO Jombone - clicking on sign up
+2021-11-12 02:17:48,261 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 02:17:50,787 [main] INFO Jombone - clicking on sign up
+2021-11-12 02:23:26,966 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 02:23:29,543 [main] INFO Jombone - clicking on sign up
+2021-11-12 02:31:21,396 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 02:31:23,900 [main] INFO Jombone - clicking on sign up
+2021-11-12 02:42:50,233 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 02:42:52,913 [main] INFO Jombone - clicking on sign up
+2021-11-12 02:55:53,465 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 02:55:56,577 [main] INFO Jombone - clicking on sign up
+2021-11-12 03:00:47,435 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:00:50,181 [main] INFO Jombone - clicking on sign up
+2021-11-12 03:03:58,770 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:04:01,430 [main] INFO Jombone - clicking on sign up
+2021-11-12 03:08:57,610 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:09:00,653 [main] INFO Jombone - clicking on sign up
+2021-11-12 03:15:29,026 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:15:31,671 [main] INFO Jombone - clicking on sign up
+2021-11-12 03:25:24,063 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:25:26,700 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:25:51,007 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:25:53,697 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:27:20,339 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:27:23,011 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:36:38,530 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:36:46,003 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:43:16,365 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:43:23,549 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:44:53,198 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:45:00,326 [main] INFO Jombone - Check clicking on sign up
+2021-11-12 03:45:03,042 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 03:49:38,126 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 03:49:45,298 [main] INFO Jombone - Clicking on sign up
+2021-11-12 03:49:48,032 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 03:49:50,051 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:17:56,768 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 04:18:03,767 [main] INFO Jombone - Clicking on sign up
+2021-11-12 04:18:06,506 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 04:18:08,523 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:25:57,228 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 04:26:04,313 [main] INFO Jombone - Clicking on sign up
+2021-11-12 04:26:07,041 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 04:26:09,060 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:31:03,304 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 04:31:10,336 [main] INFO Jombone - Clicking on sign up
+2021-11-12 04:31:13,127 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 04:31:15,138 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:31:16,281 [main] INFO Jombone - Entered First Name and Last Name
+2021-11-12 04:34:28,261 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 04:34:35,323 [main] INFO Jombone - Clicking on sign up
+2021-11-12 04:34:38,135 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 04:34:40,154 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:34:41,140 [main] INFO Jombone - Entered First Name and Last Name
+2021-11-12 04:40:06,681 [main] DEBUG Jombone - Debug logging has started 
+2021-11-12 04:40:13,873 [main] INFO Jombone - Clicking on sign up
+2021-11-12 04:40:16,622 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-12 04:40:18,641 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-12 04:40:19,516 [main] INFO Jombone - Entered First Name and Last Name
+2021-11-13 17:56:00,108 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 17:56:04,245 [main] INFO Jombone - clicking on sign up
+2021-11-13 17:56:08,727 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 17:56:16,452 [main] INFO Jombone - Clicking on sign up
+2021-11-13 17:56:19,229 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 17:56:21,244 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 17:56:22,683 [main] INFO Jombone - Entered First Name and Last Name
+2021-11-13 19:34:14,246 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:34:17,437 [main] INFO Jombone - clicking on SignUp
+2021-11-13 19:34:30,238 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:34:37,939 [main] INFO Jombone - Clicking on sign up
+2021-11-13 19:34:40,977 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 19:34:42,996 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 19:44:22,715 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:44:25,458 [main] INFO Jombone - clicking on SignUp
+2021-11-13 19:45:28,290 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:45:35,891 [main] INFO Jombone - Clicking on sign up
+2021-11-13 19:45:38,777 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 19:45:40,791 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 19:57:16,566 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:57:19,477 [main] INFO Jombone - clicking on SignUp
+2021-11-13 19:57:20,459 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 19:57:20,584 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 19:57:25,002 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 19:57:32,824 [main] INFO Jombone - Clicking on sign up
+2021-11-13 19:57:35,624 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 19:57:37,643 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:10:26,604 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:10:29,411 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:10:30,268 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:10:30,449 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:10:34,871 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:10:42,544 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:10:45,524 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:10:47,541 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:14:40,758 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:14:44,055 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:14:45,070 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:14:45,194 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:14:49,709 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:14:58,078 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:15:00,938 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:15:02,961 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:17:05,176 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:17:07,935 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:17:08,954 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:17:09,154 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:17:13,640 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:17:21,312 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:17:24,152 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:17:26,168 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:20:33,819 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:20:36,513 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:20:37,508 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:20:37,644 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:20:42,040 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:20:49,633 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:20:52,512 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:20:54,533 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:30:25,080 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:30:28,253 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:30:29,302 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:30:29,531 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:30:33,817 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:30:41,737 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:30:44,638 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:30:46,653 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:35:51,793 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:35:54,824 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:35:55,801 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:35:55,915 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:36:00,277 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:36:07,852 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:36:10,751 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:36:12,773 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:44:16,437 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:44:19,175 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:44:20,276 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:44:20,405 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:44:24,742 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:44:32,661 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:44:35,851 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:44:37,863 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:47:51,296 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:47:54,243 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:47:55,345 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:47:55,520 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:47:59,739 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:48:07,567 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:48:10,640 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:48:12,663 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 20:51:48,144 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:51:50,932 [main] INFO Jombone - clicking on SignUp
+2021-11-13 20:51:51,806 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:51:51,999 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 20:51:56,397 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 20:52:04,305 [main] INFO Jombone - Clicking on sign up
+2021-11-13 20:52:07,091 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 20:52:09,117 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:03:42,820 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:03:45,892 [main] INFO Jombone - clicking on SignUp
+2021-11-13 21:03:46,766 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:03:46,890 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-13 21:03:51,321 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:03:59,437 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:04:02,538 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:04:04,559 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:04:05,950 [main] INFO Jombone - Entered First Name with Characters and Space Successfully
+2021-11-13 21:16:03,816 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:16:11,600 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:16:14,690 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:16:16,705 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:16:17,653 [main] INFO Jombone - First Name Field clicked
+2021-11-13 21:16:17,654 [main] INFO Jombone - Entered First Name with Characters and Space Successfully
+2021-11-13 21:18:58,658 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:19:06,594 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:19:09,834 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:19:11,846 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:19:12,872 [main] INFO Jombone - First Name Field clicked
+2021-11-13 21:28:21,677 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:28:29,694 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:28:32,642 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:28:34,654 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:28:35,669 [main] INFO Jombone - Last Name Field clicked
+2021-11-13 21:31:33,631 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:31:41,224 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:31:44,315 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:31:46,332 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:31:47,260 [main] INFO Jombone - Last Name Field clicked
+2021-11-13 21:31:49,322 [main] INFO Jombone - Please enter valid first name
+2021-11-13 21:31:49,322 [main] INFO Jombone - Entered First Name with Characters and Space Successfully
+2021-11-13 21:42:21,542 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:42:29,294 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:42:32,609 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:42:34,626 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:42:35,774 [main] INFO Jombone - Please enter valid first name
+2021-11-13 21:42:35,775 [main] INFO Jombone - Test Case Validation Successfull-First Name with Characters and Space
+2021-11-13 21:47:42,151 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:47:50,008 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:47:53,087 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:47:55,103 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:47:56,249 [main] INFO Jombone - Please enter valid first name
+2021-11-13 21:47:56,250 [main] INFO Jombone - Test Case Validation Successfull-First Name with Characters and Space
+2021-11-13 21:57:03,839 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:57:11,436 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:57:14,385 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:57:16,405 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 21:57:17,496 [main] INFO Jombone - Please enter valid first name
+2021-11-13 21:58:35,257 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 21:58:43,156 [main] INFO Jombone - Clicking on sign up
+2021-11-13 21:58:46,074 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 21:58:48,090 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-13 23:52:12,687 [main] DEBUG Jombone - Debug logging has started 
+2021-11-13 23:52:22,341 [main] INFO Jombone - Clicking on sign up
+2021-11-13 23:52:25,468 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-13 23:52:27,487 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-14 00:16:00,150 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:16:07,854 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:16:10,887 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:16:12,895 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-14 00:19:30,342 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:19:38,207 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:19:41,108 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:19:43,127 [main] INFO Jombone - Landed on sign up acceptance criteria
+2021-11-14 00:19:44,341 [main] INFO Jombone - No-Error Msg displayed-->Met Acceptance Criteria
+2021-11-14 00:19:44,341 [main] INFO Jombone - Test Case Validation Successfull-First Name with Characters and Space
+2021-11-14 00:22:20,460 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:22:28,257 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:22:31,050 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:22:32,481 [main] INFO Jombone - No-Error Msg displayed-->Met Acceptance Criteria
+2021-11-14 00:22:32,487 [main] INFO Jombone - Test Case Validation Successfull-First Name with Characters and Space
+2021-11-14 00:25:44,916 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:25:52,398 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:25:55,346 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:25:56,575 [main] INFO Jombone - Please enter valid first name
+2021-11-14 00:37:50,177 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:43:27,570 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:45:41,535 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:45:44,434 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:45:45,330 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:45:46,652 [main] INFO Jombone - Please enter valid first name
+2021-11-14 00:52:53,181 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:52:56,501 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:52:57,566 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:56:20,377 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 00:56:23,116 [main] INFO Jombone - Clicking on sign up
+2021-11-14 00:56:24,130 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 00:56:25,437 [main] INFO Jombone - Please enter valid first name
+2021-11-14 01:02:34,248 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 01:02:37,089 [main] INFO Jombone - Clicking on sign up
+2021-11-14 01:02:37,975 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 01:02:39,292 [main] INFO Jombone - Please enter valid first name
+2021-11-14 01:07:02,700 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 01:07:05,708 [main] INFO Jombone - Clicking on sign up
+2021-11-14 01:07:06,665 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 01:07:07,801 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-14 01:07:07,801 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-14 09:03:41,388 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 09:03:46,001 [main] INFO Jombone - clicking on SignUp
+2021-11-14 09:03:46,798 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 09:03:46,968 [main] INFO Jombone - Met Acceptance Criteria
+2021-11-14 09:03:51,263 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 09:03:54,341 [main] INFO Jombone - Clicking on sign up
+2021-11-14 09:03:55,216 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 09:03:56,483 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-14 09:03:56,485 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-14 13:21:32,004 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:21:35,780 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:21:38,249 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:21:42,130 [main] INFO Jombone - Clicking on sign up
+2021-11-14 13:21:43,187 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 13:21:44,498 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-14 13:21:44,499 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-14 13:28:35,988 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:28:39,169 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:28:40,371 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 13:31:45,414 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:31:48,473 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:31:49,464 [main] INFO Jombone - Test Case failed
+2021-11-14 13:32:58,428 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:33:01,499 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:33:03,124 [main] INFO Jombone - Test Case failed
+2021-11-14 13:43:47,166 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:43:50,754 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:43:52,060 [main] INFO Jombone - Test Case failed
+2021-11-14 13:47:34,912 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 13:47:39,500 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 13:47:40,636 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 14:14:12,897 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:14:19,570 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 14:14:21,680 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 14:15:33,473 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:15:39,044 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 14:17:28,655 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:17:37,452 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 14:17:40,678 [main] INFO Jombone - Not Met Acceptance Criteria
+2021-11-14 14:19:12,791 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:19:26,919 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 14:19:28,905 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 14:26:08,672 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:26:13,233 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 14:26:15,581 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 14:26:18,011 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 14:26:21,715 [main] INFO Jombone - Clicking on sign up
+2021-11-14 14:26:22,584 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 14:26:23,795 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-14 14:26:23,797 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-14 23:20:49,887 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 23:20:55,172 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 23:20:56,285 [main] INFO Jombone - Not Met Acceptance Criteria
+2021-11-14 23:20:58,697 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 23:21:01,366 [main] INFO Jombone - Clicking on sign up
+2021-11-14 23:21:02,433 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 23:21:03,479 [main] INFO Jombone - Please enter valid first name
+2021-11-14 23:25:44,330 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 23:25:47,244 [main] INFO Jombone - Clicking on Look for Job
+2021-11-14 23:25:48,135 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-14 23:25:50,348 [main] DEBUG Jombone - Debug logging has started 
+2021-11-14 23:25:53,067 [main] INFO Jombone - Clicking on sign up
+2021-11-14 23:25:53,961 [main] INFO Jombone - Clicking Candidate Signup
+2021-11-14 23:25:54,970 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-14 23:25:54,971 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-15 12:25:41,760 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 12:25:44,759 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 12:25:45,541 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-15 12:25:47,462 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 12:25:50,191 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 12:25:51,981 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-15 12:25:51,981 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-15 12:31:20,470 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 12:31:23,045 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 12:31:23,887 [main] INFO Jombone - Clicking on Signup
+2021-11-15 12:31:23,901 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-15 12:31:25,877 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 12:31:28,564 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 12:31:29,418 [main] INFO Jombone - Clicking on Signup
+2021-11-15 12:31:29,946 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-15 12:31:30,312 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-15 12:31:30,312 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-15 12:59:22,398 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 12:59:27,130 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 12:59:28,195 [main] INFO Jombone - Clicking on Signup
+2021-11-15 12:59:28,904 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-15 12:59:29,327 [main] INFO Jombone - Please enter valid first name
+2021-11-15 12:59:29,328 [main] INFO Jombone - Test Case Validation Successfull-->Displayed error message for Special characters
+2021-11-15 16:54:24,288 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 16:54:27,136 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 16:54:27,850 [main] INFO Jombone - Clicking on Signup
+2021-11-15 16:54:28,651 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-15 16:54:29,080 [main] INFO Jombone - No-Error Msg displayed-->Not Met Acceptance Criteria
+2021-11-15 16:56:18,666 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 16:56:21,171 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 16:56:21,830 [main] INFO Jombone - Clicking on Signup
+2021-11-15 16:56:22,420 [main] INFO Jombone - Entered First Name 
+2021-11-15 16:56:22,751 [main] INFO Jombone - Please enter first name
+2021-11-15 16:56:22,752 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-15 16:56:22,752 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-15 17:16:03,871 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 17:16:06,605 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 17:16:07,304 [main] INFO Jombone - Clicking on Signup
+2021-11-15 17:16:07,987 [main] INFO Jombone - Entered First Name 7872136571
+2021-11-15 17:16:08,408 [main] INFO Jombone - Please enter valid first name
+2021-11-15 17:16:08,409 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-15 17:16:08,410 [main] INFO Jombone - Test Case Validation Successfull-->Numbers in First Name
+2021-11-15 17:32:37,655 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 17:32:40,514 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 17:32:41,221 [main] INFO Jombone - Clicking on Signup
+2021-11-15 17:32:41,795 [main] INFO Jombone - Entered First Name 7872136571
+2021-11-15 17:32:42,199 [main] INFO Jombone - Error message-->Please enter valid first name-->Met Acceptance Criteria
+2021-11-15 17:34:52,354 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 17:34:54,863 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 17:34:55,574 [main] INFO Jombone - Clicking on Signup
+2021-11-15 17:34:56,118 [main] INFO Jombone - Entered First Name 7872136571
+2021-11-15 17:34:56,509 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-15 17:34:56,510 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-15 17:58:52,742 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 17:58:55,366 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 17:58:56,099 [main] INFO Jombone - Clicking on Signup
+2021-11-15 17:58:56,676 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-15 17:58:56,942 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-15 17:58:56,942 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-15 18:09:30,831 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 18:09:33,620 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 18:09:35,156 [main] INFO Jombone - Clicking on Signup
+2021-11-15 18:09:35,899 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-15 18:09:36,153 [main] INFO Jombone - No-Error Msg displayed-->Not Met Acceptance Criteria
+2021-11-15 18:11:37,201 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 18:11:39,846 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 18:11:40,581 [main] INFO Jombone - Clicking on Signup
+2021-11-15 18:11:41,306 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-15 18:11:41,562 [main] INFO Jombone - No-Error Msg displayed-->Not Met Acceptance Criteria
+2021-11-15 18:15:32,236 [main] DEBUG Jombone - Debug logging has started 
+2021-11-15 18:15:34,717 [main] INFO Jombone - Clicking on Look for Job
+2021-11-15 18:15:35,435 [main] INFO Jombone - Clicking on Signup
+2021-11-15 18:15:36,065 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-15 18:15:36,498 [main] INFO Jombone - Please enter valid last name
+2021-11-15 18:15:36,498 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-15 18:15:36,499 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 09:10:08,016 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:10:10,689 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:10:11,432 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:10:12,033 [main] INFO Jombone - Entered Last Name 
+2021-11-16 09:10:12,409 [main] INFO Jombone - Please enter last name
+2021-11-16 09:10:12,411 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 09:10:12,412 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name
+2021-11-16 09:18:13,503 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:18,423 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:19,712 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:19,728 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-16 09:18:21,664 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:24,793 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:25,663 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:26,323 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 09:18:26,726 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 09:18:26,727 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 09:18:28,547 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:31,177 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:31,906 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:31,987 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-16 09:18:32,413 [main] INFO Jombone - Please enter valid first name
+2021-11-16 09:18:32,414 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 09:18:32,421 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in First Name
+2021-11-16 09:18:34,262 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:37,688 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:39,030 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:39,089 [main] INFO Jombone - Entered First Name 
+2021-11-16 09:18:39,515 [main] INFO Jombone - Please enter first name
+2021-11-16 09:18:39,516 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-16 09:18:39,516 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-16 09:18:41,305 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:44,312 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:45,249 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:45,341 [main] INFO Jombone - Entered First Name-->7872136571
+2021-11-16 09:18:45,797 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-16 09:18:45,798 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-16 09:18:47,669 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:50,595 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:51,866 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:51,910 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-16 09:18:52,334 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 09:18:52,334 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-16 09:18:54,184 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:18:56,859 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:18:57,766 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:18:57,823 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-16 09:18:58,358 [main] INFO Jombone - Please enter valid last name
+2021-11-16 09:18:58,358 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 09:18:58,359 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 09:19:00,304 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 09:19:02,716 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 09:19:03,471 [main] INFO Jombone - Clicking on Signup
+2021-11-16 09:19:03,501 [main] INFO Jombone - Entered Last Name 
+2021-11-16 09:19:03,974 [main] INFO Jombone - Please enter last name
+2021-11-16 09:19:03,974 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 09:19:03,975 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name
+2021-11-16 10:05:51,721 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:05:54,520 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:05:55,236 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:05:55,864 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 10:06:42,161 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:06:44,918 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:06:45,727 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:06:46,341 [main] INFO Jombone - Entered First Name Mary had a Little Lamb
+2021-11-16 10:12:05,289 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:12:07,791 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:12:08,522 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:12:09,205 [main] INFO Jombone - Entered First Name Mary had a Little Lamb
+2021-11-16 10:12:09,563 [main] INFO Jombone - Typed ValueMary had a Little Lamb
+2021-11-16 10:17:39,886 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:17:42,482 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:17:43,142 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:17:43,759 [main] INFO Jombone - Entered First Name Mary had a Little Lamb
+2021-11-16 10:17:44,139 [main] INFO Jombone - First name No Longer than 50 chars22
+2021-11-16 10:20:37,369 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:20:40,044 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:20:40,781 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:20:41,369 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 10:20:41,754 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 10:20:41,754 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 10:34:59,340 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:35:01,894 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:35:02,659 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:35:03,241 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 10:35:03,612 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 10:35:03,613 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 10:36:08,413 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:36:11,005 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:36:11,773 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:36:12,353 [main] INFO Jombone - Entered First Name: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:36:12,861 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:43:30,560 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:43:32,889 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:43:33,676 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:43:34,850 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:43:34,852 [main] INFO Jombone - Entered First Name: [[ChromeDriver: chrome on MAC (c02aa70f53df7102df63bdc6413c71fc)] -> xpath: //input[@id='firstname']]
+2021-11-16 10:47:22,956 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:47:25,475 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:47:26,249 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:47:26,846 [main] INFO Jombone - Input dataabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:47:27,300 [main] INFO Jombone - Entered First Name: [[ChromeDriver: chrome on MAC (754a73a2430889e2ed0174396b0f6f5b)] -> xpath: //input[@id='firstname']]
+2021-11-16 10:47:27,300 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:49:59,800 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:50:02,494 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:50:03,212 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:50:03,887 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:50:04,362 [main] INFO Jombone - Entered First Name: 
+2021-11-16 10:50:04,363 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:52:14,938 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:52:17,508 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:52:18,228 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:52:18,834 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:52:19,313 [main] INFO Jombone - Entered First Name: 
+2021-11-16 10:52:19,315 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:55:40,352 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:55:43,026 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:55:43,773 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:55:44,329 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:55:44,787 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 10:57:54,092 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 10:57:56,571 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 10:57:57,353 [main] INFO Jombone - Clicking on Signup
+2021-11-16 10:57:57,949 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 10:57:58,434 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 11:00:27,401 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:00:30,104 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:00:30,829 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:00:31,468 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 11:00:31,942 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 11:02:44,361 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:02:46,951 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:02:47,652 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:02:47,663 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-16 11:02:49,515 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:02:51,951 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:02:52,666 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:02:53,306 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 11:02:53,676 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 11:02:53,677 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 11:02:55,419 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:02:57,894 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:02:58,662 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:02:58,745 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-16 11:02:59,179 [main] INFO Jombone - Please enter valid first name
+2021-11-16 11:02:59,180 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 11:02:59,181 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in First Name
+2021-11-16 11:03:00,937 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:03,305 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:04,064 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:04,123 [main] INFO Jombone - Entered First Name 
+2021-11-16 11:03:04,569 [main] INFO Jombone - Please enter first name
+2021-11-16 11:03:04,569 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-16 11:03:04,570 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-16 11:03:06,320 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:08,902 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:09,634 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:09,668 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 11:03:10,148 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 11:03:10,149 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 11:03:11,914 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:14,435 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:15,145 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:15,177 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 11:03:15,663 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 11:03:17,404 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:20,729 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:22,080 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:22,147 [main] INFO Jombone - Entered First Name-->7872136571
+2021-11-16 11:03:22,613 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-16 11:03:22,613 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-16 11:03:24,390 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:26,776 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:27,509 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:27,549 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-16 11:03:27,953 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 11:03:27,954 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-16 11:03:29,826 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:32,513 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:33,281 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:33,315 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-16 11:03:33,821 [main] INFO Jombone - Please enter valid last name
+2021-11-16 11:03:33,822 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 11:03:33,822 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 11:03:35,607 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:03:38,235 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:03:38,948 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:03:38,979 [main] INFO Jombone - Entered Last Name 
+2021-11-16 11:03:39,399 [main] INFO Jombone - Please enter last name
+2021-11-16 11:03:39,400 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 11:03:39,400 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name
+2021-11-16 11:06:59,549 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:03,746 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:04,571 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:04,582 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-16 11:07:06,517 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:09,113 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:09,918 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:10,538 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 11:07:10,896 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 11:07:10,896 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 11:07:12,756 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:15,412 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:16,396 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:16,458 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-16 11:07:16,977 [main] INFO Jombone - Please enter valid first name
+2021-11-16 11:07:16,977 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 11:07:16,978 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in First Name
+2021-11-16 11:07:18,946 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:21,375 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:22,154 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:22,210 [main] INFO Jombone - Entered First Name 
+2021-11-16 11:07:22,580 [main] INFO Jombone - Please enter first name
+2021-11-16 11:07:22,580 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-16 11:07:22,580 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-16 11:07:24,476 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:27,060 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:27,841 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:27,896 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 11:07:28,374 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 11:07:28,375 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 11:07:30,251 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:32,678 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:33,432 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:33,470 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 11:07:33,941 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 11:07:35,891 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:38,389 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:39,116 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:39,176 [main] INFO Jombone - Entered First Name-->7872136571
+2021-11-16 11:07:39,687 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-16 11:07:39,687 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-16 11:07:41,504 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:44,052 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:44,889 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:44,917 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-16 11:07:45,345 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 11:07:45,345 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-16 11:07:47,196 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:49,694 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:50,561 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:50,603 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-16 11:07:51,124 [main] INFO Jombone - Please enter valid last name
+2021-11-16 11:07:51,124 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 11:07:51,125 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 11:07:52,996 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 11:07:55,797 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 11:07:56,561 [main] INFO Jombone - Clicking on Signup
+2021-11-16 11:07:56,590 [main] INFO Jombone - Entered Last Name 
+2021-11-16 11:07:57,013 [main] INFO Jombone - Please enter last name
+2021-11-16 11:07:57,014 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 11:07:57,014 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name
+2021-11-16 13:58:48,262 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 13:58:50,847 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 13:58:51,999 [main] INFO Jombone - Clicking on Signup
+2021-11-16 13:58:52,620 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 13:58:53,068 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 13:58:53,068 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 13:58:55,111 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 13:58:58,983 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 13:58:59,871 [main] INFO Jombone - Clicking on Signup
+2021-11-16 13:58:59,941 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 13:59:00,409 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 13:59:00,409 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 13:59:02,191 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 13:59:04,827 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 13:59:05,572 [main] INFO Jombone - Clicking on Signup
+2021-11-16 13:59:05,622 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 13:59:06,147 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 14:24:10,329 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:13,158 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:13,927 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:13,954 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-16 14:24:15,918 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:18,510 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:19,243 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:19,783 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 14:24:20,158 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 14:24:20,158 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 14:24:21,964 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:24,634 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:25,418 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:25,494 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-16 14:24:25,964 [main] INFO Jombone - Please enter valid first name
+2021-11-16 14:24:25,964 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 14:24:25,966 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in First Name
+2021-11-16 14:24:27,732 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:30,365 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:31,148 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:31,231 [main] INFO Jombone - Entered First Name 
+2021-11-16 14:24:31,593 [main] INFO Jombone - Please enter first name
+2021-11-16 14:24:31,594 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-16 14:24:31,594 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-16 14:24:33,379 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:36,890 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:37,953 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:38,002 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 14:24:38,426 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 14:24:38,427 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 14:24:40,243 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:43,579 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:46,287 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:46,320 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 14:24:46,776 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 14:24:48,576 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:51,414 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:52,263 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:52,325 [main] INFO Jombone - Entered First Name-->7872136571
+2021-11-16 14:24:52,943 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-16 14:24:52,943 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-16 14:24:54,807 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:24:57,810 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:24:58,692 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:24:58,726 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-16 14:24:59,287 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 14:24:59,290 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-16 14:25:01,151 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:25:03,747 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:25:04,469 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:25:04,508 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-16 14:25:05,038 [main] INFO Jombone - Please enter valid last name
+2021-11-16 14:25:05,039 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 14:25:05,039 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 14:25:06,825 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:25:09,428 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:25:10,181 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:25:10,217 [main] INFO Jombone - Entered Last Name 
+2021-11-16 14:25:10,658 [main] INFO Jombone - Please enter last name
+2021-11-16 14:25:10,659 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 14:25:10,659 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name
+2021-11-16 14:38:49,250 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:38:51,837 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:38:52,627 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:38:52,642 [main] INFO Jombone - Displayed Candidate SignUp form--> Met Acceptance Criteria
+2021-11-16 14:38:54,701 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:38:57,410 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:38:58,156 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:38:58,780 [main] INFO Jombone - Entered First Name Saranya Jeyakanth
+2021-11-16 14:38:59,172 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 14:38:59,173 [main] INFO Jombone - Test Case Validation Successfull--> First Name with Characters and Space
+2021-11-16 14:39:01,106 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:03,649 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:04,396 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:04,463 [main] INFO Jombone - Entered First Name !@#$%^&
+2021-11-16 14:39:04,887 [main] INFO Jombone - Please enter valid first name
+2021-11-16 14:39:04,888 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 14:39:04,889 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in First Name
+2021-11-16 14:39:06,851 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:09,355 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:10,081 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:10,151 [main] INFO Jombone - Entered First Name 
+2021-11-16 14:39:10,643 [main] INFO Jombone - Please enter first name
+2021-11-16 14:39:10,643 [main] INFO Jombone - Displayed error message for leaving First name empty-->Met Acceptance Criteria
+2021-11-16 14:39:10,644 [main] INFO Jombone - Test Case Validation Successfull-->Blank in First Name
+2021-11-16 14:39:12,443 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:14,972 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:15,779 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:15,828 [main] INFO Jombone - Entered First Name: Mary had a Little Lamb
+2021-11-16 14:39:16,276 [main] INFO Jombone - First name No Longer than 50 chars, size= 22
+2021-11-16 14:39:16,277 [main] INFO Jombone - No Error Msg displayed-->Met Acceptance Criteria
+2021-11-16 14:39:18,137 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:20,558 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:21,245 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:21,283 [main] INFO Jombone - Input Test data-->abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+2021-11-16 14:39:21,763 [main] INFO Jombone - First name Longer than 50 chars.. limit reached, size= 50
+2021-11-16 14:39:23,690 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:26,242 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:26,929 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:27,005 [main] INFO Jombone - Entered First Name-->7872136571
+2021-11-16 14:39:27,527 [main] INFO Jombone - Error message-->Please enter valid first name
+2021-11-16 14:39:27,527 [main] INFO Jombone - Displayed error message for Numbers-->Met Acceptance Criteria
+2021-11-16 14:39:29,431 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:32,006 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:32,735 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:32,768 [main] INFO Jombone - Entered Last Name Sarani Jey
+2021-11-16 14:39:33,200 [main] INFO Jombone - No-Error Msg displayed--> Met Acceptance Criteria
+2021-11-16 14:39:33,200 [main] INFO Jombone - Test Case Validation Successfull--> Last Name with Characters and Space
+2021-11-16 14:39:35,114 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:37,645 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:38,362 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:38,398 [main] INFO Jombone - Entered Last Name !@#$%^&
+2021-11-16 14:39:38,865 [main] INFO Jombone - Please enter valid last name
+2021-11-16 14:39:38,866 [main] INFO Jombone - Displayed error message for Special characters-->Met Acceptance Criteria
+2021-11-16 14:39:38,866 [main] INFO Jombone - Test Case Validation Successfull-->Special Characters in Last Name
+2021-11-16 14:39:40,688 [main] DEBUG Jombone - Debug logging has started 
+2021-11-16 14:39:43,349 [main] INFO Jombone - Clicking on Look for Job
+2021-11-16 14:39:44,990 [main] INFO Jombone - Clicking on Signup
+2021-11-16 14:39:45,015 [main] INFO Jombone - Entered Last Name 
+2021-11-16 14:39:45,483 [main] INFO Jombone - Please enter last name
+2021-11-16 14:39:45,483 [main] INFO Jombone - Displayed error message for leaving Last name empty-->Met Acceptance Criteria
+2021-11-16 14:39:45,484 [main] INFO Jombone - Test Case Validation Successfull-->Blank in Last Name

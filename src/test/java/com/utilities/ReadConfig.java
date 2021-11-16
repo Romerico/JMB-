@@ -12,7 +12,7 @@ public class ReadConfig
 	// Constructor
 	public ReadConfig()
 	{
-		File src = new File("./Configuration/config.properties");// Creating File object
+		File src = new File("/Users/saranya/git/jombone/Configuration/config.properties");// Creating File object
 			
 		try 
 		{
