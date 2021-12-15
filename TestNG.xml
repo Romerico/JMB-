@@ -12,35 +12,6 @@
 			<!-- packagename.classname -->
 			  <class name="com.testCases.JMB_CASignUp_001" />
                <class name="com.testCases.JMB_CASignUp_002" />
-               <class name="com.testCases.JMB_CASignUp_003" />
-               <class name="com.testCases.JMB_CASignUp_004" />
-               <class name="com.testCases.JMB_CASignUp_005" />
-               <class name="com.testCases.JMB_CASignUp_006" />
-               <class name="com.testCases.JMB_CASignUp_007" />
-               <class name="com.testCases.JMB_CASignUp_008" />
-               <class name="com.testCases.JMB_CASignUp_009" />
-               <class name="com.testCases.JMB_CASignUp_010" />
-                
-		       
-        
-		       
-               
-		
-
-<!--	       <class name="com.testCases.JMB_CASignUp_001" />
-               <class name="com.testCases.JMB_CASignUp_002" />
-               <class name="com.testCases.JMB_CASignUp_003" />
-               <class name="com.testCases.JMB_CASignUp_004" />
-               <class name="com.testCases.JMB_CASignUp_005" />
-               <class name="com.testCases.JMB_CASignUp_006" />
-               <class name="com.testCases.JMB_CASignUp_007" />
-               <class name="com.testCases.JMB_CASignUp_008" />
-               <class name="com.testCases.JMB_CASignUp_009" />
-               <class name="com.testCases.JMB_CASignUp_010" />
-               
-
- -->
-
 		</classes>
 	</test>
 </suite> <!-- Suite --> 

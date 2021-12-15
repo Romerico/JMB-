@@ -18,7 +18,7 @@ public class LoginPage {
 
 	public LoginPage(WebDriver rdriver) {
 		ldriver = rdriver;
-		PageFactory.initElements(rdriver, this);
+		PageFactory.initElements(ldriver, this);
 	}
 
 	// Capture email field

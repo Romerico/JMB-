@@ -14,7 +14,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.asserts.SoftAssert;
 
 import com.utilities.ReadConfig;
 
@@ -42,9 +41,7 @@ public class BaseClass
 			//Using the accept insecure cert method with true as parameter to accept the untrusted certificate
 			handlingSSL.setAcceptInsecureCerts(true);
 			//Creating instance of Chrome driver by passing reference of ChromeOptions object
-			System.setProperty("webdriver.chrome.driver",
-					"/Users/saranya/git/jombone/Drivers/chromedriver");
-			
+			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\Drivers\\chromedriver.exe");
 			driver = new ChromeDriver(handlingSSL);
 		// Initialization // Logger initiated within the setup method
 		logger=Logger.getLogger("Jombone");// Project Name 

@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.base.BaseClass;
-import com.pageObjects.CA_LandingPage;
 import com.pageObjects.LoginPage;
 
 public class LoginTest extends BaseClass {
@@ -17,9 +16,9 @@ public class LoginTest extends BaseClass {
 		//Started the login test
 		logger.info("Started Logintest");
 		//Create the object for LandingPage
-		CA_LandingPage lp = new CA_LandingPage(driver);
+		LoginPage lp = new LoginPage(driver);
 		//Clicking on Login button
-		lp.clkbtnLogin();
+		lp.clkbtnSubmit();
 		logger.info("Clicked on Login");
 		//Create an object for LoginPage
 		LoginPage loginpg = new LoginPage(driver);

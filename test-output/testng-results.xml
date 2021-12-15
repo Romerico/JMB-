@@ -1,151 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="JomboneTestSuite" duration-ms="63245" started-at="2021-11-16T14:24:07 EST" finished-at="2021-11-16T14:25:10 EST">
+  <suite started-at="2021-12-15T14:33:20 GMT-05:00" name="Default suite" finished-at="2021-12-15T14:33:53 GMT-05:00" duration-ms="33199">
     <groups>
     </groups>
-    <test name="TestNGTest1" duration-ms="63245" started-at="2021-11-16T14:24:07 EST" finished-at="2021-11-16T14:25:10 EST">
-      <class name="com.testCases.JMB_CASignUp_009">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_009@74a10858]" name="setup" is-config="true" duration-ms="3702" started-at="2021-11-16T14:24:59 EST" finished-at="2021-11-16T14:25:03 EST">
+    <test started-at="2021-12-15T14:33:20 GMT-05:00" name="Default test" finished-at="2021-12-15T14:33:53 GMT-05:00" duration-ms="33199">
+      <class name="com.testCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testCases.LoginTest@791f145a]" started-at="2021-12-15T14:33:20 GMT-05:00" name="setup" finished-at="2021-12-15T14:33:27 GMT-05:00" duration-ms="7265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_lastName_SpecialChars()[pri:0, instance:com.testCases.JMB_CASignUp_009@74a10858]" name="testCA_lastName_SpecialChars" duration-ms="1827" started-at="2021-11-16T14:25:03 EST" finished-at="2021-11-16T14:25:05 EST">
+        <test-method signature="Logintest()[pri:1, instance:com.testCases.LoginTest@791f145a]" started-at="2021-12-15T14:33:27 GMT-05:00" name="Logintest" finished-at="2021-12-15T14:33:53 GMT-05:00" duration-ms="25241" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: sbBt' (tried for 25 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: sbBt' (tried for 25 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+at com.pageObjects.LoginPage.clkbtnSubmit(LoginPage.java:78)
+at com.testCases.LoginTest.Logintest(LoginTest.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#sbBt"}
+  (Session info: chrome=96.0.4664.93)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-M8LBSK5', ip: '192.168.29.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b9b8d23e5cb2993e05964ee55ccf914, findElement {using=id, value=sbBt}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 96.0.4664.93, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\simra\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61416}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61416/devtoo..., se:cdpVersion: 96.0.4664.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b9b8d23e5cb2993e05964ee55ccf914
+at jdk.internal.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy18.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCA_lastName_SpecialChars -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_009@74a10858]" name="tearDown" is-config="true" duration-ms="188" started-at="2021-11-16T14:25:05 EST" finished-at="2021-11-16T14:25:05 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_009 -->
-      <class name="com.testCases.JMB_CASignUp_008">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_008@8e24743]" name="setup" is-config="true" duration-ms="3923" started-at="2021-11-16T14:24:53 EST" finished-at="2021-11-16T14:24:57 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_lastName_chars_space()[pri:0, instance:com.testCases.JMB_CASignUp_008@8e24743]" name="testCA_lastName_chars_space" duration-ms="2229" started-at="2021-11-16T14:24:57 EST" finished-at="2021-11-16T14:24:59 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_lastName_chars_space -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_008@8e24743]" name="tearDown" is-config="true" duration-ms="211" started-at="2021-11-16T14:24:59 EST" finished-at="2021-11-16T14:24:59 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_008 -->
-      <class name="com.testCases.JMB_CASignUp_007">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_007@5891e32e]" name="setup" is-config="true" duration-ms="3703" started-at="2021-11-16T14:24:46 EST" finished-at="2021-11-16T14:24:50 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_Numbers()[pri:0, instance:com.testCases.JMB_CASignUp_007@5891e32e]" name="testCA_firstName_Numbers" duration-ms="2275" started-at="2021-11-16T14:24:50 EST" finished-at="2021-11-16T14:24:52 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_Numbers -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_007@5891e32e]" name="tearDown" is-config="true" duration-ms="194" started-at="2021-11-16T14:24:52 EST" finished-at="2021-11-16T14:24:53 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_007 -->
-      <class name="com.testCases.JMB_CASignUp_006">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_006@7a30d1e6]" name="setup" is-config="true" duration-ms="3981" started-at="2021-11-16T14:24:38 EST" finished-at="2021-11-16T14:24:42 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_Longer_than_50()[pri:0, instance:com.testCases.JMB_CASignUp_006@7a30d1e6]" name="testCA_firstName_Longer_than_50" duration-ms="4164" started-at="2021-11-16T14:24:42 EST" finished-at="2021-11-16T14:24:46 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_Longer_than_50 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_006@7a30d1e6]" name="tearDown" is-config="true" duration-ms="185" started-at="2021-11-16T14:24:46 EST" finished-at="2021-11-16T14:24:46 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_006 -->
-      <class name="com.testCases.JMB_CASignUp_005">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_005@553a3d88]" name="setup" is-config="true" duration-ms="4248" started-at="2021-11-16T14:24:31 EST" finished-at="2021-11-16T14:24:36 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_NoLonger50()[pri:0, instance:com.testCases.JMB_CASignUp_005@553a3d88]" name="testCA_firstName_NoLonger50" duration-ms="2394" started-at="2021-11-16T14:24:36 EST" finished-at="2021-11-16T14:24:38 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_NoLonger50 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_005@553a3d88]" name="tearDown" is-config="true" duration-ms="202" started-at="2021-11-16T14:24:38 EST" finished-at="2021-11-16T14:24:38 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_005 -->
-      <class name="com.testCases.JMB_CASignUp_004">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_004@64f6106c]" name="setup" is-config="true" duration-ms="3614" started-at="2021-11-16T14:24:26 EST" finished-at="2021-11-16T14:24:29 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_Blank()[pri:0, instance:com.testCases.JMB_CASignUp_004@64f6106c]" name="testCA_firstName_Blank" duration-ms="1829" started-at="2021-11-16T14:24:29 EST" finished-at="2021-11-16T14:24:31 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_Blank -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_004@64f6106c]" name="tearDown" is-config="true" duration-ms="188" started-at="2021-11-16T14:24:31 EST" finished-at="2021-11-16T14:24:31 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_004 -->
-      <class name="com.testCases.JMB_CASignUp_003">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_003@33723e30]" name="setup" is-config="true" duration-ms="3566" started-at="2021-11-16T14:24:20 EST" finished-at="2021-11-16T14:24:23 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_SpecialChars()[pri:0, instance:com.testCases.JMB_CASignUp_003@33723e30]" name="testCA_firstName_SpecialChars" duration-ms="2059" started-at="2021-11-16T14:24:23 EST" finished-at="2021-11-16T14:24:25 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_SpecialChars -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_003@33723e30]" name="tearDown" is-config="true" duration-ms="181" started-at="2021-11-16T14:24:25 EST" finished-at="2021-11-16T14:24:26 EST">
+        </test-method> <!-- Logintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.LoginTest@791f145a]" started-at="2021-12-15T14:33:53 GMT-05:00" name="tearDown" finished-at="2021-12-15T14:33:53 GMT-05:00" duration-ms="650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_003 -->
-      <class name="com.testCases.JMB_CASignUp_002">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_002@43bd930a]" name="setup" is-config="true" duration-ms="3732" started-at="2021-11-16T14:24:14 EST" finished-at="2021-11-16T14:24:17 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_firstName_chars_space()[pri:0, instance:com.testCases.JMB_CASignUp_002@43bd930a]" name="testCA_firstName_chars_space" duration-ms="2232" started-at="2021-11-16T14:24:17 EST" finished-at="2021-11-16T14:24:20 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_firstName_chars_space -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_002@43bd930a]" name="tearDown" is-config="true" duration-ms="180" started-at="2021-11-16T14:24:20 EST" finished-at="2021-11-16T14:24:20 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_002 -->
-      <class name="com.testCases.JMB_CASignUp_001">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_001@b7dd107]" name="setup" is-config="true" duration-ms="4573" started-at="2021-11-16T14:24:07 EST" finished-at="2021-11-16T14:24:12 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCandidateSignUpLink()[pri:0, instance:com.testCases.JMB_CASignUp_001@b7dd107]" name="testCandidateSignUpLink" duration-ms="1542" started-at="2021-11-16T14:24:12 EST" finished-at="2021-11-16T14:24:13 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCandidateSignUpLink -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_001@b7dd107]" name="tearDown" is-config="true" duration-ms="210" started-at="2021-11-16T14:24:13 EST" finished-at="2021-11-16T14:24:14 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_001 -->
-      <class name="com.testCases.JMB_CASignUp_010">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CASignUp_010@23fe1d71]" name="setup" is-config="true" duration-ms="3681" started-at="2021-11-16T14:25:05 EST" finished-at="2021-11-16T14:25:08 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCA_lastName_Blank()[pri:0, instance:com.testCases.JMB_CASignUp_010@23fe1d71]" name="testCA_lastName_Blank" duration-ms="1748" started-at="2021-11-16T14:25:08 EST" finished-at="2021-11-16T14:25:10 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCA_lastName_Blank -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CASignUp_010@23fe1d71]" name="tearDown" is-config="true" duration-ms="265" started-at="2021-11-16T14:25:10 EST" finished-at="2021-11-16T14:25:10 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.testCases.JMB_CASignUp_010 -->
-    </test> <!-- TestNGTest1 -->
-  </suite> <!-- JomboneTestSuite -->
+      </class> <!-- com.testCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
