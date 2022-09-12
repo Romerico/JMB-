@@ -11,7 +11,7 @@
 		<classes>
 			<!-- packagename.classname -->
 			  <class name="com.testCases.JMB_CASignUp_001" />
-               <class name="com.testCases.JMB_CASignUp_002" />
+			  <class name="com.testCases.JMB_CASignUp_002" />
 		</classes>
 	</test>
-</suite> <!-- Suite --> 
+</suite> <!-- Suite -->

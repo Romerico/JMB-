@@ -3034,3 +3034,1035 @@
 2021-12-15 14:30:16,571 - Jombone -INFO - Started Logintest
 2021-12-15 14:33:23,269 - Jombone -DEBUG - Debug logging has started 
 2021-12-15 14:33:27,800 - Jombone -INFO - Started Logintest
+2022-09-05 07:25:33,992 - Jombone -DEBUG - Debug logging has started 
+2022-09-05 07:25:47,190 - Jombone -INFO - Started Logintest
+2022-09-05 07:27:52,228 - Jombone -DEBUG - Debug logging has started 
+2022-09-05 07:28:01,434 - Jombone -INFO - Started LookingForWorkButtonTest
+2022-09-05 07:28:01,468 - Jombone -INFO - Clicked on Looking for Work
+2022-09-05 07:28:05,071 - Jombone -ERROR - Test Failed! User is redirected to other page!
+2022-09-05 07:28:40,144 - Jombone -DEBUG - Debug logging has started 
+2022-09-05 07:28:49,728 - Jombone -INFO - Started LookingForWorkButtonTest
+2022-09-05 07:28:49,794 - Jombone -INFO - Clicked on Looking for Work
+2022-09-05 07:28:52,650 - Jombone -ERROR - Test Failed! User is redirected to other page!
+2022-09-05 07:30:40,226 - Jombone -DEBUG - Debug logging has started 
+2022-09-05 07:30:51,006 - Jombone -INFO - Started LookingForWorkButtonTest
+2022-09-05 07:30:51,056 - Jombone -INFO - Clicked on Looking for Work
+2022-09-05 07:30:54,914 - Jombone -ERROR - Test Failed! User is redirected to other page!
+2022-09-05 07:32:06,766 - Jombone -DEBUG - Debug logging has started 
+2022-09-05 07:32:18,179 - Jombone -INFO - Started LookingForWorkButtonTest
+2022-09-05 07:32:18,227 - Jombone -INFO - Clicked on Looking for Work
+2022-09-05 07:32:24,359 - Jombone -ERROR - Test Failed! User is redirected to other page!
+2022-09-06 01:40:21,223 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:40:23,932 - Jombone -INFO - Started First Name Test
+2022-09-06 01:40:23,987 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:40:24,565 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:40:24,565 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:44:05,783 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:44:08,393 - Jombone -INFO - Started First Name Test
+2022-09-06 01:44:08,462 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:44:09,161 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:44:09,162 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:46:07,075 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:46:09,282 - Jombone -INFO - Started First Name Test
+2022-09-06 01:46:09,343 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:46:09,824 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:46:09,824 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:48:33,901 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:48:36,415 - Jombone -INFO - Started First Name Test
+2022-09-06 01:48:36,462 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:48:37,106 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:48:37,106 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:49:06,176 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:49:08,932 - Jombone -INFO - Started First Name Test
+2022-09-06 01:49:08,978 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:49:09,486 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:49:09,487 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:50:46,726 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:50:48,911 - Jombone -INFO - Started First Name Test
+2022-09-06 01:50:48,991 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:50:49,569 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:50:49,571 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:54:20,403 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:54:22,968 - Jombone -INFO - Started First Name Test
+2022-09-06 01:54:23,038 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:54:23,592 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:54:23,592 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:56:54,419 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:56:56,883 - Jombone -INFO - Started First Name Test
+2022-09-06 01:56:56,955 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:56:57,504 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:56:57,506 - Jombone -INFO - Clicked on candidate link
+2022-09-06 01:59:01,899 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 01:59:04,215 - Jombone -INFO - Started First Name Test
+2022-09-06 01:59:04,269 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 01:59:04,768 - Jombone -INFO - Clicked on Sign up
+2022-09-06 01:59:04,769 - Jombone -INFO - Clicked on candidate link
+2022-09-06 02:00:10,212 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 02:00:12,508 - Jombone -INFO - Started First Name Test
+2022-09-06 02:00:12,589 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 02:00:13,336 - Jombone -INFO - Clicked on Sign up
+2022-09-06 02:00:13,336 - Jombone -INFO - Clicked on candidate link
+2022-09-06 02:05:59,547 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 02:06:01,896 - Jombone -INFO - Started First Name Test
+2022-09-06 02:06:01,962 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 02:06:02,620 - Jombone -INFO - Clicked on Sign up
+2022-09-06 02:06:02,621 - Jombone -INFO - Clicked on candidate link
+2022-09-06 02:10:34,986 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 02:10:37,225 - Jombone -INFO - Started First Name Test
+2022-09-06 02:10:37,294 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 02:10:38,078 - Jombone -INFO - Clicked on Sign up
+2022-09-06 02:10:38,078 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:06:11,940 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:06:14,253 - Jombone -INFO - Started First Name Test
+2022-09-06 03:06:14,308 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:06:14,916 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:06:14,916 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:06:41,473 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:06:43,602 - Jombone -INFO - Started First Name Test
+2022-09-06 03:06:43,667 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:06:44,146 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:06:44,146 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:09:59,233 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:10:01,325 - Jombone -INFO - Started First Name Test
+2022-09-06 03:10:01,372 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:10:01,938 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:10:01,939 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:10:21,084 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:10:23,314 - Jombone -INFO - Started First Name Test
+2022-09-06 03:10:23,395 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:10:24,027 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:10:24,027 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:16:39,682 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:16:41,869 - Jombone -INFO - Started First Name Test
+2022-09-06 03:16:41,936 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:16:42,500 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:16:42,500 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:21:06,220 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:21:08,297 - Jombone -INFO - Started First Name Test
+2022-09-06 03:21:08,361 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:21:09,175 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:21:09,176 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:24:30,883 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:24:32,718 - Jombone -INFO - Started First Name Test
+2022-09-06 03:24:32,811 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:24:33,739 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:24:33,740 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:26:37,814 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:26:39,869 - Jombone -INFO - Started First Name Test
+2022-09-06 03:26:39,939 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:26:40,442 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:26:40,442 - Jombone -INFO - Clicked on candidate link
+2022-09-06 03:40:55,536 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:40:58,068 - Jombone -INFO - Started First Name Test
+2022-09-06 03:40:58,139 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:40:58,802 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:44:31,366 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:44:33,749 - Jombone -INFO - Started First Name Test
+2022-09-06 03:44:33,842 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:44:34,564 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:48:24,267 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:48:26,728 - Jombone -INFO - Started First Name Test
+2022-09-06 03:48:26,789 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:48:27,730 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:49:35,884 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:49:38,100 - Jombone -INFO - Started First Name Test
+2022-09-06 03:49:38,171 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:49:38,719 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:49:39,610 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 03:50:11,603 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 03:50:13,716 - Jombone -INFO - Started First Name Test
+2022-09-06 03:50:13,794 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 03:50:14,324 - Jombone -INFO - Clicked on Sign up
+2022-09-06 03:50:14,995 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 04:09:16,827 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 04:09:19,031 - Jombone -INFO - Started First Name Test
+2022-09-06 04:09:19,111 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 04:09:19,578 - Jombone -INFO - Clicked on Sign up
+2022-09-06 04:09:20,290 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 04:12:23,800 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 04:12:25,950 - Jombone -INFO - Started First Name Test
+2022-09-06 04:12:26,019 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 04:12:26,648 - Jombone -INFO - Clicked on Sign up
+2022-09-06 04:12:27,579 - Jombone -INFO - Landed on sign up acceptance criteria
+2022-09-06 04:12:27,584 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 04:36:40,375 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 04:36:43,317 - Jombone -INFO - Started First Name Test
+2022-09-06 04:36:43,393 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 04:36:44,192 - Jombone -INFO - Clicked on Sign up
+2022-09-06 04:36:45,067 - Jombone -INFO - Landed on sign up acceptance criteria
+2022-09-06 04:36:45,072 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 04:38:20,493 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 04:38:22,583 - Jombone -INFO - Started First Name Test
+2022-09-06 04:38:22,659 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 04:38:23,208 - Jombone -INFO - Clicked on Sign up
+2022-09-06 04:38:24,167 - Jombone -INFO - Landed on sign up acceptance criteria
+2022-09-06 04:38:24,176 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 04:41:31,526 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 04:41:33,270 - Jombone -INFO - Started First Name Test
+2022-09-06 04:41:33,306 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 04:41:33,773 - Jombone -INFO - Clicked on Sign up
+2022-09-06 04:41:34,670 - Jombone -INFO - Landed on sign up
+2022-09-06 04:41:34,676 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:03:19,117 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:03:21,114 - Jombone -INFO - Started First Name Test
+2022-09-06 06:03:21,193 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:03:21,709 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:05:06,610 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:05:08,413 - Jombone -INFO - Started First Name Test
+2022-09-06 06:05:09,030 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:06:21,275 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:06:23,815 - Jombone -INFO - Started First Name Test
+2022-09-06 06:06:24,401 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:06:25,341 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:06:25,351 - Jombone -INFO - Landed on sign up
+2022-09-06 06:06:25,357 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:06:25,481 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-06 06:11:12,310 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:11:14,488 - Jombone -INFO - Started First Name Test
+2022-09-06 06:11:15,243 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:11:16,150 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:11:16,161 - Jombone -INFO - Landed on sign up
+2022-09-06 06:11:16,165 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:12:45,090 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:12:46,806 - Jombone -INFO - Started First Name Test
+2022-09-06 06:12:47,381 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:12:48,255 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:12:48,265 - Jombone -INFO - Landed on sign up
+2022-09-06 06:12:48,271 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:28:58,122 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:29:00,512 - Jombone -INFO - Started First Name Test
+2022-09-06 06:29:01,086 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:29:02,061 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:29:02,071 - Jombone -INFO - Landed on sign up
+2022-09-06 06:29:02,077 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:30:52,630 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:30:54,431 - Jombone -INFO - Started First Name Test
+2022-09-06 06:30:55,024 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:30:55,824 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:30:55,837 - Jombone -INFO - Landed on sign up
+2022-09-06 06:30:55,842 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:33:50,194 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:33:52,813 - Jombone -INFO - Started First Name Test
+2022-09-06 06:33:53,390 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:33:54,468 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:33:54,479 - Jombone -INFO - Landed on sign up
+2022-09-06 06:33:54,483 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:45:09,219 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:45:11,140 - Jombone -INFO - Started First Name Test
+2022-09-06 06:45:12,069 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:45:13,031 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:45:13,039 - Jombone -INFO - Landed on sign up
+2022-09-06 06:45:13,045 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:56:05,175 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:56:12,782 - Jombone -INFO - Started First Name Test
+2022-09-06 06:56:13,735 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:56:14,719 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:56:14,757 - Jombone -INFO - Landed on sign up
+2022-09-06 06:56:14,763 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:56:44,967 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:56:52,740 - Jombone -INFO - Started First Name Test
+2022-09-06 06:56:53,843 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:56:54,677 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:56:54,718 - Jombone -INFO - Landed on sign up
+2022-09-06 06:56:54,724 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 06:59:40,719 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 06:59:48,235 - Jombone -INFO - Started First Name Test
+2022-09-06 06:59:49,504 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 06:59:51,192 - Jombone -INFO - Clicked on Sign up
+2022-09-06 06:59:51,223 - Jombone -INFO - Landed on sign up
+2022-09-06 06:59:51,229 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:00:38,994 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:00:46,506 - Jombone -INFO - Started First Name Test
+2022-09-06 07:00:47,521 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:00:49,476 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:00:49,485 - Jombone -INFO - Landed on sign up
+2022-09-06 07:00:49,489 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:03:30,322 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:03:37,894 - Jombone -INFO - Started First Name Test
+2022-09-06 07:03:38,938 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:03:40,887 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:03:40,901 - Jombone -INFO - Landed on sign up
+2022-09-06 07:03:40,904 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:06:56,356 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:07:03,922 - Jombone -INFO - Started First Name Test
+2022-09-06 07:07:04,870 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:07:05,874 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:07:05,889 - Jombone -INFO - Landed on sign up
+2022-09-06 07:07:05,893 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:08:29,294 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:08:32,692 - Jombone -INFO - Started First Name Test
+2022-09-06 07:08:37,723 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:08:39,757 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:08:39,764 - Jombone -INFO - Landed on sign up
+2022-09-06 07:08:39,768 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:10:00,218 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:10:08,150 - Jombone -INFO - Started First Name Test
+2022-09-06 07:10:09,172 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:10:10,088 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:10:10,106 - Jombone -INFO - Landed on sign up
+2022-09-06 07:10:10,109 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:10:29,060 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-06 07:10:59,316 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:11:06,927 - Jombone -INFO - Started First Name Test
+2022-09-06 07:11:07,911 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:11:09,927 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:11:09,935 - Jombone -INFO - Landed on sign up
+2022-09-06 07:11:09,939 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:13:10,575 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:13:17,131 - Jombone -INFO - Started First Name Test
+2022-09-06 07:13:19,124 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:13:21,143 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:13:21,150 - Jombone -INFO - Landed on sign up
+2022-09-06 07:13:21,154 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:16:57,657 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 07:17:05,510 - Jombone -INFO - Started First Name Test
+2022-09-06 07:17:06,479 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 07:17:08,493 - Jombone -INFO - Clicked on Sign up
+2022-09-06 07:17:08,506 - Jombone -INFO - Landed on sign up
+2022-09-06 07:17:08,509 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 07:17:08,637 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-06 07:17:08,638 - Jombone -INFO - Test Passed! User entered the space symbol and everything worked out!
+2022-09-06 07:17:26,375 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-06 20:23:53,773 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 20:23:55,596 - Jombone -INFO - Started First Name Test
+2022-09-06 20:23:56,111 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 20:23:57,118 - Jombone -INFO - Clicked on Sign up
+2022-09-06 20:23:57,129 - Jombone -INFO - Landed on sign up
+2022-09-06 20:23:57,135 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 20:23:57,296 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-06 20:23:57,296 - Jombone -INFO - Test Passed! User entered the space symbol and everything worked out!
+2022-09-06 20:23:57,689 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-06 20:40:57,439 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 20:40:59,379 - Jombone -INFO - Started First Name Test
+2022-09-06 20:40:59,915 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 20:41:01,222 - Jombone -INFO - Clicked on Sign up
+2022-09-06 20:41:01,233 - Jombone -INFO - Landed on sign up
+2022-09-06 20:41:01,238 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 20:41:01,388 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-06 20:41:01,389 - Jombone -INFO - Test Passed! User entered the space symbol and everything worked out!
+2022-09-06 20:41:01,760 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-06 23:29:38,829 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:29:46,650 - Jombone -INFO - Started First Name Special Characters Test
+2022-09-06 23:29:47,621 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:29:49,640 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:29:49,673 - Jombone -INFO - Landed on sign up
+2022-09-06 23:29:49,680 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 23:29:49,808 - Jombone -ERROR - Test Failed! User gets different message, which is Please enter valid first name
+2022-09-06 23:29:49,808 - Jombone -INFO - Validating if there's an error message that meets requirements
+2022-09-06 23:30:07,579 - Jombone -INFO - Completed specialCharactersTest
+2022-09-06 23:31:24,286 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:31:32,564 - Jombone -INFO - Started First Name Special Characters Test
+2022-09-06 23:31:33,552 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:31:36,533 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:31:36,572 - Jombone -INFO - Landed on sign up
+2022-09-06 23:31:36,581 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 23:31:36,678 - Jombone -INFO - Validating if there's an error message that meets requirements
+2022-09-06 23:31:36,705 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid first name
+2022-09-06 23:31:54,376 - Jombone -INFO - Completed specialCharactersTest
+2022-09-06 23:39:44,114 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:39:53,101 - Jombone -INFO - Started First Name Blank Test
+2022-09-06 23:39:54,397 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:39:56,754 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:39:56,762 - Jombone -INFO - Landed on sign up
+2022-09-06 23:39:56,764 - Jombone -INFO - Entered characters with space in First Name
+2022-09-06 23:41:26,748 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:41:33,811 - Jombone -INFO - Started First Name Special Characters Test
+2022-09-06 23:41:35,618 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:41:36,866 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:41:36,873 - Jombone -INFO - Landed on sign up
+2022-09-06 23:41:36,876 - Jombone -INFO - Entered special characters in First Name
+2022-09-06 23:41:55,482 - Jombone -INFO - Completed specialCharactersTest
+2022-09-06 23:42:45,996 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:42:53,701 - Jombone -INFO - Started First Name Special Characters Test
+2022-09-06 23:42:55,059 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:42:56,692 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:42:56,731 - Jombone -INFO - Landed on sign up
+2022-09-06 23:42:56,735 - Jombone -INFO - Entered special characters in First Name
+2022-09-06 23:43:14,561 - Jombone -INFO - Completed specialCharactersTest
+2022-09-06 23:46:47,135 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:46:54,897 - Jombone -INFO - Started First Name Special Characters Test
+2022-09-06 23:46:55,973 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:46:57,891 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:46:57,900 - Jombone -INFO - Landed on sign up
+2022-09-06 23:46:57,904 - Jombone -INFO - Entered special characters in First Name
+2022-09-06 23:46:58,017 - Jombone -INFO - Validating if error message meets requirements
+2022-09-06 23:46:58,047 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid first name
+2022-09-06 23:47:15,744 - Jombone -INFO - Completed specialCharactersTest
+2022-09-06 23:50:54,061 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:51:01,489 - Jombone -INFO - Started First Name Blank Test
+2022-09-06 23:51:04,228 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:51:06,227 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:51:06,235 - Jombone -INFO - Landed on sign up
+2022-09-06 23:51:06,238 - Jombone -INFO - Clicked the textbox and left it
+2022-09-06 23:51:06,299 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-06 23:54:34,515 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:54:42,208 - Jombone -INFO - Started First Name Blank Test
+2022-09-06 23:54:43,145 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:54:45,174 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:54:45,217 - Jombone -INFO - Landed on sign up
+2022-09-06 23:54:45,221 - Jombone -INFO - Clicked the textbox and left it
+2022-09-06 23:54:45,305 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-06 23:54:45,354 - Jombone -INFO - Test Passed! User left the textbox empty and validation message meets the requirements !
+2022-09-06 23:55:03,090 - Jombone -INFO - Completed candidateFirstNameBlankTest
+2022-09-06 23:55:53,616 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:56:01,460 - Jombone -INFO - Started First Name Blank Test
+2022-09-06 23:56:02,590 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:56:04,427 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:56:04,436 - Jombone -INFO - Landed on sign up
+2022-09-06 23:56:04,440 - Jombone -INFO - Clicked the textbox and left it
+2022-09-06 23:56:04,537 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-06 23:56:04,565 - Jombone -INFO - Test Passed! User left the textbox empty and validation message meets the requirements !
+2022-09-06 23:56:22,559 - Jombone -INFO - Completed candidateFirstNameBlankTest
+2022-09-06 23:57:04,443 - Jombone -DEBUG - Debug logging has started 
+2022-09-06 23:57:11,051 - Jombone -INFO - Started First Name Blank Test
+2022-09-06 23:57:13,065 - Jombone -INFO - Clicked on Looking for Work
+2022-09-06 23:57:15,047 - Jombone -INFO - Clicked on Sign up
+2022-09-06 23:57:15,056 - Jombone -INFO - Landed on sign up
+2022-09-06 23:57:15,061 - Jombone -INFO - Clicked the textbox and left it
+2022-09-06 23:57:15,163 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-06 23:57:15,200 - Jombone -INFO - Test Passed! User left the textbox empty and validation message meets the requirements :Please enter first name
+2022-09-06 23:57:32,937 - Jombone -INFO - Completed candidateFirstNameBlankTest
+2022-09-07 02:35:39,364 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 02:35:41,712 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 02:35:42,573 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 02:35:42,573 - Jombone -INFO - Clicked on Sign up
+2022-09-07 02:36:14,718 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 02:36:17,255 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 02:36:17,961 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 02:36:17,962 - Jombone -INFO - Clicked on Sign up
+2022-09-07 02:36:47,661 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 02:36:50,010 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 02:36:50,692 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 02:37:44,652 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 02:37:46,859 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 02:37:47,457 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 02:38:23,604 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 02:38:25,677 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 02:38:26,490 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 02:38:27,400 - Jombone -INFO - Clicked on Sign up
+2022-09-07 02:38:27,427 - Jombone -INFO - Landed on sign up
+2022-09-07 02:38:27,433 - Jombone -INFO - Clicked the textbox and left it
+2022-09-07 02:38:27,547 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-07 02:38:27,576 - Jombone -INFO - Test Passed! User left the textbox empty and validation message meets requirements : Please enter first name
+2022-09-07 02:38:27,989 - Jombone -INFO - Completed candidateFirstNameBlankTest
+2022-09-07 04:48:51,060 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 04:48:53,068 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 04:48:53,813 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 04:52:28,085 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 04:52:29,953 - Jombone -INFO - Started First Name Blank Test
+2022-09-07 04:52:30,596 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 04:52:31,460 - Jombone -INFO - Clicked on Sign up
+2022-09-07 04:52:31,470 - Jombone -INFO - Landed on sign up
+2022-09-07 04:52:31,475 - Jombone -INFO - Clicked the textbox and left it
+2022-09-07 04:52:31,601 - Jombone -INFO - Validate if the empty name error message meets requirements
+2022-09-07 04:52:31,646 - Jombone -INFO - Test Passed! User left the textbox empty and validation message meets requirements : Please enter first name
+2022-09-07 04:52:32,082 - Jombone -INFO - Completed candidateFirstNameBlankTest
+2022-09-07 04:59:53,112 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 04:59:55,184 - Jombone -INFO - Started LookingForWorkButtonTest
+2022-09-07 04:59:55,255 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 04:59:58,135 - Jombone -INFO - Clicked on Sign up
+2022-09-07 04:59:58,145 - Jombone -INFO - Test Passed! User is redirected to signup form!
+2022-09-07 04:59:58,146 - Jombone -INFO - Completed LookingForWorkButtonTest
+2022-09-07 05:18:50,282 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 05:18:52,885 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Postive)
+2022-09-07 05:18:53,529 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 05:18:54,530 - Jombone -INFO - Clicked on Sign up
+2022-09-07 05:18:54,724 - Jombone -INFO - Passing 50 acceptable symbols to textbox
+2022-09-07 05:18:54,760 - Jombone -INFO - validating if there's any error message
+2022-09-07 05:18:55,128 - Jombone -INFO - Completed noLongerThan50CharactersTest
+2022-09-07 05:22:25,135 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 05:22:27,665 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Postive)
+2022-09-07 05:22:28,497 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 05:22:29,602 - Jombone -INFO - Clicked on Sign up
+2022-09-07 05:22:29,807 - Jombone -INFO - Passing 50 acceptable symbols to textbox
+2022-09-07 05:22:29,807 - Jombone -INFO - validating if there's any error message
+2022-09-07 05:22:30,309 - Jombone -INFO - Completed noLongerThan50CharactersTest
+2022-09-07 05:25:47,352 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 05:25:49,290 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Postive)
+2022-09-07 05:25:49,827 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 05:25:50,730 - Jombone -INFO - Clicked on Sign up
+2022-09-07 05:25:50,879 - Jombone -INFO - Passing 50 acceptable symbols to textbox
+2022-09-07 05:25:50,880 - Jombone -INFO - validating if there's any error message
+2022-09-07 05:25:50,908 - Jombone -INFO - Test Passed!
+2022-09-07 05:25:51,340 - Jombone -INFO - Completed noLongerThan50CharactersTest
+2022-09-07 05:26:08,492 - Jombone -DEBUG - Debug logging has started 
+2022-09-07 05:26:10,821 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-07 05:26:11,625 - Jombone -INFO - Clicked on Looking for Work
+2022-09-07 05:26:12,486 - Jombone -INFO - Clicked on Sign up
+2022-09-07 05:26:12,487 - Jombone -INFO - Entered characters with space in First Name
+2022-09-07 05:26:12,650 - Jombone -INFO - Test Passed!
+2022-09-07 05:26:12,650 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-07 05:26:13,064 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-08 02:52:35,182 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 02:52:42,503 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 02:52:43,872 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 02:52:44,729 - Jombone -INFO - Clicked on Sign up
+2022-09-08 02:52:44,931 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 02:52:44,932 - Jombone -INFO - validating if there's any error message
+2022-09-08 02:52:44,964 - Jombone -INFO - Test Passed!
+2022-09-08 02:53:04,759 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 02:53:32,731 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 02:53:36,187 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 02:53:41,294 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 02:53:42,282 - Jombone -INFO - Clicked on Sign up
+2022-09-08 02:53:42,438 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 02:53:42,439 - Jombone -INFO - validating if there's any error message
+2022-09-08 02:53:42,461 - Jombone -INFO - Test Passed!
+2022-09-08 02:54:02,247 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 03:41:58,925 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:42:06,633 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:42:07,570 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:42:08,581 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:42:08,746 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:42:28,599 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 03:44:23,926 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:44:32,531 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:44:33,483 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:44:34,474 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:44:34,628 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:44:52,365 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 03:46:49,368 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:47:35,974 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:47:42,448 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:47:44,469 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:47:45,389 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:47:47,499 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:50:35,891 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:50:43,611 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:50:44,681 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:50:45,555 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:50:45,725 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:51:04,469 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 03:51:40,341 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:51:47,869 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:51:48,808 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:51:49,821 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:51:49,821 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:52:09,735 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 03:52:53,848 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 03:53:01,632 - Jombone -INFO - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-08 03:53:02,628 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 03:53:04,618 - Jombone -INFO - Clicked on Sign up
+2022-09-08 03:53:04,619 - Jombone -INFO - Passing 51 acceptable symbols to textbox
+2022-09-08 03:53:23,492 - Jombone -INFO - Completed noLongerThan50CharactersNegativeTest
+2022-09-08 04:00:58,054 - Jombone -DEBUG - Debug logging has started 
+2022-09-08 04:01:05,370 - Jombone -INFO - Started Candidate -First Name- number (Negative)
+2022-09-08 04:01:07,995 - Jombone -INFO - Clicked on Looking for Work
+2022-09-08 04:01:09,131 - Jombone -INFO - Clicked on Sign up
+2022-09-08 04:01:09,213 - Jombone -INFO - passing a number into a First name textbox
+2022-09-08 04:01:09,213 - Jombone -INFO - Validating if error message meets requirements
+2022-09-08 04:01:09,239 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid first name
+2022-09-08 04:01:26,832 - Jombone -INFO - Completed candidateFirstNameNumberTest
+2022-09-09 05:15:38,772 - Jombone -DEBUG - Debug logging has started 
+2022-09-09 05:15:41,461 - Jombone -INFO - Started  Candidate - Last Name- characters and space (Positive)
+2022-09-09 05:15:42,185 - Jombone -INFO - Clicked on Looking for Work
+2022-09-09 05:15:43,417 - Jombone -INFO - Clicked on Sign up
+2022-09-09 05:15:43,556 - Jombone -INFO - Enter characters with space in Last Name.
+2022-09-09 05:15:43,557 - Jombone -INFO - validate if there's any error
+2022-09-09 05:15:43,620 - Jombone -INFO - Test Passed!
+2022-09-09 05:15:44,019 - Jombone -INFO - Completed candidateFirstNameNumberTest
+2022-09-09 05:18:12,435 - Jombone -DEBUG - Debug logging has started 
+2022-09-09 05:18:15,674 - Jombone -INFO - Started  Candidate - Last Name- characters and space (Positive)
+2022-09-09 05:18:16,471 - Jombone -INFO - Clicked on Looking for Work
+2022-09-09 05:18:17,483 - Jombone -INFO - Clicked on Sign up
+2022-09-09 05:18:17,585 - Jombone -INFO - Enter characters with space in Last Name.
+2022-09-09 05:18:17,586 - Jombone -INFO - validate if there's any error
+2022-09-09 05:18:17,630 - Jombone -INFO - Test Passed!
+2022-09-09 05:18:18,016 - Jombone -INFO - Completed candidateLastNameSpaceTest
+2022-09-09 05:19:01,752 - Jombone -DEBUG - Debug logging has started 
+2022-09-09 05:19:04,153 - Jombone -INFO - Started Candidate -First Name- number (Negative)
+2022-09-09 05:19:04,868 - Jombone -INFO - Clicked on Looking for Work
+2022-09-09 05:19:05,713 - Jombone -INFO - Clicked on Sign up
+2022-09-09 05:19:05,832 - Jombone -INFO - passing a number into a First name textbox
+2022-09-09 05:19:05,832 - Jombone -INFO - Validating if error message meets requirements
+2022-09-09 05:19:05,862 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid first name
+2022-09-09 05:19:06,297 - Jombone -INFO - Completed candidateFirstNameNumberTest
+2022-09-09 05:23:13,420 - Jombone -DEBUG - Debug logging has started 
+2022-09-09 05:23:15,646 - Jombone -INFO - Started Candidate - Last Name  - special characters (Negative)
+2022-09-09 05:23:16,290 - Jombone -INFO - Clicked on Looking for Work
+2022-09-09 05:23:17,102 - Jombone -INFO - Clicked on Sign up
+2022-09-09 05:23:17,228 - Jombone -INFO - Enter special characters in Last Name.
+2022-09-09 05:23:17,229 - Jombone -INFO - validate if there's any error
+2022-09-09 05:23:17,281 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid last name
+2022-09-09 05:23:17,721 - Jombone -INFO - Completed candidateLastNameSpecCharTest
+2022-09-09 05:30:36,298 - Jombone -DEBUG - Debug logging has started 
+2022-09-09 05:30:38,678 - Jombone -INFO - Started Candidate - Last Name  - special characters (Negative)
+2022-09-09 05:30:39,247 - Jombone -INFO - Clicked on Looking for Work
+2022-09-09 05:30:40,021 - Jombone -INFO - Clicked on Sign up
+2022-09-09 05:30:40,109 - Jombone -INFO - Activating textbox and tab out leaving it blank to call the error message
+2022-09-09 05:30:40,110 - Jombone -INFO - validate an error
+2022-09-09 05:30:40,144 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter last name
+2022-09-09 05:30:40,618 - Jombone -INFO - Completed candidateLastNameBlankTest
+2022-09-10 05:11:20,717 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:11:22,983 - Jombone -INFO - Started Candidate Candidate -Last Name- No longer than 50 characters (Positive)
+2022-09-10 05:11:23,756 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:11:25,318 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:11:25,565 - Jombone -INFO - Activating textbox and tab out leaving it blank to call the error message
+2022-09-10 05:11:25,566 - Jombone -INFO - validate if there's any error
+2022-09-10 05:11:25,602 - Jombone -INFO - Test Passed!
+2022-09-10 05:11:26,054 - Jombone -INFO - Completed candidateLastNameNoLongerThan50CharTest
+2022-09-10 05:15:52,148 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:15:54,674 - Jombone -INFO - Started Candidate -Last Name- longer than 50 characters (Negative)
+2022-09-10 05:15:55,363 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:15:56,546 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:15:56,794 - Jombone -INFO - passing 50 acceptable symbols to textbox + validating if max character meets requirement
+2022-09-10 05:15:57,232 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 05:16:33,472 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:16:35,772 - Jombone -INFO - Started Candidate -Last Name- longer than 50 characters (Negative)
+2022-09-10 05:16:36,484 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:16:37,240 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:16:37,466 - Jombone -INFO - passing 50 acceptable symbols to textbox + validating if max character meets requirement
+2022-09-10 05:16:37,896 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 05:18:24,641 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:18:27,292 - Jombone -INFO - Started Candidate -Last Name- longer than 50 characters (Negative)
+2022-09-10 05:18:28,037 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:18:28,783 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:18:28,785 - Jombone -INFO - passing 50 acceptable symbols to textbox + validating if max character meets requirement
+2022-09-10 05:18:29,518 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 05:18:50,252 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:18:52,562 - Jombone -INFO - Started Candidate -Last Name- longer than 50 characters (Negative)
+2022-09-10 05:18:53,065 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:18:54,288 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:18:54,289 - Jombone -INFO - passing 50 acceptable symbols to textbox + validating if max character meets requirement
+2022-09-10 05:18:54,920 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 05:23:19,215 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:23:21,241 - Jombone -INFO - Started Candidate -Last Name- number (Negative)
+2022-09-10 05:23:21,958 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:23:22,915 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:23:23,044 - Jombone -INFO - passing number to last name textbox
+2022-09-10 05:23:23,044 - Jombone -INFO - validate an error
+2022-09-10 05:23:23,076 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid last name
+2022-09-10 05:23:23,536 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 05:25:14,729 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 05:25:17,605 - Jombone -INFO - Started Candidate -Last Name- number (Negative)
+2022-09-10 05:25:18,385 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 05:25:19,376 - Jombone -INFO - Clicked on Sign up
+2022-09-10 05:25:19,486 - Jombone -INFO - passing number to last name textbox
+2022-09-10 05:25:19,486 - Jombone -INFO - validate an error
+2022-09-10 05:25:19,516 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid last name
+2022-09-10 05:25:19,973 - Jombone -INFO - Completed candidateLastNameLongerThan50CharTest
+2022-09-10 19:25:01,400 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:25:03,506 - Jombone -INFO - Started Candidate -Email (Negative) Irregular Expression
+2022-09-10 19:25:04,183 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:25:05,037 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:25:05,218 - Jombone -INFO - passing number to last name textbox
+2022-09-10 19:25:05,219 - Jombone -INFO - validate an error
+2022-09-10 19:25:05,677 - Jombone -INFO - Completed candidateEmailIrregularExpression
+2022-09-10 19:27:32,289 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:27:34,810 - Jombone -INFO - Started Candidate -Email (Negative) Irregular Expression
+2022-09-10 19:27:35,580 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:27:37,022 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:27:37,233 - Jombone -INFO - passing number to last name textbox
+2022-09-10 19:27:37,233 - Jombone -INFO - validate an error
+2022-09-10 19:27:37,310 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid email
+2022-09-10 19:27:37,310 - Jombone -INFO - validate an error message
+2022-09-10 19:27:37,695 - Jombone -INFO - Completed candidateEmailIrregularExpression
+2022-09-10 19:30:06,266 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:30:08,422 - Jombone -INFO - Started Candidate -Email (Negative) Irregular Expression
+2022-09-10 19:30:09,149 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:30:10,052 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:30:10,267 - Jombone -INFO - passing irregular expression to last email textbox
+2022-09-10 19:30:10,268 - Jombone -INFO - validate an error message
+2022-09-10 19:30:10,299 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid email
+2022-09-10 19:30:10,740 - Jombone -INFO - Completed candidateEmailIrregularExpression
+2022-09-10 19:30:34,277 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:30:36,916 - Jombone -INFO - Started Candidate click on candidate link Test
+2022-09-10 19:30:36,998 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:30:38,562 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:30:38,614 - Jombone -INFO - Test Passed! User is redirected to signup form!
+2022-09-10 19:30:38,615 - Jombone -INFO - Completed LookingForWorkButtonTest
+2022-09-10 19:31:43,482 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:31:45,381 - Jombone -INFO - Started Candidate - Email (Negative) Blank
+2022-09-10 19:31:46,117 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:31:47,544 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:31:47,691 - Jombone -INFO - leaving email textbox empty
+2022-09-10 19:31:47,692 - Jombone -INFO - validate an error message
+2022-09-10 19:31:47,728 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter email address
+2022-09-10 19:31:48,097 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-10 19:32:11,211 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:32:13,237 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-10 19:32:13,763 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:32:14,736 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:32:14,737 - Jombone -INFO - Entered characters with space in First Name
+2022-09-10 19:32:14,875 - Jombone -INFO - Test Passed!
+2022-09-10 19:32:14,875 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-10 19:32:15,244 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-10 19:33:08,212 - Jombone -DEBUG - Debug logging has started 
+2022-09-10 19:33:10,202 - Jombone -INFO - Started Candidate -First Name- special characters (Negative) Test
+2022-09-10 19:33:10,920 - Jombone -INFO - Clicked on Looking for Work
+2022-09-10 19:33:11,817 - Jombone -INFO - Clicked on Sign up
+2022-09-10 19:33:11,817 - Jombone -INFO - Entered special characters in First Name
+2022-09-10 19:33:11,942 - Jombone -INFO - Validating if error message meets requirements
+2022-09-10 19:33:11,979 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid first name
+2022-09-10 19:33:12,554 - Jombone -INFO - Completed specialCharactersTest
+2022-09-11 02:58:46,513 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 02:58:48,694 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 02:58:49,196 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 02:58:50,281 - Jombone -INFO - Clicked on Sign up
+2022-09-11 02:58:50,282 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 02:58:50,434 - Jombone -INFO - Validating if there's any error message related to first name
+2022-09-11 02:58:50,462 - Jombone -INFO - Test Passed!
+2022-09-11 02:58:50,462 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 03:23:18,028 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:23:20,232 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:23:20,919 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:23:22,105 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:23:22,107 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:23:22,214 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:23:22,253 - Jombone -INFO - Test Passed!
+2022-09-11 03:24:53,758 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:24:55,733 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:24:56,421 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:24:57,604 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:24:57,605 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:24:57,724 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:24:57,756 - Jombone -INFO - Test Passed!
+2022-09-11 03:31:35,442 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:31:37,458 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:31:38,101 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:31:39,171 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:31:39,172 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:31:39,333 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:32:09,508 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:32:12,235 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:32:13,096 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:32:13,978 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:32:13,978 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:32:14,123 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:35:27,060 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:35:29,181 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:35:29,769 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:35:30,811 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:35:30,812 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:35:30,939 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:37:44,265 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:37:46,271 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:37:46,771 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:37:47,736 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:37:47,737 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:37:47,869 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:37:47,907 - Jombone -ERROR - Test Failed
+2022-09-11 03:37:48,315 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 03:38:29,163 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:38:31,392 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:38:31,940 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:38:32,848 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:38:32,848 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:38:32,958 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:38:33,023 - Jombone -INFO - Test passed
+2022-09-11 03:39:10,890 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:39:13,045 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:39:13,570 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:39:15,154 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:39:15,155 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:39:15,265 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:40:44,187 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:40:46,692 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:40:47,304 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:40:48,572 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:40:48,572 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:40:48,687 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:49:00,673 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:49:02,764 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:49:03,432 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:49:04,320 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:49:04,320 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:49:04,470 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:49:04,513 - Jombone -ERROR - Test Failed!
+2022-09-11 03:54:48,081 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:54:50,257 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:54:51,165 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:54:52,078 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:54:52,078 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:54:52,236 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:55:28,847 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:55:30,619 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:55:31,146 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:55:32,092 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:55:32,092 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:55:32,227 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:58:03,992 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:58:07,078 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:58:07,920 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:58:09,734 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:58:09,734 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:58:09,820 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:58:09,821 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 03:58:37,304 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 03:58:48,981 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 03:58:50,147 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 03:58:51,624 - Jombone -INFO - Clicked on Sign up
+2022-09-11 03:58:51,624 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 03:58:51,745 - Jombone -INFO - Validating if there's any error message
+2022-09-11 03:58:51,782 - Jombone -INFO - Test Passed!
+2022-09-11 03:58:51,782 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 07:01:17,082 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:01:18,967 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:01:19,581 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:01:20,259 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:01:20,259 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:01:20,393 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:01:56,043 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:01:57,992 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:01:59,010 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:02:00,204 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:02:00,204 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:02:00,361 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:02:35,155 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:02:37,185 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:02:37,830 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:02:38,718 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:02:38,718 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:02:38,836 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:03:46,668 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:03:49,063 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:03:49,562 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:03:50,368 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:03:50,369 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:03:50,500 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:03:50,558 - Jombone -INFO - Test Passed!
+2022-09-11 07:04:14,259 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:04:16,810 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:04:17,334 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:04:18,011 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:04:18,012 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:04:18,145 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:04:18,177 - Jombone -INFO - Test Passed!
+2022-09-11 07:04:18,178 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 07:05:11,807 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:05:14,035 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:05:14,647 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:05:15,615 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:05:15,616 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:05:15,771 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:05:15,808 - Jombone -INFO - Test Passed!
+2022-09-11 07:05:15,809 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 07:07:09,852 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:07:11,745 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:07:12,257 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:07:12,973 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:07:12,974 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:07:13,104 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:07:13,132 - Jombone -INFO - Test Passed!
+2022-09-11 07:07:13,132 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 07:08:50,879 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:08:53,291 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-11 07:08:54,182 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:08:55,055 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:08:55,055 - Jombone -INFO - Passing characters with space in First Name
+2022-09-11 07:08:55,201 - Jombone -INFO - Validating if there's any error message
+2022-09-11 07:08:55,224 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-11 07:14:29,148 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:14:31,072 - Jombone -INFO - Started Candidate - Email (Negative) Blank
+2022-09-11 07:14:31,751 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:14:32,475 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:14:32,590 - Jombone -INFO - leaving email textbox empty
+2022-09-11 07:14:32,590 - Jombone -INFO - validate an error message
+2022-09-11 07:14:32,637 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter email address
+2022-09-11 07:14:33,042 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:15:30,401 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:15:32,625 - Jombone -INFO - Started Candidate -Email (Negative) Irregular Expression
+2022-09-11 07:15:33,158 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:15:33,900 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:15:34,102 - Jombone -INFO - passing irregular expression to last email textbox
+2022-09-11 07:15:34,103 - Jombone -INFO - validate an error message
+2022-09-11 07:15:34,172 - Jombone -ERROR - Test Failed! User gets different message, which is: Please enter valid email
+2022-09-11 07:15:34,588 - Jombone -INFO - Completed candidateEmailIrregularExpression
+2022-09-11 07:25:59,637 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:26:01,389 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:26:01,940 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:26:02,796 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:27:51,595 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:27:53,773 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:27:54,428 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:27:55,542 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:27:55,842 - Jombone -INFO - passing regex email
+2022-09-11 07:27:55,843 - Jombone -INFO - validate an error message
+2022-09-11 07:27:55,915 - Jombone -ERROR - Test Failed!
+2022-09-11 07:27:55,916 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:28:54,559 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:28:56,732 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:28:57,326 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:28:58,321 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:28:59,208 - Jombone -INFO - passing regex email
+2022-09-11 07:28:59,209 - Jombone -INFO - validate an error message
+2022-09-11 07:28:59,281 - Jombone -ERROR - Test Failed!
+2022-09-11 07:28:59,282 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:32:06,350 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:32:08,500 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:32:09,048 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:32:09,959 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:32:09,959 - Jombone -INFO - passing regex email
+2022-09-11 07:35:21,673 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:35:23,700 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:35:24,481 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:35:25,392 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:35:25,392 - Jombone -INFO - passing regex email
+2022-09-11 07:35:27,131 - Jombone -INFO - validate an error message
+2022-09-11 07:35:27,195 - Jombone -ERROR - Test Failed!
+2022-09-11 07:35:27,195 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:39:10,797 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:39:12,416 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:39:12,954 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:39:13,886 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:39:13,887 - Jombone -INFO - passing regex email
+2022-09-11 07:39:14,308 - Jombone -INFO - validate an error message
+2022-09-11 07:39:14,383 - Jombone -ERROR - Test Failed!
+2022-09-11 07:39:14,384 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:41:15,609 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:41:17,345 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:41:17,924 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:41:18,943 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:41:18,944 - Jombone -INFO - passing regex email
+2022-09-11 07:41:19,100 - Jombone -INFO - validate an error message
+2022-09-11 07:41:19,134 - Jombone -INFO - Test Passed!
+2022-09-11 07:41:19,135 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:42:05,397 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:42:07,238 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:42:07,906 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:42:08,952 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:42:08,953 - Jombone -INFO - passing regex email
+2022-09-11 07:42:09,129 - Jombone -INFO - validate an error message
+2022-09-11 07:42:09,155 - Jombone -INFO - Test Passed!
+2022-09-11 07:42:09,155 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:42:30,867 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:42:33,362 - Jombone -INFO - Started Candidate -Email- regular expression (Positive)
+2022-09-11 07:42:33,871 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:42:34,699 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:42:34,700 - Jombone -INFO - passing regex email
+2022-09-11 07:42:34,884 - Jombone -INFO - validate an error message
+2022-09-11 07:42:34,911 - Jombone -INFO - Test Passed!
+2022-09-11 07:42:34,912 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-11 07:51:56,315 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:51:58,130 - Jombone -INFO - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-11 07:51:58,698 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:51:59,588 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:51:59,589 - Jombone -INFO - passing regex email
+2022-09-11 07:51:59,734 - Jombone -INFO - validate an error message
+2022-09-11 07:51:59,798 - Jombone -ERROR - Test Failed!
+2022-09-11 07:51:59,799 - Jombone -INFO - Completed candidateEmailRegex
+2022-09-11 07:53:18,848 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:53:20,923 - Jombone -INFO - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-11 07:53:21,517 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:53:22,372 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:53:22,374 - Jombone -INFO - passing email
+2022-09-11 07:53:22,706 - Jombone -INFO - validate an error message
+2022-09-11 07:53:22,762 - Jombone -ERROR - Test Failed!
+2022-09-11 07:53:22,763 - Jombone -INFO - Completed candidateEmailRegex
+2022-09-11 07:54:21,067 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:54:22,685 - Jombone -INFO - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-11 07:54:23,182 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:54:23,997 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:54:23,998 - Jombone -INFO - passing email of 255 chars
+2022-09-11 07:54:24,311 - Jombone -INFO - validate an error message
+2022-09-11 07:54:24,336 - Jombone -INFO - Test Passed!
+2022-09-11 07:54:24,336 - Jombone -INFO - Completed candidateEmailRegex
+2022-09-11 07:57:59,280 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:58:01,371 - Jombone -INFO - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-11 07:58:01,906 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:58:02,916 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:58:02,917 - Jombone -INFO - passing email of 255 chars
+2022-09-11 07:58:03,242 - Jombone -INFO - Completed candidateEmailRegex
+2022-09-11 07:59:00,767 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 07:59:02,531 - Jombone -INFO - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-11 07:59:03,022 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 07:59:03,791 - Jombone -INFO - Clicked on Sign up
+2022-09-11 07:59:03,791 - Jombone -INFO - passing email of 255 chars
+2022-09-11 07:59:04,139 - Jombone -INFO - Completed candidateEmailRegex
+2022-09-11 08:05:42,235 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:05:44,147 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:05:44,826 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:05:45,632 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:05:45,632 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:05:45,970 - Jombone -INFO - validate an error message
+2022-09-11 08:07:44,042 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:07:47,787 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:07:48,836 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:07:50,780 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:07:50,780 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:07:51,077 - Jombone -INFO - validate an error message
+2022-09-11 08:09:12,623 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:09:15,203 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:09:16,790 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:09:19,232 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:09:19,232 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:09:19,535 - Jombone -INFO - validate an error message
+2022-09-11 08:11:20,182 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:11:23,041 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:11:24,069 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:11:27,576 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:11:27,576 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:11:27,878 - Jombone -INFO - validate an error message
+2022-09-11 08:14:39,021 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:14:41,336 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:14:42,028 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:14:43,619 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:14:43,620 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:14:43,881 - Jombone -INFO - validate an error message
+2022-09-11 08:15:23,179 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:15:25,165 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:15:25,781 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:15:26,795 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:15:26,795 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:15:27,122 - Jombone -INFO - validate an error message
+2022-09-11 08:16:20,497 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:16:22,605 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:16:23,136 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:16:24,639 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:16:24,640 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:16:24,923 - Jombone -INFO - validate an error message
+2022-09-11 08:17:00,402 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:17:02,220 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:17:02,799 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:17:03,674 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:17:03,675 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:17:03,976 - Jombone -INFO - validate an error message
+2022-09-11 08:18:11,831 - Jombone -DEBUG - Debug logging has started 
+2022-09-11 08:18:13,838 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-11 08:18:14,351 - Jombone -INFO - Clicked on Looking for Work
+2022-09-11 08:18:15,319 - Jombone -INFO - Clicked on Sign up
+2022-09-11 08:18:15,319 - Jombone -INFO - passing email of 255 chars
+2022-09-11 08:18:15,574 - Jombone -INFO - validate an error message
+2022-09-11 08:18:15,598 - Jombone -INFO - User did not get validation error message
+2022-09-11 08:18:15,598 - Jombone -INFO - Completed candidateNoLongerThan255Neg
+2022-09-12 05:58:53,929 - Jombone -DEBUG - Debug logging has started 
+2022-09-12 05:58:55,916 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-12 05:58:56,680 - Jombone -INFO - Clicked on Looking for Work
+2022-09-12 05:58:57,373 - Jombone -INFO - Clicked on Sign up
+2022-09-12 05:58:57,373 - Jombone -INFO - registering new account by passing random credentials to get to verification stage
+2022-09-12 05:58:57,781 - Jombone -INFO - Passing :2@92yv5v.lt
+2022-09-12 05:58:57,939 - Jombone -INFO - Passing :4jfJTybD
+2022-09-12 06:01:20,502 - Jombone -DEBUG - Debug logging has started 
+2022-09-12 06:01:23,214 - Jombone -INFO - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-12 06:01:23,904 - Jombone -INFO - Clicked on Looking for Work
+2022-09-12 06:01:24,986 - Jombone -INFO - Clicked on Sign up
+2022-09-12 06:01:24,987 - Jombone -INFO - registering new account by passing random credentials to get to verification stage
+2022-09-12 06:01:25,176 - Jombone -INFO - passing first name
+2022-09-12 06:01:25,298 - Jombone -INFO - passing last name
+2022-09-12 06:01:25,402 - Jombone -INFO - Passing :x@0.7zzo16n6
+2022-09-12 06:01:25,402 - Jombone -INFO - passing email
+2022-09-12 06:01:25,402 - Jombone -INFO - passing phone
+2022-09-12 06:01:25,493 - Jombone -INFO - passing password
+2022-09-12 06:01:25,567 - Jombone -INFO - Passing :4mey4lTO
+2022-09-12 06:06:36,365 - Jombone -DEBUG - Debug logging has started 
+2022-09-12 06:06:38,619 - Jombone -INFO - Started Candidate - Country Code - Canada 
+2022-09-12 06:06:39,327 - Jombone -INFO - Clicked on Looking for Work
+2022-09-12 06:06:40,054 - Jombone -INFO - Clicked on Sign up
+2022-09-12 06:06:40,055 - Jombone -INFO - passing phone
+2022-09-12 06:06:40,202 - Jombone -INFO - validate if there's an error message
+2022-09-12 06:08:25,843 - Jombone -DEBUG - Debug logging has started 
+2022-09-12 06:08:27,667 - Jombone -INFO - Started Candidate - Country Code - Canada 
+2022-09-12 06:08:28,210 - Jombone -INFO - Clicked on Looking for Work
+2022-09-12 06:08:28,903 - Jombone -INFO - Clicked on Sign up
+2022-09-12 06:08:28,903 - Jombone -INFO - passing phone
+2022-09-12 06:08:29,041 - Jombone -INFO - validate if there's an error message
+2022-09-12 06:08:29,093 - Jombone -ERROR - Test Failed!
+2022-09-12 06:08:29,598 - Jombone -INFO - Completed candidatePhoneNumber
+2022-09-12 06:10:18,210 - Jombone -DEBUG - Debug logging has started 
+2022-09-12 06:10:20,249 - Jombone -INFO - Started Candidate - Country Code - Canada 
+2022-09-12 06:10:20,781 - Jombone -INFO - Clicked on Looking for Work
+2022-09-12 06:10:21,763 - Jombone -INFO - Clicked on Sign up
+2022-09-12 06:10:21,763 - Jombone -INFO - passing phone
+2022-09-12 06:10:21,903 - Jombone -INFO - validate if there's an error message
+2022-09-12 06:10:21,927 - Jombone -INFO - Test Passed!
+2022-09-12 06:10:21,928 - Jombone -INFO - Completed candidatePhoneNumber

@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.errorprone.annotations.CanIgnoreReturnValue;
 
+import java.time.Duration;
+
 public class LoginPage {
 
 	public WebDriver ldriver;
@@ -56,29 +58,34 @@ public class LoginPage {
 	@CacheLookup
 	WebElement forgotPasswordLink;
 
+	// Capture 'Looking for job button"
+
+
 	// ==================Action methods===========================//
 
 	// Send text to the email field
 	public void settxtemail(String email) {
-		WebDriverWait wait = new WebDriverWait(ldriver, 25);
+		WebDriverWait wait = new WebDriverWait(ldriver, Duration.ofSeconds(25));
 		wait.until(ExpectedConditions.visibilityOf(txtemail));
 		txtemail.sendKeys(email);
 	}
 
 	// Send text to password field
 	public void settxtpassword(String pwd) {
-		WebDriverWait wait = new WebDriverWait(ldriver, 25);
+		WebDriverWait wait = new WebDriverWait(ldriver, Duration.ofSeconds(25));
 		wait.until(ExpectedConditions.visibilityOf(txtpassword));
 		txtpassword.sendKeys(pwd);
 	}
 
 	// Click on submit button
 	public void clkbtnSubmit() {
-		WebDriverWait wait = new WebDriverWait(ldriver, 25);
+		WebDriverWait wait = new WebDriverWait(ldriver, Duration.ofSeconds(25));
 		wait.until(ExpectedConditions.visibilityOf(btnSubmit));
 		wait.until(ExpectedConditions.elementToBeClickable(btnSubmit));
 		btnSubmit.click();
 	}
+
+
 
 	// display "invalid credentials" message
 	public Boolean displayInvalidCredentialsMessage() {
