@@ -38,7 +38,7 @@ public class JMB_CASignUp_010 extends BaseClass {
         logger.info("Activating textbox and tab out leaving it blank to call the error message");
 
         logger.info("validate an error");
-        signUpPage.validateEmptyLastNameError();
+        signUpPage.validateErrorMessage("Please enter Last Name", "candidateLastNameBlankTest");
 
 
         captureScreen(driver, "candidateLastNameBlankTest");

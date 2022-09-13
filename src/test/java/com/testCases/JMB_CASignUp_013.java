@@ -37,7 +37,7 @@ public class JMB_CASignUp_013 extends BaseClass {
         logger.info("passing number to last name textbox");
 
         logger.info("validate an error");
-        signUpPage.validateError();
+        signUpPage.validateErrorMessage("Only character and spaces allowed", "candidateLastNameNumberTest");
 
         captureScreen(driver, "candidateLastNameNumberTest");
         softassert.assertAll();

@@ -9,6 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.asserts.SoftAssert;
 
+import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -63,9 +64,9 @@ public class SignUpPage extends BaseClass {
 
         if (size == 50) {
             softassert.assertTrue(true);
-            System.out.println("Test passed! Max character functionality is working fine and is " + size);
+            logger.info("Test passed! Max character functionality is working fine and is " + size);
         } else {
-            System.out.println("Test failed! Max character value is other than required and is +" + size);
+            logger.error("Test failed! Max character value is other than required and is +" + size);
         }
 
     }
@@ -102,9 +103,9 @@ public class SignUpPage extends BaseClass {
 
         if (size == 50) {
             softassert.assertTrue(true);
-            System.out.println("Test passed! Max character functionality is working fine and is " + size);
+            logger.info("Test passed! Max character functionality is working fine and is " + size);
         } else {
-            System.out.println("Test failed! Max character is other than required and is " + size);
+            logger.error("Test failed! Max character is other than required and is " + size);
         }
     }
 
@@ -138,9 +139,9 @@ public class SignUpPage extends BaseClass {
         int size = typedValue.length();
 
         if (size == 255) {
-            System.out.println("Test passed! Max character functionality is working fine and is " + size);
+            logger.info("Test passed! Max character functionality is working fine and is " + size);
         } else {
-            System.out.println("Test failed! Max character is other than required and is "+ size);
+            logger.error("Test failed! Max character is other than required and is "+ size);
         }
     }
 
@@ -149,7 +150,7 @@ public class SignUpPage extends BaseClass {
         String randomMail = gen.random(260);
 
         emailTextBoxLocator.sendKeys(randomMail, Keys.TAB);
-        System.out.println("Passing :" + randomMail);
+        logger.info("Passing :" + randomMail);
 
 //        String typedValue = emailTextBoxLocator.getAttribute("value");
 //        int size = typedValue.length();
@@ -179,9 +180,32 @@ public class SignUpPage extends BaseClass {
     @CacheLookup
     WebElement phoneTextbox;
 
+    public void activatePhoneTextbox(){
+        phoneTextbox.sendKeys(Keys.TAB);
+    }
+
     public void enterValidPhone() {
         String random = RandomStringUtils.randomNumeric(7);
         phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        logger.info("passing " + random);
+    }
+
+    public void enterPhoneLessThan10() {
+        String random = RandomStringUtils.randomNumeric(5);
+        phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        logger.info("passing " + random);
+    }
+
+    public void enterPhoneMoreThan10() {
+        String random = RandomStringUtils.randomNumeric(8);
+        phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        logger.info("passing " + random);
+    }
+
+    public void enterPhoneSpaceHyphen() {
+        String random = RandomStringUtils.randomNumeric(7);
+        phoneTextbox.sendKeys("916", "-" + random," ",Keys.TAB);
+        logger.info("passing " + random);
     }
 
     //locate passwordTextbox
@@ -195,6 +219,33 @@ public class SignUpPage extends BaseClass {
 
         logger.info("Passing :" + randomPass);
     }
+
+    public void enterStrongPass(){
+        Generex gen = new Generex("([a-z0-9]+)([#, @, -, _, !, ?]+)");
+        String randomPass = gen.random(6);
+
+        passwordTextbox.sendKeys(randomPass);
+
+        logger.info("Passing : " + randomPass);
+    }
+
+    public void enterStrongPass2(){
+        Generex gen = new Generex("([a-zA-Z0-9 # @ - _ ! ?]+)");
+        String randomPass = gen.random(6);
+
+        passwordTextbox.sendKeys(randomPass);
+
+        logger.info("Passing : " + randomPass);
+    }
+
+
+    public void enterEmptyPass(){
+
+        passwordTextbox.sendKeys(Keys.TAB);
+
+    }
+
+
 
     //locate consent label
     @FindBy(xpath = "//label[@for=\"candidateTosConsented\"]")
@@ -236,15 +287,16 @@ public class SignUpPage extends BaseClass {
     WebElement alert;
 
     //find the validation error
-    public void findError() {
+    public void findError(String tname) {
 
         try {
             if (alert.isDisplayed()) {
                 logger.error("Test Failed!");
+                captureScreen(driver,tname);
+
 
             }
-        } catch (NoSuchElementException e) {
-            System.out.println(e);
+        } catch (NoSuchElementException | IOException e) {
             logger.info("Test Passed!");
 
         }
@@ -268,62 +320,12 @@ public class SignUpPage extends BaseClass {
     }
 
 
+    //validate if the error message meets requirements
 
+    public void validateErrorMessage(String expAlert,  String tname) {
 
-    //validate if the special symbol error message meets requirements
-    public void validateError() {
-
-        String actAlert = alert.getText();
-        String expAlert = "Only character and spaces allowed";
-
-        SoftAssert softassert = new SoftAssert();
-            softassert.assertTrue(actAlert.equals(expAlert), "Test Passed! Validation message meets requirements :" + actAlert);
-            //if message is the same as in the requirements
-
-            logger.error("Test Failed! User gets different message, which is: " + actAlert);
-        }
-
-
-
-    //validate if the empty name error message meets requirements
-    public void validateEmptyNameError() {
-
-        String actAlert = alert.getText();
-        String expAlert = "Please enter first name";
-
-        SoftAssert softassert = new SoftAssert();
-        if (actAlert.equals(expAlert)) {
-            softassert.assertTrue(true);
-            //if message is the same as in the requirements
-            logger.info("Test Passed! User left the textbox empty and validation message meets requirements : " + actAlert);
-        } else {
-            logger.error("Test Failed! User gets different message, which is: " + actAlert);
-        }
-
-
-    }
-    //validate if the empty last name error message meets requirements
-    public void validateEmptyLastNameError() {
-
-        String actAlert = alert.getText();
-        String expAlert = "Please enter Last Name";
-
-        SoftAssert softassert = new SoftAssert();
-        if (actAlert.equals(expAlert)) {
-            softassert.assertTrue(true);
-            //if message is the same as in the requirements
-            logger.info("Test Passed! User left the textbox empty and validation message meets requirements : " + actAlert);
-        } else {
-            logger.error("Test Failed! User gets different message, which is: " + actAlert);
-        }
-    }
-
-    //validate if the empty email error message meets requirements
-
-    public void validateEmailError() throws NoSuchElementException {
         try {
-        String actAlert = alert.getText();
-        String expAlert = "Please enter a valid email";
+            String actAlert = alert.getText();
 
             SoftAssert softassert = new SoftAssert();
             if (actAlert.equals(expAlert)) {
@@ -332,12 +334,13 @@ public class SignUpPage extends BaseClass {
                 logger.info("Test Passed! Message meets requirements : " + actAlert);
             } else {
                 logger.error("Test Failed! User gets different message : " + actAlert);
+                captureScreen(driver,tname);
             }
         }
-        catch(NoSuchElementException e) {
+        catch(NoSuchElementException | IOException e) {
             logger.info("User did not get validation error message");
         }
-        }
+    }
     }
 
 

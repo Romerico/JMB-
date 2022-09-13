@@ -41,7 +41,7 @@ public class JMB_CASignUp_003 extends BaseClass {
 
 
         logger.info("Validating if error message meets requirements");
-        signUpPage.validateError();
+        signUpPage.validateErrorMessage("Only character and spaces allowed", "specialCharactersTest" );
 
 
         captureScreen(driver, "specialCharactersTest");

@@ -38,7 +38,7 @@ public class JMB_CASignUp_009 extends BaseClass {
         logger.info("Enter special characters in Last Name.");
 
         logger.info("validate an error");
-        signUpPage.validateError();
+        signUpPage.validateErrorMessage("Only character and spaces allowed","candidateLastNameSpecCharTest");
 
 
         captureScreen(driver, "candidateLastNameSpecCharTest");

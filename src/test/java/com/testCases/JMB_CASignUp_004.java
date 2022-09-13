@@ -41,7 +41,7 @@ public class JMB_CASignUp_004 extends BaseClass {
 
 
         logger.info("Validate if the empty name error message meets requirements");
-        signUpPage.validateEmptyNameError();
+        signUpPage.validateErrorMessage("Please enter first name", "candidateFirstNameBlankTest");
 
 
             captureScreen(driver, "candidateFirstNameBlankTest");

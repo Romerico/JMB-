@@ -3,25 +3,30 @@ package com.testCases;
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
 import com.pageObjects.SignUpPage;
+import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-public class JMB_CASignUp_017 extends BaseClass {
+import java.io.IOException;
+
+public class JMB_CASignUp_021 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
-//"This test case is testing whether a candidate can enter  email  longer than 255 characters.
+
+//"This test case is testing whether a candidate can leave phone number blank.
 //1: Navigate to jombone page
 //2: On Landing Welcome page ,Click on ""Looking for Work"" and thenClick on Sign up
 //3. On Sign Up page click on Candidate link.
-//4. Enter email longer than 255 characters in email."
+//4.leave phone number blank."
 
 //"The following will happen for the test case to be considered successful:
-//AC01:  It should display message""Please enter a valid email""."
+//AC01:  It should  display message""Please enter your mobile number""."
 
-    @Test(priority = 18)
-    public void candidateNoLongerThan255Neg() throws NoSuchElementException {
 
-        logger.info("Started Candidate -Email- longer than 80 characters (Negative)");
+    @Test(priority = 21)
+    public void candidatePhoneNumberBlank() throws IOException, NoSuchElementException {
+
+        logger.info("Started Candidate -Phone number- blank (Negative)");
 
         SignUpPage signUpPage = new SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
@@ -32,13 +37,17 @@ public class JMB_CASignUp_017 extends BaseClass {
         ca_landingPage.clickCandidateSignUp();
         logger.info("Clicked on Sign up");
 
-        logger.info("passing email of 255 chars");
-        signUpPage.passLongerThan255();
+        logger.info("leaving phone textbox empty");
+        signUpPage.activatePhoneTextbox();
 
-        logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "candidateNoLongerThan255Neg");
+
+        logger.info("validate if there's an error message");
+        signUpPage.validateErrorMessage("Please enter your mobile number", "candidatePhoneNumberBlank");
+
 
         softassert.assertAll();
-        logger.info("Completed candidateNoLongerThan255Neg");
+        logger.info("Completed candidatePhoneNumberBlank");
+
+
     }
 }

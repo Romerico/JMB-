@@ -38,7 +38,7 @@ public class JMB_CASignUp_005 extends BaseClass {
         logger.info("Passing 50 acceptable symbols to textbox");
 
         logger.info("validating if there's any error message");
-        signUpPage.findError();
+        signUpPage.findError("noLongerThan50CharactersTest");
 
 
         captureScreen(driver, "noLongerThan50CharactersTest");

@@ -4066,3 +4066,177 @@
 2022-09-12 06:10:21,903 - Jombone -INFO - validate if there's an error message
 2022-09-12 06:10:21,927 - Jombone -INFO - Test Passed!
 2022-09-12 06:10:21,928 - Jombone -INFO - Completed candidatePhoneNumber
+2022-09-13 05:26:15,424 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 05:26:17,743 - Jombone -INFO - Started Candidate -Phone number- blank (Negative)
+2022-09-13 05:26:18,249 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 05:26:19,002 - Jombone -INFO - Clicked on Sign up
+2022-09-13 05:26:19,002 - Jombone -INFO - leaving phone textbox empty
+2022-09-13 05:26:19,171 - Jombone -INFO - validate if there's an error message
+2022-09-13 05:26:19,211 - Jombone -INFO - Test Passed! Message meets requirements : Please enter your mobile number
+2022-09-13 05:26:19,212 - Jombone -INFO - Completed candidatePhoneNumberBlank
+2022-09-13 05:40:09,940 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 05:40:11,973 - Jombone -INFO - Started Candidate -Phone number- blank (Negative)
+2022-09-13 05:40:12,669 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 05:40:13,633 - Jombone -INFO - Clicked on Sign up
+2022-09-13 05:40:13,634 - Jombone -INFO - leaving phone textbox empty
+2022-09-13 05:40:13,739 - Jombone -INFO - validate if there's an error message
+2022-09-13 05:40:13,801 - Jombone -INFO - Test Passed! Message meets requirements : Please enter your mobile number
+2022-09-13 05:40:13,802 - Jombone -INFO - Completed candidatePhoneNumberBlank
+2022-09-13 05:40:39,996 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 05:40:41,766 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-13 05:40:42,411 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 05:40:43,126 - Jombone -INFO - Clicked on Sign up
+2022-09-13 05:40:43,126 - Jombone -INFO - Passing characters with space in First Name
+2022-09-13 05:40:43,252 - Jombone -INFO - Validating if there's any error message
+2022-09-13 05:40:43,287 - Jombone -INFO - Test Passed!
+2022-09-13 05:40:43,287 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-13 05:43:01,293 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 05:43:03,082 - Jombone -INFO - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-13 05:43:03,770 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 05:43:04,478 - Jombone -INFO - Clicked on Sign up
+2022-09-13 05:43:04,479 - Jombone -INFO - Passing characters with space in First Name
+2022-09-13 05:43:04,609 - Jombone -INFO - Validating if there's any error message
+2022-09-13 05:43:04,635 - Jombone -INFO - Test Passed!
+2022-09-13 05:43:04,636 - Jombone -INFO - Completed spaceInFirstNameTest
+2022-09-13 05:55:19,003 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 05:55:21,071 - Jombone -INFO - Started Candidate -Phone number- contain 10 digits (Positive)
+2022-09-13 05:55:21,707 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 05:55:22,558 - Jombone -INFO - Clicked on Sign up
+2022-09-13 05:55:22,558 - Jombone -INFO - leaving phone textbox empty
+2022-09-13 05:55:22,707 - Jombone -INFO - validate if there's an error message
+2022-09-13 05:55:22,732 - Jombone -INFO - Test Passed!
+2022-09-13 05:55:22,733 - Jombone -INFO - Completed candidatePhoneNumberBlank
+2022-09-13 06:02:58,674 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 06:03:01,183 - Jombone -INFO - Started Candidate -Phone Number- (Negative)
+2022-09-13 06:03:01,961 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 06:03:02,928 - Jombone -INFO - Clicked on Sign up
+2022-09-13 06:03:02,928 - Jombone -INFO - passing less than 10 digits phone number
+2022-09-13 06:03:03,073 - Jombone -INFO - passing 68202
+2022-09-13 06:03:03,074 - Jombone -INFO - validate an error message
+2022-09-13 06:03:03,111 - Jombone -INFO - Test Passed! Message meets requirements : Please enter a valid 10 digit mobile number
+2022-09-13 06:03:03,111 - Jombone -INFO - Completed candidatePhoneNumber10DigitsPositive[1]
+2022-09-13 06:03:03,116 - Jombone -INFO - Started Candidate -Phone Number- (Negative)[2]
+2022-09-13 06:03:37,869 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 06:03:40,392 - Jombone -INFO - Started Candidate -Phone Number- (Negative)[2]
+2022-09-13 06:03:40,961 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 06:03:42,471 - Jombone -INFO - Clicked on Sign up
+2022-09-13 06:03:42,472 - Jombone -INFO - passing more than 10 digits phone number
+2022-09-13 06:03:42,613 - Jombone -INFO - passing 11964684
+2022-09-13 06:03:42,614 - Jombone -INFO - validate an error message
+2022-09-13 06:03:42,658 - Jombone -INFO - Test Passed! Message meets requirements : Please enter a valid 10 digit mobile number
+2022-09-13 06:03:42,659 - Jombone -INFO - Completed candidatePhoneNumber10DigitsPositive[2]
+2022-09-13 06:04:00,090 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 06:04:03,132 - Jombone -INFO - Started Candidate -Phone Number- (Negative)
+2022-09-13 06:04:03,707 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 06:04:04,859 - Jombone -INFO - Clicked on Sign up
+2022-09-13 06:04:04,860 - Jombone -INFO - passing less than 10 digits phone number
+2022-09-13 06:04:04,989 - Jombone -INFO - passing 62785
+2022-09-13 06:04:04,990 - Jombone -INFO - validate an error message
+2022-09-13 06:04:05,026 - Jombone -INFO - Test Passed! Message meets requirements : Please enter a valid 10 digit mobile number
+2022-09-13 06:04:05,027 - Jombone -INFO - Completed candidatePhoneNumber10DigitsPositive[1]
+2022-09-13 06:06:33,334 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 06:06:35,751 - Jombone -INFO - Started Candidate - Email (Negative) Blank
+2022-09-13 06:06:36,295 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 06:06:37,215 - Jombone -INFO - Clicked on Sign up
+2022-09-13 06:06:37,319 - Jombone -INFO - leaving email textbox empty
+2022-09-13 06:06:37,320 - Jombone -INFO - validate an error message
+2022-09-13 06:06:37,377 - Jombone -ERROR - Test Failed! User gets different message : Please enter email address
+2022-09-13 06:06:38,100 - Jombone -INFO - Completed candidateEmailBlank
+2022-09-13 06:06:38,106 - Jombone -INFO - Started Candidate -Email (Negative) Irregular Expression
+2022-09-13 09:44:55,258 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 09:44:57,293 - Jombone -INFO - Started Candidate -Phone number- contain spaces and hyphens (Negative)
+2022-09-13 09:44:57,906 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 09:44:58,911 - Jombone -INFO - Clicked on Sign up
+2022-09-13 09:44:58,913 - Jombone -INFO - passing phone number with space and hyphen
+2022-09-13 09:44:59,093 - Jombone -INFO - passing 39542
+2022-09-13 09:44:59,094 - Jombone -INFO - validate if there's an error message
+2022-09-13 09:44:59,162 - Jombone -ERROR - Test Failed!
+2022-09-13 09:44:59,582 - Jombone -INFO - Completed candidatePhoneNumberBlank
+2022-09-13 09:46:02,323 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 09:46:04,103 - Jombone -INFO - Started Candidate -Phone number- contain spaces and hyphens (Negative)
+2022-09-13 09:46:04,700 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 09:46:05,606 - Jombone -INFO - Clicked on Sign up
+2022-09-13 09:46:05,607 - Jombone -INFO - passing phone number with space and hyphen
+2022-09-13 09:46:05,762 - Jombone -INFO - passing 5868996
+2022-09-13 09:46:05,763 - Jombone -INFO - validate if there's an error message
+2022-09-13 09:46:05,787 - Jombone -INFO - Test Passed!
+2022-09-13 09:46:05,787 - Jombone -INFO - Completed candidatePhoneNumberBlank
+2022-09-13 09:50:26,114 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 09:50:28,117 - Jombone -INFO - Started Candidate -Password- Blank (Negative)
+2022-09-13 09:50:28,705 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 09:50:29,766 - Jombone -INFO - Clicked on Sign up
+2022-09-13 09:50:29,766 - Jombone -INFO - passing empty password
+2022-09-13 09:50:29,885 - Jombone -INFO - validate if there's an error message
+2022-09-13 09:50:29,923 - Jombone -INFO - Test Passed! Message meets requirements : Please enter strong password
+2022-09-13 09:50:29,924 - Jombone -INFO - Completed candidatePasswordBlankNegative
+2022-09-13 09:55:26,134 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 09:55:28,158 - Jombone -INFO - Started Candidate -Password- at least 6 characters, contains at least one lowercase letter,one uppercase letter, one number and one special character (#, @, -, _, ! and ?) (Positive)
+2022-09-13 09:55:28,625 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 09:55:29,313 - Jombone -INFO - Clicked on Sign up
+2022-09-13 09:55:29,315 - Jombone -INFO - passing empty password
+2022-09-13 09:55:29,432 - Jombone -INFO - validate if there's an error message
+2022-09-13 09:55:29,484 - Jombone -ERROR - Test Failed!
+2022-09-13 09:55:29,826 - Jombone -INFO - Completed candidatePasswordBlankNegative
+2022-09-13 09:56:09,657 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 09:56:11,510 - Jombone -INFO - Started Candidate -Password- at least 6 characters, contains at least one lowercase letter,one uppercase letter, one number and one special character (#, @, -, _, ! and ?) (Positive)
+2022-09-13 09:56:12,021 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 09:56:12,633 - Jombone -INFO - Clicked on Sign up
+2022-09-13 09:56:12,633 - Jombone -INFO - passing 6 char/symbols password
+2022-09-13 09:56:12,790 - Jombone -INFO - Passing :du7v%$+@
+2022-09-13 09:56:12,791 - Jombone -INFO - validate if there's an error message
+2022-09-13 09:56:12,816 - Jombone -INFO - Test Passed!
+2022-09-13 09:56:12,816 - Jombone -INFO - Completed candidatePasswordBlankNegative
+2022-09-13 10:06:35,884 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:06:37,674 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:06:38,388 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:06:39,115 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:06:39,116 - Jombone -INFO - passing 6 char password
+2022-09-13 10:06:39,307 - Jombone -INFO - Passing :cp@?'_@ __?'_,@
+2022-09-13 10:06:39,307 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:06:39,331 - Jombone -INFO - Test Passed!
+2022-09-13 10:06:39,331 - Jombone -INFO - Completed candidateStrongPasswordNegative
+2022-09-13 10:14:03,021 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:14:05,604 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:14:06,161 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:14:06,885 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:14:06,885 - Jombone -INFO - passing 6 char password
+2022-09-13 10:14:07,015 - Jombone -INFO - Passing : _1_%rU4
+2022-09-13 10:14:07,016 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:14:07,043 - Jombone -INFO - Test Passed!
+2022-09-13 10:14:07,044 - Jombone -INFO - Completed candidateStrongPasswordNegative
+2022-09-13 10:14:29,651 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:14:31,329 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:14:31,806 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:14:32,516 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:14:32,517 - Jombone -INFO - passing 6 char password
+2022-09-13 10:14:32,667 - Jombone -INFO - Passing : _4z1V_8_
+2022-09-13 10:14:32,667 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:14:32,691 - Jombone -INFO - Test Passed!
+2022-09-13 10:14:32,691 - Jombone -INFO - Completed candidateStrongPasswordNegative
+2022-09-13 10:15:01,027 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:15:03,181 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:15:03,686 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:15:04,396 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:15:04,397 - Jombone -INFO - passing 6 char password
+2022-09-13 10:15:04,548 - Jombone -INFO - Passing : 9m%0J0
+2022-09-13 10:15:04,548 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:15:04,576 - Jombone -INFO - Test Passed!
+2022-09-13 10:15:04,576 - Jombone -INFO - Completed candidateStrongPasswordNegative
+2022-09-13 10:15:33,315 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:15:35,132 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:15:35,892 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:15:36,657 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:15:36,658 - Jombone -INFO - passing 6 char password
+2022-09-13 10:15:36,804 - Jombone -INFO - Passing : _|7!#
+2022-09-13 10:15:36,804 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:15:36,831 - Jombone -INFO - Test Passed!
+2022-09-13 10:15:36,831 - Jombone -INFO - Completed candidateStrongPasswordNegative
+2022-09-13 10:16:09,752 - Jombone -DEBUG - Debug logging has started 
+2022-09-13 10:16:11,696 - Jombone -INFO - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-13 10:16:12,192 - Jombone -INFO - Clicked on Looking for Work
+2022-09-13 10:16:12,932 - Jombone -INFO - Clicked on Sign up
+2022-09-13 10:16:12,932 - Jombone -INFO - passing 6 char password
+2022-09-13 10:16:13,067 - Jombone -INFO - Passing : mIkxi!
+2022-09-13 10:16:13,069 - Jombone -INFO - validate if there's an error message
+2022-09-13 10:16:13,092 - Jombone -INFO - Test Passed!
+2022-09-13 10:16:13,093 - Jombone -INFO - Completed candidateStrongPasswordNegative

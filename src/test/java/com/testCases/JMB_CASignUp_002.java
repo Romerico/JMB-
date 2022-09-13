@@ -3,11 +3,12 @@ package com.testCases;
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
 import com.pageObjects.SignUpPage;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.util.NoSuchElementException;
 
 public class JMB_CASignUp_002 extends BaseClass {
 
@@ -18,7 +19,7 @@ public class JMB_CASignUp_002 extends BaseClass {
     //4. Enter characters with space in First Name.
 //    ( It should not display any error message)
 
-    @Test(expectedExceptions = { NoSuchElementException.class })
+    @Test(priority = 2)
     public void spaceInFirstNameTest() throws IOException, NoSuchElementException {
 
             logger.info("Started  Candidate -First Name- characters and space (Positive) Test");
@@ -44,10 +45,10 @@ public class JMB_CASignUp_002 extends BaseClass {
             boolean err = signUpPage.findErrorB();
             softassert.assertFalse(err);
             if (err) {
-                logger.error("Test Failed!");}
+                logger.error("Test Failed! The error message is : " + driver.findElement(By.xpath("//span[@class=\"help-block errorMsg\"]")).getText());}
             else {
 
-                logger.info("Test Passed!");
+                logger.info("Test Passed! There's no error message");
             }
 
 

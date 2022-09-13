@@ -39,7 +39,7 @@ public class JMB_CASignUp_007 extends BaseClass {
         logger.info("passing a number into a First name textbox");
 
         logger.info("Validating if error message meets requirements");
-        signUpPage.validateError();
+        signUpPage.validateErrorMessage("Only character and spaces allowed", "candidateFirstNameNumberTest" );
 
 
         captureScreen(driver, "candidateFirstNameNumberTest");

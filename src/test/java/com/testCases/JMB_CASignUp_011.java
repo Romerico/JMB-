@@ -38,7 +38,7 @@ public class JMB_CASignUp_011 extends BaseClass {
         logger.info("Activating textbox and tab out leaving it blank to call the error message");
 
         logger.info("validate if there's any error");
-        signUpPage.findError();
+        signUpPage.findError("candidateLastNameSpaceTest");
 
 
         captureScreen(driver, "candidateLastNameNoLongerThan50CharTest");

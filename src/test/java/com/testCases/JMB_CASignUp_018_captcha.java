@@ -9,7 +9,7 @@ import org.testng.asserts.SoftAssert;
 import java.io.IOException;
 import java.time.Duration;
 
-public class JMB_CASignUp_018 extends BaseClass {
+public class JMB_CASignUp_018_captcha extends BaseClass {
     SoftAssert softassert = new SoftAssert();
 
 //"This test case is testing whether a candidate can select country code as a Canada.

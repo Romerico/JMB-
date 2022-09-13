@@ -39,7 +39,7 @@ public class JMB_CASignUp_008 extends BaseClass {
         logger.info("Enter characters with space in Last Name.");
 
         logger.info("validate if there's any error");
-        signUpPage.findError();
+        signUpPage.findError("candidateLastNameSpaceTest");
 
 
         captureScreen(driver, "candidateLastNameSpaceTest");
