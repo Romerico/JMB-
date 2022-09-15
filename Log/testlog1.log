@@ -4240,3 +4240,200 @@
 2022-09-13 10:16:13,069 [main] INFO Jombone - validate if there's an error message
 2022-09-13 10:16:13,092 [main] INFO Jombone - Test Passed!
 2022-09-13 10:16:13,093 [main] INFO Jombone - Completed candidateStrongPasswordNegative
+2022-09-14 05:32:30,390 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:32:36,874 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:32:41,225 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:33:00,805 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:33:00,805 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:33:00,902 [main] INFO Jombone - Validate if it displayed Sign Up form for candidate
+2022-09-14 05:35:56,007 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:36:07,896 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:36:13,414 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:36:21,422 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:36:21,422 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:37:14,286 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:37:22,648 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:37:26,629 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:37:41,994 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:37:41,995 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:39:18,384 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:39:28,119 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:39:33,689 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:39:44,001 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:39:44,074 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:40:50,866 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:40:57,151 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:41:00,898 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:41:21,102 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:41:21,176 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:42:48,282 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:42:54,213 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:43:00,937 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:43:05,800 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:43:05,869 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:43:06,020 [main] INFO Jombone - Validate if it displayed Sign Up form for candidate
+2022-09-14 05:44:11,363 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:44:18,749 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:44:19,920 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:44:24,506 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:44:24,578 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:44:51,476 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:45:01,449 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:45:06,567 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:45:13,015 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:45:13,096 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:45:28,430 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:45:31,557 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:45:32,393 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:45:35,174 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:45:35,261 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:46:09,358 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:46:16,199 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:46:18,589 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:46:24,759 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:46:24,815 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:46:24,927 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-14 05:48:31,334 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:48:35,746 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:48:38,649 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:48:47,862 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:48:47,862 [main] INFO Jombone - Click on User Agreement link
+2022-09-14 05:50:18,324 [main] DEBUG Jombone - Debug logging has started 
+2022-09-14 05:50:20,161 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-14 05:50:20,893 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-14 05:50:22,062 [main] INFO Jombone - Clicked on Sign up
+2022-09-14 05:50:22,063 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:00:00,453 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:00:02,733 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:00:03,314 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:00:04,406 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:00:04,406 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:00:04,511 [main] INFO Jombone - switch to terms tab
+2022-09-15 04:00:04,677 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:02:43,169 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:02:45,344 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:02:45,882 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:02:46,814 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:02:46,815 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:04:34,174 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:04:36,022 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:04:36,685 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:04:38,366 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:04:38,366 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:05:33,347 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:05:35,555 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:05:36,148 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:05:36,845 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:05:36,846 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:07:01,534 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:07:03,597 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:07:04,244 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:07:05,259 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:07:05,260 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:09:44,362 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:09:46,124 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:09:46,983 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:09:47,888 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:09:47,888 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:23:12,385 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:23:15,010 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:23:15,684 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:23:16,516 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:23:16,517 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:23:16,672 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:24:29,196 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:24:31,300 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:24:32,088 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:24:33,055 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:24:33,055 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:24:33,198 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:24:33,781 [main] ERROR Jombone - Test Passed!
+2022-09-15 04:37:44,094 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:37:46,093 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:37:46,685 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:37:47,617 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:37:47,618 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:37:47,831 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:37:48,273 [main] INFO Jombone - Test Failed! User is redirected to other page!
+2022-09-15 04:37:48,483 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 04:39:20,426 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:39:22,240 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:39:22,792 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:39:23,560 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:39:23,560 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:39:23,754 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:39:24,347 [main] INFO Jombone - Test Failed! User is redirected to other page! Title is: TERMS AND CONDITIONS
+Last updated: March 10, 2019
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the http://www.jombone.com website (the "Service") operated by Jombone Inc. ("us", "we", or "our").
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for Jombone Inc. has been created with the help of TermsFeed.
+Accounts
+When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.
+You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.
+You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+Links To Other Web Sites
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Jombone Inc..
+Jombone Inc. has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Jombone Inc. shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+Permission To Use Company Name And Logo For Marketing
+By creating your user account on Jombone, you agree to give Jombone the permission to use your company name and logo for marketing purposes on Jombone website, marketing collaterals and Jombone social media accounts.
+Termination
+We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+Governing Law
+These Terms shall be governed and construed in accordance with the laws of Ontario, Canada, without regard to its conflict of law provisions.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+Contact Us
+If you have any questions about these Terms, please contact us.
+2022-09-15 04:39:24,537 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 04:40:37,130 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:40:39,449 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:40:40,007 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:40:41,218 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:40:41,219 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:40:41,515 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:40:42,024 [main] INFO Jombone - Test Failed! User is redirected to other page! Title is: TERMS AND CONDITIONS
+2022-09-15 04:40:42,227 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 04:41:11,114 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:41:13,736 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:41:14,394 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:41:15,308 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:41:15,308 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:41:15,522 [main] INFO Jombone - Validate if it displayed Terms and conditions
+2022-09-15 04:41:15,875 [main] INFO Jombone - Test passed!
+2022-09-15 04:41:15,876 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 04:50:13,417 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:50:17,000 [main] INFO Jombone - Started Candidate click on Privacy Policy link
+2022-09-15 04:50:22,110 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:50:23,991 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:50:23,991 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:50:24,091 [main] INFO Jombone - Validate if it displayed Terms and conditions by the element of an actual title of a page user was redirected to
+2022-09-15 04:50:27,668 [main] INFO Jombone - Test Failed! User is redirected to other page! Title is: 
+2022-09-15 04:50:36,415 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 04:51:06,484 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 04:51:13,102 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-15 04:51:16,038 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 04:51:18,044 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 04:51:18,045 [main] INFO Jombone - Click on User Agreement link
+2022-09-15 04:51:19,025 [main] INFO Jombone - Validate if it displayed Terms and conditions by the element of an actual title of a page user was redirected to
+2022-09-15 04:51:19,360 [main] INFO Jombone - Test passed!
+2022-09-15 04:51:19,360 [main] INFO Jombone - Completed candidateClickUserAgreement
+2022-09-15 05:01:22,699 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 05:01:24,377 [main] INFO Jombone - Started Candidate click on Privacy Policy link
+2022-09-15 05:01:24,966 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 05:01:26,269 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 05:01:26,269 [main] INFO Jombone - Click on Privacy Policy link
+2022-09-15 05:04:26,368 [main] DEBUG Jombone - Debug logging has started 
+2022-09-15 05:04:33,837 [main] INFO Jombone - Started Candidate click on Privacy Policy link
+2022-09-15 05:04:35,168 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-15 05:04:36,833 [main] INFO Jombone - Clicked on Sign up
+2022-09-15 05:04:36,833 [main] INFO Jombone - Click on Privacy Policy link
+2022-09-15 05:04:36,993 [main] INFO Jombone - Validate if it displayed Privacy Policy by the element of an actual title of a page user was redirected to
+2022-09-15 05:04:38,352 [main] INFO Jombone - Test passed!
+2022-09-15 05:04:38,352 [main] INFO Jombone - Completed candidateClickPrivacyPolicy

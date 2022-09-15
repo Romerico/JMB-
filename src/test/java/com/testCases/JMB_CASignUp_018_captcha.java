@@ -49,9 +49,9 @@ public class JMB_CASignUp_018_captcha extends BaseClass {
         logger.info("passing password");
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         signUpPage.enterValidPass();
-        signUpPage.setConsentLabel();
-        signUpPage.setPolicyLabel();
-        signUpPage.setCaptchaLabel();
+//        signUpPage.setConsentLabel();
+//        signUpPage.setPolicyLabel();
+//        signUpPage.setCaptchaLabel();
         signUpPage.setSubmitButton();
 
         logger.info("validate a page user was redirected to");

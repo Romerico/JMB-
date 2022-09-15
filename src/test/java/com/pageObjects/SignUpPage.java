@@ -7,9 +7,13 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
+import java.time.Duration;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -248,20 +252,45 @@ public class SignUpPage extends BaseClass {
 
 
     //locate consent label
-    @FindBy(xpath = "//label[@for=\"candidateTosConsented\"]")
+    @FindBy(xpath = "//a[@href=\"/about-jombone#terms\"]")
     @CacheLookup
-    WebElement consentLabel;
+    WebElement consentLink;
 
-    public void setConsentLabel(){
-        consentLabel.click();
+
+    public void clickConsentLink() {
+        consentLink.click();
+
     }
 
-    @FindBy(xpath = "//label[@for=\"candidatePpConsented\"]")
-    @CacheLookup
-    WebElement policyLabel;
 
-    public void setPolicyLabel(){
-        policyLabel.click();
+    @FindBy(xpath = "//a[@href=\"/about-jombone#privacy\"]")
+    @CacheLookup
+    WebElement policyLink;
+
+    public void clickPolicyLink(){
+        policyLink.click();
+    }
+
+    public void switchToWindow(String windowId){
+        driver.switchTo().window(windowId);
+    }
+
+    public void switchToPopUpTab() {
+        String parentWindowId = driver.getWindowHandle();
+        Set<String> windowHandles = driver.getWindowHandles();
+        for (String handle : windowHandles) {
+            if (!handle.equals(parentWindowId)) {
+                switchToWindow(handle);
+            }
+        }
+    }
+
+    public boolean pageTitle(String locator, String title){
+        return driver.findElement(By.xpath(locator)).getText().equals(title);
+    }
+
+    public String actTitle(String locator){
+        return driver.findElement(By.xpath(locator)).getText();
     }
 
     @FindBy(xpath = "//span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']")
