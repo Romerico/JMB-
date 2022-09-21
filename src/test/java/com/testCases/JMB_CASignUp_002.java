@@ -27,7 +27,7 @@ public class JMB_CASignUp_002 extends BaseClass {
 
 
     @Test(priority = 2)
-    public void spaceInFirstNameTest() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_002() throws IOException, NoSuchElementException {
 
             logger.info("Started  Candidate -First Name- characters and space (Positive) Test");
 

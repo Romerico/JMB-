@@ -27,7 +27,7 @@ public class JMB_CASignUp_045 extends BaseClass {
 
 
     @Test(priority = 46)
-    public void resendVerificationVodeLink() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_045() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- verify your email - Resend verification Code link");

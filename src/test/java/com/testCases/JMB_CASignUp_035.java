@@ -20,7 +20,7 @@ public class JMB_CASignUp_035 extends BaseClass {
 //"The following will happen for the test case to be considered successful:
 //AC01: It should display PRIVACY POLICY page."
 @Test(priority = 32)
-public void candidateClickPrivacyPolicy() throws IOException, NoSuchElementException {
+public void JMB_CASignUp_035() throws IOException, NoSuchElementException {
 
     logger.info("Started Candidate click on Privacy Policy link");
 

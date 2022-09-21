@@ -27,7 +27,7 @@ public class JMB_CASignUp_044 extends BaseClass {
 
 
     @Test(priority = 45)
-    public void verifyYourEmailEdit() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_044() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- verify your email - Edit Email link");

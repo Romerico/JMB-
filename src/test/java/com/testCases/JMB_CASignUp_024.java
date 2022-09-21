@@ -22,7 +22,7 @@ public class JMB_CASignUp_024 extends BaseClass {
 
 
     @Test(priority = 27)
-    public void candidatePhoneNumberSpacesAndHyphens() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_024() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone number- contain spaces and hyphens (Negative)");
 

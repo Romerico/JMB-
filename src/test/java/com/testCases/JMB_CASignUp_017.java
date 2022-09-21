@@ -19,7 +19,7 @@ public class JMB_CASignUp_017 extends BaseClass {
 //AC01:  It should display message""Please enter a valid email""."
 
     @Test(priority = 18)
-    public void candidateNoLongerThan255Neg() throws NoSuchElementException {
+    public void JMB_CASignUp_017() throws NoSuchElementException {
 
         logger.info("Started Candidate -Email- longer than 80 characters (Negative)");
 

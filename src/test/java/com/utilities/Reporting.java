@@ -56,16 +56,23 @@ public class Reporting extends TestListenerAdapter
 	public void onTestFailure (ITestResult result)
 	{
 		test=extent.createTest(result.getName()); // create new entry in the report
-		test.log(Status.FAIL, "Test Case FAILED IS " + result.getName());
+
 		test.log(Status.FAIL, "TEST CASE FAILED IS " + result.getThrowable());
 
 
+
 		String screenshotPath=System.getProperty("user.dir")+"\\Screenshots\\"+result.getName()+".png";
+
 		try {
-			test.addScreenCaptureFromPath(screenshotPath);// adding screenshot
+			test.log(Status.FAIL, "Test Case FAILED IS " + result.getName()).
+					addScreenCaptureFromPath(screenshotPath);
+					// adding screenshot
 		} catch (IOException e) {
-				e.printStackTrace();
+			e.printStackTrace();
 		}
+
+
+		extent.flush();
 
 
 	}

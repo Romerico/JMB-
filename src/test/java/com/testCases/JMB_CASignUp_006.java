@@ -22,7 +22,7 @@ public class JMB_CASignUp_006 extends BaseClass {
 //    AC01: User should not be able to enter more than 50 characters"
 
     @Test(priority = 6)
-    public void noLongerThan50CharactersNegativeTest() throws IOException {
+    public void JMB_CASignUp_006() throws IOException {
         logger.info("Started Candidate -First Name- No longer than 50 characters (Negative)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

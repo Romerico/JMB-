@@ -22,7 +22,7 @@ public class JMB_CASignUp_034 extends BaseClass {
 //AC01: It should display TERMS AND CONDITIONS page."
 
     @Test(priority = 31)
-    public void candidateClickUserAgreement() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_034() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate click on User Agreement link");
 

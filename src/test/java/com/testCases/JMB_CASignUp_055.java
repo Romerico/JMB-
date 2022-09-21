@@ -27,7 +27,7 @@ public class JMB_CASignUp_055  extends BaseClass {
 
 
     @Test(priority = 58)
-    public void verifyMobileOTPNumbers() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_055() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate-Verify Your Mobile- code textbox- only number 0-9");

@@ -24,7 +24,7 @@ public class JMB_CASignUp_004 extends BaseClass {
 //AC01: It should display message"Please enter first name".
 
     @Test(priority = 4)
-    public void candidateFirstNameBlankTest() throws IOException {
+    public void JMB_CASignUp_004() throws IOException {
         logger.info("Started Candidate -First Name- blank (Negative) Test");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

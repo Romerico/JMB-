@@ -25,7 +25,7 @@ public class JMB_CASignUp_048 extends BaseClass {
 
 
     @Test(priority = 52)
-    public void enterAlreadyExistLocation() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_048() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page  - Location - Enter already exist location");

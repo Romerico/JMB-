@@ -25,7 +25,7 @@ public class JMB_CASignUp_038 extends BaseClass {
 //AC01: It should not  display  error message.
 
     @Test(priority = 38)
-    public void verifyYourEmailPageTextBoxNumbers() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_038() throws IOException, NoSuchElementException {
 
 
         logger.info("Started Candidate-Verify Your Email - code textbox- only number 0-9");

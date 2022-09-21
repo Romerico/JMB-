@@ -23,7 +23,7 @@ public class JMB_CASignUp_021 extends BaseClass {
 
 
     @Test(priority = 23)
-    public void candidatePhoneNumberBlank() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_021() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone number- blank (Negative)");
 

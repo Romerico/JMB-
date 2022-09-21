@@ -22,7 +22,7 @@ public class JMB_CASignUp_009 extends BaseClass {
 
 
     @Test(priority = 9)
-    public void candidateLastNameSpecCharTest() throws IOException {
+    public void JMB_CASignUp_009() throws IOException {
         logger.info("Started Candidate - Last Name  - special characters (Negative)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

@@ -33,7 +33,7 @@ public class JMB_CASignUp_023 extends BaseClass {
 //AC01:  It should  display message""Please enter a valid 10 digit mobile number""."
 
     @Test(priority = 25)
-    public void candidatePhoneNumber10DigitsPositive() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_023() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone Number- (Negative)");
 

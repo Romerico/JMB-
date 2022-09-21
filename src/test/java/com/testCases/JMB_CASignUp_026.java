@@ -25,7 +25,7 @@ public class JMB_CASignUp_026 extends BaseClass {
 
 
     @Test(priority = 29)
-    public void candidateStrongPasswordPositive() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_026() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Password- at least 6 characters, contains at least one lowercase letter," +
                 "one uppercase letter, one number and one special character (#, @, -, _, ! and ?) (Positive)");

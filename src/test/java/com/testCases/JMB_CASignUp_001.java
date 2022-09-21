@@ -18,7 +18,7 @@ public class JMB_CASignUp_001 extends BaseClass {
 //    AC01: It should display Sign Up form for candidate.
 
     @Test(priority=1)
-    public void LookingForWorkButtonTest() throws IOException
+    public void JMB_CASignUp_001() throws IOException
     {
         logger.info("Started Candidate click on candidate link Test");
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);

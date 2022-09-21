@@ -22,7 +22,7 @@ public class JMB_CASignUp_025 extends BaseClass {
 //AC01: It should  display message""Please enter strong password""."
 
     @Test(priority = 28)
-    public void candidatePasswordBlankNegative() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_025() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Password- Blank (Negative)");
 

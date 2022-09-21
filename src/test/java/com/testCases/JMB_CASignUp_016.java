@@ -20,7 +20,7 @@ public class JMB_CASignUp_016 extends BaseClass {
 
 
     @Test(priority = 17)
-    public void candidateNoLongerThan255() {
+    public void JMB_CASignUp_016() {
 
         logger.info("Started Candidate -Email- No longer than 255 characters (Positive)");
 

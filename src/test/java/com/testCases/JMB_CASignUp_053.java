@@ -27,7 +27,7 @@ public class JMB_CASignUp_053  extends BaseClass {
 
 
     @Test(priority = 57)
-    public void locationDelete() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_053() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate -Where are you looking for a job? Page -Delete selected location");

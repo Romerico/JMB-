@@ -23,7 +23,7 @@ public class JMB_CASignUp_008 extends BaseClass {
 
 
     @Test(priority = 8)
-    public void candidateLastNameSpaceTest() throws IOException {
+    public void JMB_CASignUp_008() throws IOException {
         logger.info("Started  Candidate - Last Name- characters and space (Positive)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

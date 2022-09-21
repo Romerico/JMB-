@@ -23,7 +23,7 @@ public class JMB_CASignUp_018 extends BaseClass {
 
 
     @Test(priority = 19)
-    public void countryCodeCanada() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_018() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate - Country Code - Canada ");
 

@@ -22,7 +22,7 @@ public class JMB_CASignUp_046_4 extends BaseClass {
 //AC04: It should display location textbox should say “Type City/Province/Country..
 
     @Test(priority = 50)
-    public void locationsPage() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_046_4() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page ");

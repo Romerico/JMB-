@@ -22,7 +22,7 @@ public class JMB_CASignUp_022 extends BaseClass {
 //AC01:  It should not display error message."
 
     @Test(priority = 24)
-    public void candidatePhoneNumber10DigitsPositive() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_022() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone number- contain 10 digits (Positive)");
 

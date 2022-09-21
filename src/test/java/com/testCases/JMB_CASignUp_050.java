@@ -26,7 +26,7 @@ public class JMB_CASignUp_050 extends BaseClass {
 
 
     @Test(priority = 54)
-    public void enterMoreThan10Location() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_050() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page  - Location - Enter more than location");

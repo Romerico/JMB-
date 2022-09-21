@@ -22,7 +22,7 @@ public class JMB_CASignUp_046_2 extends BaseClass {
 //AC02: It should displat text- Select as many locations as needed
 
     @Test(priority = 48)
-    public void locationsPage() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_046_2() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page ");

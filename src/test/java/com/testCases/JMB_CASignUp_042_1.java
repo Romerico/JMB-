@@ -29,7 +29,7 @@ public class JMB_CASignUp_042_1 extends BaseClass {
 
 
     @Test(priority = 42)
-    public void verifyYourEmailCodeBlank() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_042_1() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- verify your email - Code -blank");

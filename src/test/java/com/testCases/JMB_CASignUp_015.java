@@ -18,7 +18,7 @@ public class JMB_CASignUp_015 extends BaseClass {
 //AC01: It should not  display error message."
 
     @Test(priority = 16)
-    public void candidateEmailRegex() {
+    public void JMB_CASignUp_015() {
 
         logger.info("Started Candidate -Email- regular expression (Positive)");
 

@@ -26,7 +26,7 @@ public class JMB_CASignUp_039 extends BaseClass {
 //AC01: It should display message""Only numbers are allowed."
 
     @Test(priority = 39)
-    public void verifyYourEmailCodeChar() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_039() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Verify Your Email -code textbox- Characters");

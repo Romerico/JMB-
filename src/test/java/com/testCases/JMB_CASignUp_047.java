@@ -3,13 +3,10 @@ package com.testCases;
 import com.base.BaseClass;
 import com.pageObjects.*;
 import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.time.Duration;
 
 public class JMB_CASignUp_047 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
@@ -28,7 +25,7 @@ public class JMB_CASignUp_047 extends BaseClass {
 
 
     @Test(priority = 51)
-    public void listOfPreviouslySelectedLocations() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_047() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page - Location");

@@ -31,7 +31,7 @@ public class JMB_CASignUp_014 extends BaseClass {
 //AC01: It should display message""Please enter a valid email""."
 
     @Test(priority = 14)
-    public void candidateEmailBlank() throws IOException {
+    public void JMB_CASignUp_014() throws IOException {
 
         logger.info("Started Candidate - Email (Negative) Blank");
 

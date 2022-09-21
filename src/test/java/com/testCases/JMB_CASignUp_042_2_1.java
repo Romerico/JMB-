@@ -28,7 +28,7 @@ public class JMB_CASignUp_042_2_1 extends BaseClass {
 //AC01: It should display message"Please enter a valid verification code.".
 
     @Test(priority = 44)
-    public void verifyYourEmailCodeLessThan4alert() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_042_2_1() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- verify your email - Code - Less than 4 digits");

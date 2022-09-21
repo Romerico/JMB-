@@ -24,7 +24,7 @@ public class JMB_CASignUp_005 extends BaseClass {
 //AC01: It should not display error message.
 
     @Test(priority = 5)
-    public void noLongerThan50CharactersTest() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_005() throws IOException, NoSuchElementException {
         logger.info("Started Candidate -First Name- No longer than 50 characters (Postive)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

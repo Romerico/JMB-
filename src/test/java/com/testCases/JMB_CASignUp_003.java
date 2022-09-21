@@ -22,8 +22,6 @@ public class JMB_CASignUp_003 extends BaseClass {
 
     SoftAssert softassert = new SoftAssert();
 
-    public JMB_CASignUp_003() {
-    }
 //Negative
 //1: Navigate to jombone page
 //2:  On Landing Welcome page ,Click on "Looking for Work" and thenClick on Sign up .
@@ -34,7 +32,7 @@ public class JMB_CASignUp_003 extends BaseClass {
 //AC01: It should display  message"Only character and spaces allowed".
 
     @Test(priority = 3)
-    public void specialCharactersTest() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_003() throws IOException, NoSuchElementException {
 
 
         logger.info("Started Candidate -First Name- special characters (Negative) Test");

@@ -32,7 +32,7 @@ public class JMB_CASignUp_040 extends BaseClass {
 
 
     @Test(priority = 40)
-    public void verifyYourEmailCodeValid() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_040() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- verify your email - Code - same as received in email");

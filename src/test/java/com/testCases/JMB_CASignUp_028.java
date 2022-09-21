@@ -26,7 +26,7 @@ public class JMB_CASignUp_028 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
 
     @Test(priority = 30)
-    public void candidateStrongPasswordNegative() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_028() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter " +
                 "and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)");

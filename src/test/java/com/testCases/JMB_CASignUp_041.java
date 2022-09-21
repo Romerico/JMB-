@@ -27,7 +27,7 @@ public class JMB_CASignUp_041 extends BaseClass {
 //    AC01:It should display message""Please enter a valid verification code."".
 
     @Test(priority = 41)
-    public void verifyYourEmailPageTextBoxWrongCode() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_041() throws IOException, NoSuchElementException {
 
 
         logger.info("Started Candidate- verify your email - Code - not same as received in email .");

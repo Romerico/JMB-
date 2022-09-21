@@ -28,7 +28,7 @@ public class JMB_CASignUp_051 extends BaseClass {
 
 
     @Test(priority = 55)
-    public void locationsNextButtonRedir() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_051() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate -Where are you looking for a job? Page - Next Button");

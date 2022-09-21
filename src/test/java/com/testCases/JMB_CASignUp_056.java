@@ -28,7 +28,7 @@ public class JMB_CASignUp_056 extends BaseClass {
 
 
     @Test(priority = 59)
-    public void verifyMobileOTPChar() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_056() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate-Verify Your Mobile- code textbox- Characters");

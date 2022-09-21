@@ -21,7 +21,7 @@ public class JMB_CASignUp_013 extends BaseClass {
 //AC01: It should display message""Only character and spaces allowed""."
 
     @Test(priority = 13)
-    public void candidateLastNameNumberTest() throws IOException {
+    public void JMB_CASignUp_013() throws IOException {
         logger.info("Started Candidate -Last Name- number (Negative)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);

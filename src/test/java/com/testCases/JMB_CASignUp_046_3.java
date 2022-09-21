@@ -22,7 +22,7 @@ public class JMB_CASignUp_046_3 extends BaseClass {
 //AC03: It should display landing page image on left hand side.
 
     @Test(priority = 49)
-    public void locationsPage() throws IOException, NoSuchElementException, InterruptedException {
+    public void JMB_CASignUp_046_3() throws IOException, NoSuchElementException, InterruptedException {
 
 
         logger.info("Started Candidate- Where are you looking for a job? page ");

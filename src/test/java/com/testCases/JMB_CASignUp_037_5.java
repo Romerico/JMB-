@@ -30,7 +30,7 @@ public class JMB_CASignUp_037_5 extends BaseClass {
 
 
     @Test(priority = 37)
-    public void verifyYourEmailPage() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_037_5() throws IOException, NoSuchElementException {
 
 
         logger.info("Started - Candidate- verify your email page  ");

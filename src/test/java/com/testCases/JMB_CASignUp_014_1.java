@@ -25,7 +25,7 @@ public class JMB_CASignUp_014_1 extends BaseClass {
 
 
     @Test(priority = 15)
-    public void candidateEmailIrregularExpression() throws IOException {
+    public void JMB_CASignUp_014_1() throws IOException {
 
         logger.info("Started Candidate -Email (Negative) Irregular Expression");
 

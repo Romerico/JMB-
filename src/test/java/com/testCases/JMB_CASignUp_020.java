@@ -24,7 +24,7 @@ public class JMB_CASignUp_020 extends BaseClass {
 
 
     @Test(priority = 22)
-    public void candidatePhoneNumber() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_020() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate - Country Code - Canada ");
 

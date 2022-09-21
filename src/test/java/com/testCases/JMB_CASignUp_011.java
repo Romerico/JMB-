@@ -22,7 +22,7 @@ public class JMB_CASignUp_011 extends BaseClass {
 
 
     @Test(priority = 11)
-    public void candidateLastNameNoLongerThan50CharTest() throws IOException {
+    public void JMB_CASignUp_011() throws IOException {
         logger.info("Started Candidate -Last Name- No longer than 50 characters (Positive)");
 
         CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
