@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -21,12 +21,12 @@ public class JMB_CASignUp_024 extends BaseClass {
 //AC01:  It should not display error message."
 
 
-    @Test(priority = 25)
+    @Test(priority = 27)
     public void candidatePhoneNumberSpacesAndHyphens() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone number- contain spaces and hyphens (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -40,11 +40,11 @@ public class JMB_CASignUp_024 extends BaseClass {
 
 
         logger.info("validate if there's an error message");
-        signUpPage.findError("candidatePhoneNumberSpacesAndHyphens");
+        signUpPage.findError("JMB_CASignUp_024");
 
 
         softassert.assertAll();
-        logger.info("Completed candidatePhoneNumberSpacesAndHyphens");
+        logger.info("Completed JMB_CASignUp_024");
 
 
     }

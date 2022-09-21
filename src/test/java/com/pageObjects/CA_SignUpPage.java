@@ -2,27 +2,29 @@ package com.pageObjects;
 
 import com.base.BaseClass;
 import com.mifmif.common.regex.Generex;
+
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-public class SignUpPage extends BaseClass {
+
+public class CA_SignUpPage extends BaseClass {
 
     public WebDriver ldriver;
     SoftAssert softassert = new SoftAssert();
 
-    public SignUpPage(WebDriver driver) {
+    public CA_SignUpPage(WebDriver driver) {
         ldriver = driver;
         PageFactory.initElements(driver, this);
     }
@@ -126,13 +128,13 @@ public class SignUpPage extends BaseClass {
         emailTextBoxLocator.sendKeys(Keys.TAB);
     }
 
-    public void passIrregularExp(){
+    public void passIrregularExp() {
         String random = RandomStringUtils.randomAlphabetic(50);
 
         emailTextBoxLocator.sendKeys(random, Keys.TAB);
     }
 
-    public void passNolongerThan255(){
+    public void passNolongerThan255() {
         Generex gen = new Generex("([a-z0-9]+)[@]([a-z0-9]+)[.]([a-z0-9]+)");
         String randomMail = gen.random(255);
 
@@ -143,72 +145,80 @@ public class SignUpPage extends BaseClass {
         int size = typedValue.length();
 
         if (size == 255) {
-            logger.info("Test passed! Max character functionality is working fine and is " + size);
+            logger.info("Max character functionality is working fine and is " + size);
         } else {
-            logger.error("Test failed! Max character is other than required and is "+ size);
+            logger.error("Max character is other than required and is " + size);
         }
     }
 
-    public void passLongerThan255(){
+    public void passLongerThan255() {
         Generex gen = new Generex("([a-z0-9]+)[@]([a-z0-9]+)[.]([a-z0-9]+)");
         String randomMail = gen.random(260);
 
         emailTextBoxLocator.sendKeys(randomMail, Keys.TAB);
         logger.info("Passing :" + randomMail);
 
-//        String typedValue = emailTextBoxLocator.getAttribute("value");
-//        int size = typedValue.length();
-//
-//        if (size == 255) {
-//            System.out.println("Test passed! Max character functionality is working fine and is " + size);
-//        } else {
-//            System.out.println("Test failed! Max character is other than required and is "+ size);
-//        }
+        String typedValue = emailTextBoxLocator.getAttribute("value");
+        int size = typedValue.length();
+
+        if (size == 255) {
+            System.out.println("Max character functionality is working fine and is " + size);
+        } else {
+            System.out.println("Max character is other than required and is " + size);
+        }
     }
 
 
-    public void passRegexMail(){
+    public void passRegexMail() {
         Generex gen = new Generex("([a-z0-9]+)[@]([a-z0-9]+)[.]([a-z0-9]+)");
-        String randomMail = gen.random();
+        String randomMail = gen.random(10);
 
         emailTextBoxLocator.sendKeys(randomMail, Keys.TAB);
         logger.info("Passing :" + randomMail);
 
     }
+
     //locate country code list
     @FindBy(xpath = "//div[@class=\"iti-arrow\"]")
     @CacheLookup
     WebElement countryCodeList;
+
+    public void chooseNotCanada() {
+        countryCodeList.click();
+        driver.findElement(By.xpath("//li[@data-dial-code=\"376\"]")).click();
+
+    }
+
     //locate phone textbox
     @FindBy(xpath = "//input[@id='phone']")
     @CacheLookup
     WebElement phoneTextbox;
 
-    public void activatePhoneTextbox(){
+    public void activatePhoneTextbox() {
         phoneTextbox.sendKeys(Keys.TAB);
     }
 
     public void enterValidPhone() {
         String random = RandomStringUtils.randomNumeric(7);
-        phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        phoneTextbox.sendKeys("916" + random, Keys.TAB);
         logger.info("passing " + random);
     }
 
     public void enterPhoneLessThan10() {
         String random = RandomStringUtils.randomNumeric(5);
-        phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        phoneTextbox.sendKeys("916" + random, Keys.TAB);
         logger.info("passing " + random);
     }
 
     public void enterPhoneMoreThan10() {
         String random = RandomStringUtils.randomNumeric(8);
-        phoneTextbox.sendKeys("916" + random,Keys.TAB);
+        phoneTextbox.sendKeys("916" + random, Keys.TAB);
         logger.info("passing " + random);
     }
 
     public void enterPhoneSpaceHyphen() {
         String random = RandomStringUtils.randomNumeric(7);
-        phoneTextbox.sendKeys("916", "-" + random," ",Keys.TAB);
+        phoneTextbox.sendKeys("916", "-" + random, " ", Keys.TAB);
         logger.info("passing " + random);
     }
 
@@ -217,14 +227,14 @@ public class SignUpPage extends BaseClass {
     @CacheLookup
     WebElement passwordTextbox;
 
-    public void enterValidPass(){
+    public void enterValidPass() {
         String randomPass = RandomStringUtils.randomAlphanumeric(8);
         passwordTextbox.sendKeys(randomPass, Keys.TAB);
 
         logger.info("Passing :" + randomPass);
     }
 
-    public void enterStrongPass(){
+    public void enterStrongPass() {
         Generex gen = new Generex("([a-z0-9]+)([#, @, -, _, !, ?]+)");
         String randomPass = gen.random(6);
 
@@ -233,7 +243,7 @@ public class SignUpPage extends BaseClass {
         logger.info("Passing : " + randomPass);
     }
 
-    public void enterStrongPass2(){
+    public void enterStrongPass2() {
         Generex gen = new Generex("([a-zA-Z0-9 # @ - _ ! ?]+)");
         String randomPass = gen.random(6);
 
@@ -243,15 +253,14 @@ public class SignUpPage extends BaseClass {
     }
 
 
-    public void enterEmptyPass(){
+    public void enterEmptyPass() {
 
         passwordTextbox.sendKeys(Keys.TAB);
 
     }
 
 
-
-    //locate consent label
+    //locate consent link
     @FindBy(xpath = "//a[@href=\"/about-jombone#terms\"]")
     @CacheLookup
     WebElement consentLink;
@@ -261,17 +270,33 @@ public class SignUpPage extends BaseClass {
         consentLink.click();
 
     }
+    //locate terms checkbox
+    @FindBy(xpath = "//label[@for=\"candidateTosConsented\"]")
+    @CacheLookup
+    WebElement consentCheckbox;
 
+    public void consentLabelClick() {
+        consentCheckbox.click();
+    }
+    //locate policy checkbox
+    @FindBy(xpath = "//label[@for=\"candidatePpConsented\"]")
+    @CacheLookup
+    WebElement policyCheckbox;
 
+    public void policylableClick() {
+        policyCheckbox.click();
+    }
+
+    //locate policy link
     @FindBy(xpath = "//a[@href=\"/about-jombone#privacy\"]")
     @CacheLookup
     WebElement policyLink;
 
-    public void clickPolicyLink(){
+    public void clickPolicyLink() {
         policyLink.click();
     }
 
-    public void switchToWindow(String windowId){
+    public void switchToWindow(String windowId) {
         driver.switchTo().window(windowId);
     }
 
@@ -285,28 +310,45 @@ public class SignUpPage extends BaseClass {
         }
     }
 
-    public boolean pageTitle(String locator, String title){
+    public boolean pageTitle(String locator, String title) {
         return driver.findElement(By.xpath(locator)).getText().equals(title);
     }
 
-    public String actTitle(String locator){
+    public String actTitle(String locator) {
         return driver.findElement(By.xpath(locator)).getText();
     }
-
-    @FindBy(xpath = "//span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']")
+    //locate captcha label
+    @FindBy(xpath = "//iframe[starts-with(@name, 'a-') and starts-with(@src, 'https://www.google.com/recaptcha')]")
     @CacheLookup
     WebElement captchaLabel;
 
-    public void setCaptchaLabel(){
-        captchaLabel.click();
-    }
+    public void clickCaptchaLabel() throws NoSuchElementException {
 
-    @FindBy(xpath = "//input[@type=\"submit\"]")
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(
+                captchaLabel));
+        wait.until(ExpectedConditions.elementToBeClickable(
+                By.xpath("//label[@class='rc-anchor-center-item rc-anchor-checkbox-label']"))).click();
+        //adding wait to either pass the captcha manually or if it is checked, then just proceed
+        FluentWait wait1 = new FluentWait(driver);
+        wait1.withTimeout(Duration.ofSeconds(15));
+        wait1.pollingEvery(Duration.ofSeconds(5));
+        wait.ignoring(NoSuchElementException.class);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@aria-checked=\"true\"]")));
+
+    }
+    //locate submit buttom
+    @FindBy(xpath = "//input[@id=\"sbBt\"]")
     @CacheLookup
     WebElement submitButton;
 
-    public void setSubmitButton(){
-        submitButton.click();
+    public void setSubmitButton() {
+
+        driver.switchTo().defaultContent();
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.elementToBeClickable((submitButton))).click();
+        //wait until next page is loaded
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h2[@class=\"sign-in-h2\"]")));
     }
 
 
@@ -319,11 +361,12 @@ public class SignUpPage extends BaseClass {
     public void findError(String tname) {
 
         try {
+
+            softassert.assertFalse(alert.isDisplayed(), "Test Failed!");
+
             if (alert.isDisplayed()) {
-                logger.error("Test Failed!");
-                captureScreen(driver,tname);
-
-
+                captureScreen(driver, tname);
+               Assert.fail();
             }
         } catch (NoSuchElementException | IOException e) {
             logger.info("Test Passed!");
@@ -331,46 +374,29 @@ public class SignUpPage extends BaseClass {
         }
     }
 
-    public boolean findErrorB() throws NoSuchElementException{
-
-        try {
-            alert.isDisplayed();
-            return true;
-
-
-        }catch(NoSuchElementException ignored)
-        {
-
-        }
-        finally
-        {
-            return false;
-        }
-    }
-
 
     //validate if the error message meets requirements
 
-    public void validateErrorMessage(String expAlert,  String tname) {
-
+    public void validateErrorMessage(String expAlert, String tname) throws NoSuchElementException {
         try {
             String actAlert = alert.getText();
-
-            SoftAssert softassert = new SoftAssert();
+            softassert.assertTrue(actAlert.equals(expAlert));
             if (actAlert.equals(expAlert)) {
-                softassert.assertTrue(true);
-                //if message is the same as in the requirements
-                logger.info("Test Passed! Message meets requirements : " + actAlert);
+                logger.info("Test passed, message is : " + actAlert);
             } else {
-                logger.error("Test Failed! User gets different message : " + actAlert);
-                captureScreen(driver,tname);
+                captureScreen(driver, tname);
+                Assert.fail("Test Failed! Message is : " + actAlert);
             }
-        }
-        catch(NoSuchElementException | IOException e) {
-            logger.info("User did not get validation error message");
+        } catch (NoSuchElementException | IOException e) {
+
+            Assert.fail("User did not get validation error message");
         }
     }
+
+
+
     }
+
 
 
 

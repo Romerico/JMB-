@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -19,12 +19,12 @@ public class JMB_CASignUp_035 extends BaseClass {
 
 //"The following will happen for the test case to be considered successful:
 //AC01: It should display PRIVACY POLICY page."
-@Test(priority = 28)
+@Test(priority = 32)
 public void candidateClickPrivacyPolicy() throws IOException, NoSuchElementException {
 
     logger.info("Started Candidate click on Privacy Policy link");
 
-    SignUpPage signUpPage = new SignUpPage(driver);
+    CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
     CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
     ca_landingPage.clickLookingForWork();
@@ -46,11 +46,11 @@ public void candidateClickPrivacyPolicy() throws IOException, NoSuchElementExcep
     }
     else{
         logger.info("Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle("//div[@id='privacy']/h2"));
-        captureScreen(driver,"candidateClickPrivacyPolicy");
+        captureScreen(driver,"JMB_CASignUp_035");
     }
 
 
     softassert.assertAll();
-    logger.info("Completed candidateClickPrivacyPolicy");
+    logger.info("Completed JMB_CASignUp_035");
 }
 }

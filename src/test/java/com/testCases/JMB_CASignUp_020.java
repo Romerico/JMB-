@@ -2,14 +2,13 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.time.Duration;
 
 public class JMB_CASignUp_020 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
@@ -24,12 +23,12 @@ public class JMB_CASignUp_020 extends BaseClass {
 //AC01:  It should not display error message."
 
 
-    @Test(priority = 20)
+    @Test(priority = 22)
     public void candidatePhoneNumber() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate - Country Code - Canada ");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -47,7 +46,7 @@ public class JMB_CASignUp_020 extends BaseClass {
             if (driver.findElement(By.xpath("//span[@class=\"help-block errorMsg\"]")).isDisplayed()) {
                 softassert.assertTrue(true);
                 logger.error("Test Failed!");
-                captureScreen(driver, "candidatePhoneNumber");
+                captureScreen(driver, "JMB_CASignUp_020");
             }
         }
         catch(NoSuchElementException e){
@@ -56,7 +55,7 @@ public class JMB_CASignUp_020 extends BaseClass {
 
 
         softassert.assertAll();
-        logger.info("Completed candidatePhoneNumber");
+        logger.info("Completed JMB_CASignUp_020");
 
 
     }

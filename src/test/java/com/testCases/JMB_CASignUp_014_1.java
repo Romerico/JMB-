@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -29,7 +29,7 @@ public class JMB_CASignUp_014_1 extends BaseClass {
 
         logger.info("Started Candidate -Email (Negative) Irregular Expression");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -43,12 +43,11 @@ public class JMB_CASignUp_014_1 extends BaseClass {
 
 
         logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "candidateEmailIrregularExpression");
+        signUpPage.validateErrorMessage("Please enter a valid email", "JMB_CASignUp_014_1");
 
 
-        captureScreen(driver, "candidateEmailIrregularExpression");
         softassert.assertAll();
-        logger.info("Completed candidateEmailIrregularExpression");
+        logger.info("Completed JMB_CASignUp_014_1");
 
     }
 

@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -35,7 +35,7 @@ public class JMB_CASignUp_014 extends BaseClass {
 
         logger.info("Started Candidate - Email (Negative) Blank");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -48,39 +48,9 @@ public class JMB_CASignUp_014 extends BaseClass {
         logger.info("leaving email textbox empty");
 
         logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "candidateEmailBlank");
+        signUpPage.validateErrorMessage("Please enter a valid email", "JMB_CASignUp_014");
 
-        captureScreen(driver, "candidateEmailBlank");
         softassert.assertAll();
-        logger.info("Completed candidateEmailBlank");
+        logger.info("Completed JMB_CASignUp_014");
     }
-    @Test(priority = 15)
-    public void candidateEmailIrregularExpression() throws IOException {
-
-        logger.info("Started Candidate -Email (Negative) Irregular Expression");
-
-        SignUpPage signUpPage = new SignUpPage(driver);
-        CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
-
-        ca_landingPage.clickLookingForWork();
-        logger.info("Clicked on Looking for Work");
-
-        ca_landingPage.clickCandidateSignUp();
-        logger.info("Clicked on Sign up");
-
-        signUpPage.passIrregularExp();
-        logger.info("passing irregular expression to last email textbox");
-
-
-        logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "candidateEmailIrregularExpression");
-
-
-        captureScreen(driver, "candidateEmailIrregularExpression");
-        softassert.assertAll();
-        logger.info("Completed candidateEmailIrregularExpression");
-
-    }
-
-
 }

@@ -2,9 +2,11 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
-import org.openqa.selenium.By;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
+import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -18,13 +20,18 @@ public class JMB_CASignUp_002 extends BaseClass {
     //3. On Sign Up page click on Candidate link.
     //4. Enter characters with space in First Name.
 //    ( It should not display any error message)
+    @FindBy(xpath = "//span[@class=\"help-block errorMsg\"]")
+    @CacheLookup
+    WebElement alert;
+    SoftAssert softassert = new SoftAssert();
+
 
     @Test(priority = 2)
     public void spaceInFirstNameTest() throws IOException, NoSuchElementException {
 
             logger.info("Started  Candidate -First Name- characters and space (Positive) Test");
 
-            SignUpPage signUpPage = new SignUpPage(driver);
+            CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
             CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
             ca_landingPage.clickLookingForWork();
@@ -39,21 +46,12 @@ public class JMB_CASignUp_002 extends BaseClass {
 
 
             logger.info("Validating if there's any error message");
-//        signUpPage.findError();
 
-            SoftAssert softassert = new SoftAssert();
-            boolean err = signUpPage.findErrorB();
-            softassert.assertFalse(err);
-            if (err) {
-                logger.error("Test Failed! The error message is : " + driver.findElement(By.xpath("//span[@class=\"help-block errorMsg\"]")).getText());}
-            else {
-
-                logger.info("Test Passed! There's no error message");
-            }
+            signUpPage.findError("JMB_CASignUp_002");
 
 
             softassert.assertAll();
-            logger.info("Completed spaceInFirstNameTest");
+            logger.info("Completed JMB_CASignUp_002");
 
 
         }

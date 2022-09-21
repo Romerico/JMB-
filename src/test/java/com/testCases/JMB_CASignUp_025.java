@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -21,12 +21,12 @@ public class JMB_CASignUp_025 extends BaseClass {
 //"The following will happen for the test case to be considered successful:
 //AC01: It should  display message""Please enter strong password""."
 
-    @Test(priority = 26)
+    @Test(priority = 28)
     public void candidatePasswordBlankNegative() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Password- Blank (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -40,11 +40,11 @@ public class JMB_CASignUp_025 extends BaseClass {
 
 
         logger.info("validate if there's an error message");
-        signUpPage.validateErrorMessage("Please enter strong password", "candidatePasswordBlankNegative");
+        signUpPage.validateErrorMessage("Please enter strong password", "JMB_CASignUp_025");
 
 
         softassert.assertAll();
-        logger.info("Completed candidatePasswordBlankNegative");
+        logger.info("Completed JMB_CASignUp_025");
 
 
     }

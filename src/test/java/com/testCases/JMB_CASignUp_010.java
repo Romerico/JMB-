@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -25,7 +25,7 @@ public class JMB_CASignUp_010 extends BaseClass {
     public void candidateLastNameBlankTest() throws IOException {
         logger.info("Started Candidate - Last Name  - special characters (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -38,11 +38,10 @@ public class JMB_CASignUp_010 extends BaseClass {
         logger.info("Activating textbox and tab out leaving it blank to call the error message");
 
         logger.info("validate an error");
-        signUpPage.validateErrorMessage("Please enter Last Name", "candidateLastNameBlankTest");
+        signUpPage.validateErrorMessage("Please enter Last Name", "JMB_CASignUp_010");
 
 
-        captureScreen(driver, "candidateLastNameBlankTest");
         softassert.assertAll();
-        logger.info("Completed candidateLastNameBlankTest");
+        logger.info("Completed JMB_CASignUp_010");
     }
 }

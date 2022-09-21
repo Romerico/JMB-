@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -23,7 +23,7 @@ public class JMB_CASignUp_017 extends BaseClass {
 
         logger.info("Started Candidate -Email- longer than 80 characters (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -36,9 +36,9 @@ public class JMB_CASignUp_017 extends BaseClass {
         signUpPage.passLongerThan255();
 
         logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "candidateNoLongerThan255Neg");
+        signUpPage.validateErrorMessage("Please enter a valid email", "JMB_CASignUp_017");
 
         softassert.assertAll();
-        logger.info("Completed candidateNoLongerThan255Neg");
+        logger.info("Completed JMB_CASignUp_017");
     }
 }

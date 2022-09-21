@@ -2,17 +2,12 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
-import org.openqa.selenium.By;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.time.Duration;
 
 public class JMB_CASignUp_034 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
@@ -26,12 +21,12 @@ public class JMB_CASignUp_034 extends BaseClass {
 //"The following will happen for the test case to be considered successful:
 //AC01: It should display TERMS AND CONDITIONS page."
 
-    @Test(priority = 28)
+    @Test(priority = 31)
     public void candidateClickUserAgreement() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate click on User Agreement link");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -53,12 +48,12 @@ public class JMB_CASignUp_034 extends BaseClass {
         }
         else{
             logger.info("Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle("//div[@id='terms']/h2"));
-            captureScreen(driver,"candidateClickUserAgreement");
+            captureScreen(driver,"JMB_CASignUp_034");
         }
 
 
         softassert.assertAll();
-        logger.info("Completed candidateClickUserAgreement");
+        logger.info("Completed JMB_CASignUp_034");
     }
 
 

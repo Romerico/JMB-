@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -24,7 +24,7 @@ public class JMB_CASignUp_016 extends BaseClass {
 
         logger.info("Started Candidate -Email- No longer than 255 characters (Positive)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -36,12 +36,12 @@ public class JMB_CASignUp_016 extends BaseClass {
         logger.info("passing email of 255 chars");
         signUpPage.passNolongerThan255();
 
-//        logger.info("validate an error message");
-//
-//        signUpPage.findError();
+        logger.info("validate if there's any error message");
+
+        signUpPage.findError("JMB_CASignUp_016");
 
 
         softassert.assertAll();
-        logger.info("Completed candidateNoLongerThan255");
+        logger.info("Completed JMB_CASignUp_016");
     }
 }

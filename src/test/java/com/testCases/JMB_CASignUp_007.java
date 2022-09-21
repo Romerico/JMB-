@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -26,7 +26,7 @@ public class JMB_CASignUp_007 extends BaseClass {
     public void candidateFirstNameNumberTest() throws IOException {
         logger.info("Started Candidate -First Name- number (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -39,11 +39,10 @@ public class JMB_CASignUp_007 extends BaseClass {
         logger.info("passing a number into a First name textbox");
 
         logger.info("Validating if error message meets requirements");
-        signUpPage.validateErrorMessage("Only character and spaces allowed", "candidateFirstNameNumberTest" );
+        signUpPage.validateErrorMessage("Only character and spaces allowed", "JMB_CASignUp_007" );
 
 
-        captureScreen(driver, "candidateFirstNameNumberTest");
         softassert.assertAll();
-        logger.info("Completed candidateFirstNameNumberTest");
+        logger.info("Completed JMB_CASignUp_007");
     }
 }

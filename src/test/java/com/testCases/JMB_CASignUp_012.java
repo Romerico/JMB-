@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -24,7 +24,7 @@ public class JMB_CASignUp_012 extends BaseClass {
     public void candidateLastNameLongerThan50CharTest() throws IOException {
         logger.info("Started Candidate -Last Name- longer than 50 characters (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -36,8 +36,7 @@ public class JMB_CASignUp_012 extends BaseClass {
         logger.info("passing 50 acceptable symbols to textbox + validating if max character meets requirement");
         signUpPage.noLongerThan50CharactersLastNameNegative();
 
-        captureScreen(driver, "candidateLastNameLongerThan50CharTest");
         softassert.assertAll();
-        logger.info("Completed candidateLastNameLongerThan50CharTest");
+        logger.info("Completed JMB_CASignUp_012");
     }
 }

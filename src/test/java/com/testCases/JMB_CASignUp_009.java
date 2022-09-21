@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -25,7 +25,7 @@ public class JMB_CASignUp_009 extends BaseClass {
     public void candidateLastNameSpecCharTest() throws IOException {
         logger.info("Started Candidate - Last Name  - special characters (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -38,12 +38,11 @@ public class JMB_CASignUp_009 extends BaseClass {
         logger.info("Enter special characters in Last Name.");
 
         logger.info("validate an error");
-        signUpPage.validateErrorMessage("Only character and spaces allowed","candidateLastNameSpecCharTest");
+        signUpPage.validateErrorMessage("Only character and spaces allowed","JMB_CASignUp_009");
 
 
-        captureScreen(driver, "candidateLastNameSpecCharTest");
         softassert.assertAll();
-        logger.info("Completed candidateLastNameSpecCharTest");
+        logger.info("Completed JMB_CASignUp_009");
     }
 }
 

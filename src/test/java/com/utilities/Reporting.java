@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import com.aventstack.extentreports.MediaEntityBuilder;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.TestListenerAdapter;
@@ -57,15 +58,16 @@ public class Reporting extends TestListenerAdapter
 		test=extent.createTest(result.getName()); // create new entry in the report
 		test.log(Status.FAIL, "Test Case FAILED IS " + result.getName());
 		test.log(Status.FAIL, "TEST CASE FAILED IS " + result.getThrowable());
-		
+
+
 		String screenshotPath=System.getProperty("user.dir")+"\\Screenshots\\"+result.getName()+".png";
 		try {
-			test.addScreenCaptureFromPath(screenshotPath);// adding screen shot	
+			test.addScreenCaptureFromPath(screenshotPath);// adding screenshot
 		} catch (IOException e) {
 				e.printStackTrace();
 		}
-		
-		
+
+
 	}
 	public void onTestSkipped (ITestResult result)
 	{

@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -25,13 +25,13 @@ import java.io.IOException;
 public class JMB_CASignUp_028 extends BaseClass {
     SoftAssert softassert = new SoftAssert();
 
-    @Test(priority = 27)
+    @Test(priority = 30)
     public void candidateStrongPasswordNegative() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter " +
                 "and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -45,11 +45,11 @@ public class JMB_CASignUp_028 extends BaseClass {
 
 
         logger.info("validate if there's an error message");
-        signUpPage.findError("candidateStrongPasswordNegative");
+        signUpPage.findError("JMB_CASignUp_028");
 
 
         softassert.assertAll();
-        logger.info("Completed candidateStrongPasswordNegative");
+        logger.info("Completed JMB_CASignUp_028");
 
 
     }

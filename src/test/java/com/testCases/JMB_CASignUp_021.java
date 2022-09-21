@@ -2,8 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
-import org.openqa.selenium.By;
+import com.pageObjects.CA_SignUpPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -23,12 +22,12 @@ public class JMB_CASignUp_021 extends BaseClass {
 //AC01:  It should  display message""Please enter your mobile number""."
 
 
-    @Test(priority = 21)
+    @Test(priority = 23)
     public void candidatePhoneNumberBlank() throws IOException, NoSuchElementException {
 
         logger.info("Started Candidate -Phone number- blank (Negative)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -42,11 +41,11 @@ public class JMB_CASignUp_021 extends BaseClass {
 
 
         logger.info("validate if there's an error message");
-        signUpPage.validateErrorMessage("Please enter your mobile number", "candidatePhoneNumberBlank");
+        signUpPage.validateErrorMessage("Please enter your mobile number", "JMB_CASignUp_021");
 
 
         softassert.assertAll();
-        logger.info("Completed candidatePhoneNumberBlank");
+        logger.info("Completed JMB_CASignUp_021");
 
 
     }

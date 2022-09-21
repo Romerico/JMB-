@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -11,6 +11,7 @@ import java.io.IOException;
 public class JMB_CASignUp_004 extends BaseClass {
 
     SoftAssert softassert = new SoftAssert();
+
 
 //    Candidate -First Name  -  blank (Negative)
 //    "This test case is testing whether a candidate can leave  First Name blank.
@@ -26,7 +27,7 @@ public class JMB_CASignUp_004 extends BaseClass {
     public void candidateFirstNameBlankTest() throws IOException {
         logger.info("Started Candidate -First Name- blank (Negative) Test");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -41,12 +42,11 @@ public class JMB_CASignUp_004 extends BaseClass {
 
 
         logger.info("Validate if the empty name error message meets requirements");
-        signUpPage.validateErrorMessage("Please enter first name", "candidateFirstNameBlankTest");
+        signUpPage.validateErrorMessage("Please enter first name", "JMB_CASignUp_004");
 
 
-            captureScreen(driver, "candidateFirstNameBlankTest");
-            softassert.assertAll();
-            logger.info("Completed candidateFirstNameBlankTest");
+        softassert.assertAll();
+            logger.info("Completed JMB_CASignUp_004");
 
 
 

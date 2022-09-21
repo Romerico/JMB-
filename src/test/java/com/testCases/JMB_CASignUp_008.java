@@ -2,7 +2,7 @@ package com.testCases;
 
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
-import com.pageObjects.SignUpPage;
+import com.pageObjects.CA_SignUpPage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -26,7 +26,7 @@ public class JMB_CASignUp_008 extends BaseClass {
     public void candidateLastNameSpaceTest() throws IOException {
         logger.info("Started  Candidate - Last Name- characters and space (Positive)");
 
-        SignUpPage signUpPage = new SignUpPage(driver);
+        CA_SignUpPage signUpPage = new CA_SignUpPage(driver);
         CA_LandingPage ca_landingPage = new CA_LandingPage(driver);
 
         ca_landingPage.clickLookingForWork();
@@ -39,11 +39,10 @@ public class JMB_CASignUp_008 extends BaseClass {
         logger.info("Enter characters with space in Last Name.");
 
         logger.info("validate if there's any error");
-        signUpPage.findError("candidateLastNameSpaceTest");
+        signUpPage.findError("JMB_CASignUp_008 ");
 
 
-        captureScreen(driver, "candidateLastNameSpaceTest");
         softassert.assertAll();
-        logger.info("Completed candidateLastNameSpaceTest");
+        logger.info("Completed JMB_CASignUp_008 ");
     }
 }
