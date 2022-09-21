@@ -39,8 +39,9 @@ public class JMB_CASignUp_025 extends BaseClass {
         signUpPage.enterEmptyPass();
 
 
-        logger.info("validate if there's an error message");
-        signUpPage.validateErrorMessage("Please enter strong password", "JMB_CASignUp_025");
+        logger.info("validate an error message: 'Please enter strong password'");
+        softassert.assertTrue(signUpPage.validateError("Please enter strong password"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

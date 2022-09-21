@@ -58,12 +58,8 @@ public class JMB_CASignUp_018 extends BaseClass {
 
 
         logger.info("validate a page user was redirected to");
-        softassert.assertFalse(driver.getTitle().contains("Verify"), "Test Failed. Page is : " + driver.getTitle());
-        if (driver.getTitle().contains("Verify")) {
-            captureScreen(driver, "JMB_CASignUp_018");
-        } else {
-            logger.info("Test passed! Page is : " + driver.getTitle());
-        }
+        softassert.assertTrue(driver.getTitle().contains("Verify"), "Test Failed. Page is : " + driver.getTitle());
+
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_018");

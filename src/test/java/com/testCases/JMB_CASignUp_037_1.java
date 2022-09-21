@@ -69,19 +69,10 @@ public class JMB_CASignUp_037_1 extends BaseClass {
 
         logger.info("validate text and font of a title");
         softassert.assertTrue(driver.getTitle().equals("Verify Your Email"), "Test Failed. Page is : " + driver.getTitle());
-        if (driver.getTitle().contains("Verify Your Email")) {
-            logger.info("Page is : " + driver.getTitle());
-        } else {
-            captureScreen(driver, "JMB_CASignUp_037_1 page title");
-        }
+
         softassert.assertTrue(verifyEmailPage.getFontValue(), "Title font is not bold and is : "
                 + driver.findElement(By.cssSelector("head > title")).getCssValue("font-weight")
                 + " while bold is between 700 and 900");
-        if (verifyEmailPage.getFontValue()) {
-            logger.info("Test passed");
-        } else {
-            captureScreen(driver, "JMB_CASignUp_037_1 font");
-        }
 
             softassert.assertAll();
             logger.info("Completed JMB_CASignUp_037_1");

@@ -85,7 +85,13 @@ public class JMB_CASignUp_055  extends BaseClass {
         ca_verifyMobile.hitSubmit();
 
         logger.info("verify if error message is displayed");
-        ca_verifyMobile.findMobileError("JMB_CASignUp_055");
+        try {
+            softassert.assertFalse(ca_verifyMobile.mobileErrorisDisplayed(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
+            logger.info("Test Passed! User did not get any error message");
+
+        }
 
 
         softassert.assertAll();

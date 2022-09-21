@@ -29,22 +29,10 @@ public class CA_VerifyMobile extends BaseClass {
     @CacheLookup
     WebElement mobileError;
 
-    public void findMobileError(String tname) {
-
-        try {
-
-            softassert.assertFalse(mobileError.isDisplayed(), "Test Failed!");
-
-            if (mobileError.isDisplayed()) {
-                Assert.fail(); captureScreen(driver, tname);
-
-            }
-        } catch (NoSuchElementException | IOException e) {
-            logger.info("Test Passed!");
-
-        }
+    //find the validation error
+    public boolean mobileErrorisDisplayed(){
+        return mobileError.isDisplayed();
     }
-
     public String errorText(){
 
         return mobileError.getText();

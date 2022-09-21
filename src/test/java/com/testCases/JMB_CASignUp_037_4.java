@@ -71,12 +71,7 @@ public class JMB_CASignUp_037_4 extends BaseClass {
 
           logger.info("Verify Your Email page form details on right hand side");
           softassert.assertTrue(verifyEmailPage.getEmailFormPosition(), "Email page form details is NOT on right hand side");
-            if (verifyEmailPage.getEmailFormPosition()) {
-                logger.info("Email page form details on right hand side");
-            } else {
 
-                captureScreen(driver, "JMB_CASignUp_037_4 ");
-            }
 
 
 

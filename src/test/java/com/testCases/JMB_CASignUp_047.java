@@ -75,11 +75,6 @@ public class JMB_CASignUp_047 extends BaseClass {
 
         logger.info("validate if list is under the Next button");
         softassert.assertTrue(ca_jobLocationsPage.getListLocation(), "Test Failed. The list is not under the Next Button");
-        if(ca_jobLocationsPage.getListLocation()){
-            logger.info("Test passed!");}
-            else{
-            captureScreen(driver, "JMB_CASignUp_047");
-            }
 
 
         softassert.assertAll();

@@ -41,8 +41,9 @@ public class JMB_CASignUp_004 extends BaseClass {
         signUpPage.activateFirstNameTextbox();
 
 
-        logger.info("Validate if the empty name error message meets requirements");
-        signUpPage.validateErrorMessage("Please enter first name", "JMB_CASignUp_004");
+        logger.info("Validate if the empty name error message meets requirements: 'Please enter first name'");
+        softassert.assertTrue(signUpPage.validateError("Please enter first name"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

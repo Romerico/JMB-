@@ -40,8 +40,9 @@ public class JMB_CASignUp_021 extends BaseClass {
         signUpPage.activatePhoneTextbox();
 
 
-        logger.info("validate if there's an error message");
-        signUpPage.validateErrorMessage("Please enter your mobile number", "JMB_CASignUp_021");
+        logger.info("validate an error message: 'Please enter your mobile number'");
+        softassert.assertTrue(signUpPage.validateError("Please enter your mobile number"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

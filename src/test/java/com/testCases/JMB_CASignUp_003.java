@@ -14,10 +14,6 @@ import java.io.IOException;
 
 public class JMB_CASignUp_003 extends BaseClass {
 
-    @FindBy(xpath = "//span[@class=\"help-block errorMsg\"]")
-    @CacheLookup
-    WebElement alert;
-    String actAlert;
 
 
     SoftAssert softassert = new SoftAssert();
@@ -51,8 +47,9 @@ public class JMB_CASignUp_003 extends BaseClass {
         signUpPage.enterFirstNameWithSpecChar();
 
 
-        logger.info("Validating if error message meets requirements");
-        signUpPage.validateErrorMessage("Only character and spaces allowed", "JMB_CASignUp_003");
+        logger.info("Validating if error message meets requirements: 'Only character and spaces allowed'");
+        softassert.assertTrue(signUpPage.validateError("Only character and spaces allowed"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
             softassert.assertAll();
             logger.info("Completed JMB_CASignUp_003");

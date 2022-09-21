@@ -83,13 +83,9 @@ public class JMB_CASignUp_051 extends BaseClass {
         ca_jobLocationsPage.nextClick();
 
         logger.info("validate if user is redirected");
-        softassert.assertFalse(currentTitle.equals(driver.getTitle()), "Test Failed. The page is the same : " + driver.getTitle());
-        if(!currentTitle.equals(driver.getTitle())){
-            logger.info("Test passed! User is redirected to : " + driver.getTitle());
-        }
-        else{
-            captureScreen(driver, "JMB_CASignUp_051");
-        }
+        softassert.assertFalse(currentTitle.equals(driver.getTitle()),
+                "Test Failed. The page is the same : " + driver.getTitle());
+
 
 
         softassert.assertAll();

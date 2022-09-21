@@ -31,6 +31,14 @@ public class CA_JobLocationsPage extends BaseClass {
     @CacheLookup
     WebElement lookingForJobTitle;
 
+    public boolean pageTitle( String title) {
+        return lookingForJobTitle.getText().equals(title);
+    }
+
+    public String actTitle() {
+        return lookingForJobTitle.getText();
+    }
+
     public boolean getFontValue() throws IOException {
 
         Range<Integer> myRange = Range.between(700, 900);

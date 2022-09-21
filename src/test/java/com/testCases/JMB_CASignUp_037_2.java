@@ -68,11 +68,7 @@ public class JMB_CASignUp_037_2 extends BaseClass {
 
         logger.info("Validate if 'We have sent a “4 digit code” to Email' is displayed");
         softassert.assertTrue(verifyEmailPage.fourDigitCode(), "'We have sent a “4 digit code” to Email' is NOT displayed");
-        if (verifyEmailPage.fourDigitCode()) {
-            logger.info("'We have sent a “4 digit code” to Email' is displayed");
-        } else {
-            captureScreen(driver, "JMB_CASignUp_037_2");
-        }
+
 
             softassert.assertAll();
             logger.info("Completed JMB_CASignUp_037_2");

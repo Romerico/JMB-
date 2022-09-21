@@ -35,10 +35,11 @@ public class JMB_CASignUp_010 extends BaseClass {
         logger.info("Clicked on Sign up");
 
         signUpPage.activateLastNameTextbox();
-        logger.info("Activating textbox and tab out leaving it blank to call the error message");
+        logger.info("Activating textbox and tab out leaving it blank to call the error message: 'Please enter Last Name'");
 
         logger.info("validate an error");
-        signUpPage.validateErrorMessage("Please enter Last Name", "JMB_CASignUp_010");
+        softassert.assertTrue(signUpPage.validateError("Please enter Last Name"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

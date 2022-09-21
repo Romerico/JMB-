@@ -35,8 +35,9 @@ public class JMB_CASignUp_017 extends BaseClass {
         logger.info("passing email of 255 chars");
         signUpPage.passLongerThan255();
 
-        logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "JMB_CASignUp_017");
+        logger.info("validate an error message: 'Please enter a valid email'");
+        softassert.assertTrue(signUpPage.validateError("Please enter a valid email"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_017");

@@ -32,17 +32,9 @@ public class JMB_CASignUp_001 extends BaseClass {
 
         logger.info("Validate if user is redirected to signup form");
         SoftAssert softassert = new SoftAssert();
-        softassert.assertTrue(driver.getTitle().equals("Signup"), "Test Failed! User is redirected to other page! Page title is : " + driver.getTitle());
-        if(driver.getTitle().equals("Signup"))
-        {
-            softassert.assertTrue(true);
-            logger.info("Test Passed! User is redirected to signup form! Page title is : " + driver.getTitle());
-        }
-        else
-        {
+        softassert.assertTrue(driver.getTitle().equals("Signup"),
+                "Test Failed! User is redirected to other page! Page title is : " + driver.getTitle());
 
-            captureScreen(driver,"JMB_CASignUp_001");
-        }
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_001");
 

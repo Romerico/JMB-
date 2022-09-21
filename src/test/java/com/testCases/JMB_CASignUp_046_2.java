@@ -69,11 +69,7 @@ public class JMB_CASignUp_046_2 extends BaseClass {
         logger.info("Validate if it displayed 'Select as many locations as needed' text");
 
         softassert.assertTrue(ca_jobLocationsPage.locationsTextVisibility(), "'Select as many locations as needed' is NOT displayed");
-        if (verifyEmailPage.fourDigitCode()) {
-            logger.info("'Select as many locations as needed' is displayed");
-        } else {
-            captureScreen(driver, "JMB_CASignUp_046_2 locations text");
-        }
+
 
 
         softassert.assertAll();

@@ -209,70 +209,36 @@ public class CA_VerifyEmailPage extends BaseClass {
     @CacheLookup
     WebElement alertEmail;
 
+    public boolean checkError(){
 
-    public void findErrorEmail(String tname) {
-
-        try {
-            String error = alertEmail.getText();
-
-            softassert.assertTrue(error.isEmpty());
-
-            if (!error.isEmpty()) {
-                logger.info("error is displayed" + alertEmail.getText());
-                captureScreen(driver, tname);
-            } else {
-                logger.info("Test Passed!");
-            }
-
-
-        } catch (NoSuchElementException | IOException e) {
-            logger.info("Test Passed!");
-
-        }
+        return alertEmail.isDisplayed();
     }
 
 
-    public void validateErrorMessageMail(String expAlert, String tname) throws NoSuchElementException {
-        try {
-            String actAlert = alertEmail.getText();
-            softassert.assertTrue(actAlert.equals(expAlert));
-            if (actAlert.equals(expAlert)) {
-                logger.info("Test passed, message is : " + actAlert);
-            } else {
-                captureScreen(driver, tname);
-                Assert.fail("Test Failed! Message is : " + actAlert);
-            }
-        } catch (NoSuchElementException | IOException e) {
-
-            Assert.fail("User did not get validation error message");
-        }
+    //validate if the error message meets requirements
+    public boolean validateError(String error) {
+        return alertEmail.getText().equals(error);
     }
+
+    public String actError() {
+        return alertEmail.getText();
+    }
+
+
     //locate error popup
     @FindBy(xpath = "//div[@class='toast-message']")
     @CacheLookup
-    WebElement alertError;
-    public void validateAlertMessageMail(String expAlert, String tname) throws IOException, NoSuchElementException {
+    WebElement alertPopup;
 
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
-        wait.until(ExpectedConditions.visibilityOf(alertError));
+    //validate if the error popup meets requirements
 
-        String actAlert = alertError.getText();
+    public boolean validateAlert(String error) {
+        return alertPopup.getText().equals(error);
+    }
 
-        softassert.assertTrue(actAlert.equals(expAlert));
-        try {
-            if (actAlert.equals(expAlert)) {
-                logger.info("Test passed, message is : " + actAlert);
-            } else {
-                captureScreen(driver, tname);
-                Assert.fail("Test Failed! Message is : " + actAlert);
-            }
-        }
-            catch(NoSuchElementException | IOException e){
-
-
-                Assert.fail("User did not get alert error message");
-            }
-        }
+    public String actAlert() {
+        return alertPopup.getText();
+    }
     }
 
 

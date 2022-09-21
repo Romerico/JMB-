@@ -78,14 +78,9 @@ public class JMB_CASignUp_053  extends BaseClass {
         ca_jobLocationsPage.clickDismiss();
 
 
-        logger.info("validate if user gets an error message");
+        logger.info("validate an error message");
         softassert.assertFalse(ca_jobLocationsPage.certainLocVisibility(), "Test Failed. The location is visible");
-        if(!ca_jobLocationsPage.certainLocVisibility()){
-            logger.info("Test passed!");
-        }
-        else{
-            captureScreen(driver, "JMB_CASignUp_053");
-        }
+
 
 
         softassert.assertAll();

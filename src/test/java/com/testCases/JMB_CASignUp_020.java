@@ -43,14 +43,11 @@ public class JMB_CASignUp_020 extends BaseClass {
 
         logger.info("validate if there's an error message");
         try {
-            if (driver.findElement(By.xpath("//span[@class=\"help-block errorMsg\"]")).isDisplayed()) {
-                softassert.assertTrue(true);
-                logger.error("Test Failed!");
-                captureScreen(driver, "JMB_CASignUp_020");
-            }
+            softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
         }
         catch(NoSuchElementException e){
-            logger.info("Test Passed!");
+
+            logger.info("Test Passed! User did not get any error message.");
         }
 
 

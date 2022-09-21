@@ -29,6 +29,32 @@ public class CA_SignUpPage extends BaseClass {
         PageFactory.initElements(driver, this);
     }
 
+    //Terms and conditions by the element of an actual title of a page
+    @FindBy(xpath = "//div[@id='terms']/h2")
+    @CacheLookup
+    WebElement TERMS;
+
+    public boolean pageTitle(String title) {
+        return TERMS.getText().equals(title);
+    }
+
+    public String actTitle() {
+       return TERMS.getText();
+    }
+
+    //Privacy Policy by the element of an actual title of a page
+    @FindBy(xpath = "//div[@id='privacy']/h2")
+    @CacheLookup
+    WebElement POLICY;
+
+    public boolean pageTitleP(String title) {
+        return POLICY.getText().equals(title);
+    }
+
+    public String actTitleP() {
+        return POLICY.getText();
+    }
+
     //locate a FirstName textbox
     @FindBy(xpath = "//input[@name=\"firstName\"]")
     @CacheLookup
@@ -310,13 +336,7 @@ public class CA_SignUpPage extends BaseClass {
         }
     }
 
-    public boolean pageTitle(String locator, String title) {
-        return driver.findElement(By.xpath(locator)).getText().equals(title);
-    }
 
-    public String actTitle(String locator) {
-        return driver.findElement(By.xpath(locator)).getText();
-    }
     //locate captcha label
     @FindBy(xpath = "//iframe[starts-with(@name, 'a-') and starts-with(@src, 'https://www.google.com/recaptcha')]")
     @CacheLookup
@@ -358,44 +378,30 @@ public class CA_SignUpPage extends BaseClass {
     WebElement alert;
 
     //find the validation error
-    public void findError(String tname) {
+    public boolean checkError(){
 
-        try {
-
-            softassert.assertFalse(alert.isDisplayed(), "Test Failed!");
-
-            if (alert.isDisplayed()) {
-                captureScreen(driver, tname);
-               Assert.fail();
-            }
-        } catch (NoSuchElementException | IOException e) {
-            logger.info("Test Passed!");
-
-        }
+        return alert.isDisplayed();
     }
+
 
 
     //validate if the error message meets requirements
+    public boolean validateError(String error) {
+        return alert.getText().equals(error);
+    }
 
-    public void validateErrorMessage(String expAlert, String tname) throws NoSuchElementException {
-        try {
-            String actAlert = alert.getText();
-            softassert.assertTrue(actAlert.equals(expAlert));
-            if (actAlert.equals(expAlert)) {
-                logger.info("Test passed, message is : " + actAlert);
-            } else {
-                captureScreen(driver, tname);
-                Assert.fail("Test Failed! Message is : " + actAlert);
-            }
-        } catch (NoSuchElementException | IOException e) {
-
-            Assert.fail("User did not get validation error message");
-        }
+    public String actError() {
+        return alert.getText();
     }
 
 
 
     }
+
+
+
+
+
 
 
 

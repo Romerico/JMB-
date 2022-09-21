@@ -85,13 +85,11 @@ public class JMB_CASignUp_056 extends BaseClass {
         logger.info("submit form");
         ca_verifyMobile.hitSubmit();
 
-        softassert.assertTrue(ca_verifyMobile.errorText().equals("Only numbers are allowed."), "Test failed, message is : " + ca_verifyMobile.errorText());
-        if(ca_verifyMobile.errorText().equals("Only numbers are allowed.")){
-            logger.info("Test passed, message is : " + ca_verifyMobile.errorText());
-        }
-        else{
-            captureScreen(driver, "JMB_CASignUp_056");
-        }
+
+        logger.info("validate am error message");
+        softassert.assertTrue(ca_verifyMobile.errorText().equals("Only numbers are allowed."),
+                "Test failed, message is : " + ca_verifyMobile.errorText());
+
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_056");
     }

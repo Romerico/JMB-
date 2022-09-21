@@ -72,8 +72,9 @@ public class JMB_CASignUp_042_1 extends BaseClass {
         logger.info("submit form");
         verifyEmailPage.submitForm();
 
-        logger.info("verifying if error message is present");
-        verifyEmailPage.validateErrorMessageMail("Please enter a valid verification code.", "JMB_CASignUp_042_1");
+        logger.info("calidate an error message :'Please enter a valid verification code.'");
+        softassert.assertTrue(verifyEmailPage.validateError("Please enter a valid verification code."),
+                "Test Failed! Message is: " + verifyEmailPage.actError());
 
 
 

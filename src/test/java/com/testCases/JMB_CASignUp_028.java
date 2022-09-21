@@ -45,7 +45,13 @@ public class JMB_CASignUp_028 extends BaseClass {
 
 
         logger.info("validate if there's an error message");
-        signUpPage.findError("JMB_CASignUp_028");
+        try {
+            softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
+
+            logger.info("Test Passed! User did not get any error message.");
+        }
 
 
         softassert.assertAll();

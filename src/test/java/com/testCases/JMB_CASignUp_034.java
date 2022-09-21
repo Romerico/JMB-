@@ -43,13 +43,8 @@ public class JMB_CASignUp_034 extends BaseClass {
 
         logger.info("Validate if it displayed Terms and conditions by the element of an actual title of a page user was redirected to");
 
-        if(signUpPage.pageTitle("//div[@id='terms']/h2", "TERMS AND CONDITIONS")){
-            logger.info("Test passed!");
-        }
-        else{
-            logger.info("Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle("//div[@id='terms']/h2"));
-            captureScreen(driver,"JMB_CASignUp_034");
-        }
+        softassert.assertTrue(signUpPage.pageTitle("TERMS AND CONDITIONS"),
+                "Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle());
 
 
         softassert.assertAll();

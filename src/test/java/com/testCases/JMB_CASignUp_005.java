@@ -40,13 +40,15 @@ public class JMB_CASignUp_005 extends BaseClass {
         logger.info("Passing 50 acceptable symbols to textbox");
 
         logger.info("validating if there's any error message");
+        try {
+            softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
 
-        signUpPage.findError("JMB_CASignUp_005");
+            logger.info("Test Passed! User did not get any error message.");
+        }
+            softassert.assertAll();
+            logger.info("Completed JMB_CASignUp_005");
+        }
 
-
-        softassert.assertAll();
-        logger.info("Completed JMB_CASignUp_005");
     }
-
-
-}

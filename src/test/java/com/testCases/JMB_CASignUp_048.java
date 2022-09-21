@@ -78,11 +78,7 @@ public class JMB_CASignUp_048 extends BaseClass {
         logger.info("validate the text of an error message");
         softassert.assertTrue(ca_jobLocationsPage.popupError().equals("You have already entered this city"),
                 "Test Failed. Message is: " + ca_jobLocationsPage.popupError());
-        if(ca_jobLocationsPage.popupError().equals("You have already entered this city")){
-            logger.info("Test passed! Message is: " + ca_jobLocationsPage.popupError());}
-        else{
-            captureScreen(driver, "JMB_CASignUp_048");
-        }
+
 
 
         softassert.assertAll();

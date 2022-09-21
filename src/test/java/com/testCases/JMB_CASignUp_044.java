@@ -70,11 +70,7 @@ public class JMB_CASignUp_044 extends BaseClass {
 
         logger.info("verifying that edit email popup is visible");
         softassert.assertTrue(verifyEmailPage.emailPopupVisibility(), "Test Failed!" );
-        if (!verifyEmailPage.emailPopupVisibility()) {
-            captureScreen(driver, "JMB_CASignUp_044");
-        } else {
-            logger.info("Test passed!");
-        }
+
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_044");

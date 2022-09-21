@@ -78,21 +78,9 @@ public class JMB_CASignUp_040 extends BaseClass {
         verifyEmailPage.submitForm();
 
 
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='loginForm_section clearfix']/h2")));
-
         logger.info("validating if user is redirected to a required page");
-
-        if(CA_infoPages.infoPageTitle("//div[@class='loginForm_section clearfix']/h2", "Where are you looking for a job?")){
-            logger.info("Test passed! Title is: " +
-                                 ca_infoPages.actInfoTitle("//div[@class='loginForm_section clearfix']/h2"));
-        }
-        else{
-            logger.info("Test Failed! User is redirected to other page! Title is: " +
-                    ca_infoPages.actInfoTitle("//div[@class='loginForm_section clearfix']/h2"));
-            captureScreen(driver,"JMB_CASignUp_040");
-        }
-
+        softassert.assertTrue(ca_infoPages.infoPageTitle("Where are you looking for a job?"),
+                "Test Failed! User is redirected to other page! Title is: " + ca_infoPages.actInfoTitle());
 
 
         softassert.assertAll();

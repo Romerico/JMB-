@@ -70,11 +70,7 @@ public class JMB_CASignUp_045 extends BaseClass {
 
         logger.info("verifying that resend code popup is visible");
         softassert.assertTrue(verifyEmailPage.resendCodePopupVisibility(), "Test Failed!" );
-        if (!verifyEmailPage.resendCodePopupVisibility()) {
-            captureScreen(driver, "JMB_CASignUp_045");
-        } else {
-            logger.info("Test passed!");
-        }
+
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_045");

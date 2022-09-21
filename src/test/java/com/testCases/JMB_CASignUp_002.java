@@ -20,14 +20,12 @@ public class JMB_CASignUp_002 extends BaseClass {
     //3. On Sign Up page click on Candidate link.
     //4. Enter characters with space in First Name.
 //    ( It should not display any error message)
-    @FindBy(xpath = "//span[@class=\"help-block errorMsg\"]")
-    @CacheLookup
-    WebElement alert;
+
     SoftAssert softassert = new SoftAssert();
 
 
     @Test(priority = 2)
-    public void JMB_CASignUp_002() throws IOException, NoSuchElementException {
+    public void JMB_CASignUp_002() throws NoSuchElementException {
 
             logger.info("Started  Candidate -First Name- characters and space (Positive) Test");
 
@@ -47,10 +45,17 @@ public class JMB_CASignUp_002 extends BaseClass {
 
             logger.info("Validating if there's any error message");
 
-            signUpPage.findError("JMB_CASignUp_002");
+            try {
+                softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
+            }
+            catch(NoSuchElementException e){
+
+                logger.info("Test Passed! User did not get any error message.");
+        }
 
 
-            softassert.assertAll();
+
+        softassert.assertAll();
             logger.info("Completed JMB_CASignUp_002");
 
 

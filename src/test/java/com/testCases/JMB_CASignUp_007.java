@@ -38,8 +38,9 @@ public class JMB_CASignUp_007 extends BaseClass {
         signUpPage.enterFirstNameWithNumber();
         logger.info("passing a number into a First name textbox");
 
-        logger.info("Validating if error message meets requirements");
-        signUpPage.validateErrorMessage("Only character and spaces allowed", "JMB_CASignUp_007" );
+        logger.info("Validating if error message meets requirements: 'Only character and spaces allowed'");
+        softassert.assertTrue(signUpPage.validateError("Only character and spaces allowed"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

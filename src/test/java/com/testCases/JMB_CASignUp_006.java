@@ -38,7 +38,6 @@ public class JMB_CASignUp_006 extends BaseClass {
         signUpPage.noLongerThan50CharactersNegative();
 
 
-        captureScreen(driver, "JMB_CASignUp_006");
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_006");
     }

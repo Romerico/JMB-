@@ -67,7 +67,13 @@ public class JMB_CASignUp_038 extends BaseClass {
         verifyEmailPage.submitForm();
 
         logger.info("verifying if error message is displayed");
-        verifyEmailPage.findErrorEmail("JMB_CASignUp_038");
+        try {
+            softassert.assertFalse(verifyEmailPage.checkError(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
+
+            logger.info("Test Passed! User did not get any error message.");
+        }
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_038");

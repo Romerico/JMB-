@@ -3,6 +3,7 @@ package com.testCases;
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
 import com.pageObjects.CA_SignUpPage;
+import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -38,8 +39,13 @@ public class JMB_CASignUp_011 extends BaseClass {
         logger.info("Activating textbox and tab out leaving it blank to call the error message");
 
         logger.info("validate if there's any error");
-        signUpPage.findError("JMB_CASignUp_011");
+        try {
+            softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
 
+            logger.info("Test Passed! User did not get any error message.");
+        }
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_011");

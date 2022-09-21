@@ -76,14 +76,10 @@ public class JMB_CASignUp_050 extends BaseClass {
 
 
 
-        logger.info("validate if error text meets requirements");
+        logger.info("validate an error message: 'Maximum 10 locations allowed'");
         softassert.assertTrue(ca_jobLocationsPage.popupError().equals("Maximum 10 locations allowed"),
                 "Test Failed.Message is : " + ca_jobLocationsPage.popupError());
-        if(ca_jobLocationsPage.popupError().equals("Maximum 10 locations allowed")){
-            logger.info("Test passed!");}
-        else{
-            captureScreen(driver, "JMB_CASignUp_050");
-        }
+
 
 
         softassert.assertAll();

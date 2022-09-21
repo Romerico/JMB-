@@ -3,6 +3,7 @@ package com.testCases;
 import com.base.BaseClass;
 import com.pageObjects.CA_LandingPage;
 import com.pageObjects.CA_SignUpPage;
+import org.openqa.selenium.NoSuchElementException;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -39,7 +40,13 @@ public class JMB_CASignUp_008 extends BaseClass {
         logger.info("Enter characters with space in Last Name.");
 
         logger.info("validate if there's any error");
-        signUpPage.findError("JMB_CASignUp_008 ");
+        try {
+            softassert.assertFalse(signUpPage.checkError(), "Test Failed!");
+        }
+        catch(NoSuchElementException e){
+
+            logger.info("Test Passed! User did not get any error message.");
+        }
 
 
         softassert.assertAll();

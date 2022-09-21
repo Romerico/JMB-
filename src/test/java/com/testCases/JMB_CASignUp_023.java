@@ -50,8 +50,9 @@ public class JMB_CASignUp_023 extends BaseClass {
         signUpPage.enterPhoneLessThan10();
 
 
-        logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid 10 digit mobile number","JMB_CASignUp_023");
+        logger.info("validate an error message: 'Please enter a valid 10 digit mobile number'");
+        softassert.assertTrue(signUpPage.validateError("Please enter a valid 10 digit mobile number"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

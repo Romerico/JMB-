@@ -43,7 +43,8 @@ public class JMB_CASignUp_014_1 extends BaseClass {
 
 
         logger.info("validate an error message");
-        signUpPage.validateErrorMessage("Please enter a valid email", "JMB_CASignUp_014_1");
+        softassert.assertTrue(signUpPage.validateError("Please enter a valid email"),
+                "Test Failed! Message is: " + signUpPage.actError());
 
 
         softassert.assertAll();

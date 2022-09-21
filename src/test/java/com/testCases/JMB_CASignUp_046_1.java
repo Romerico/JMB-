@@ -70,22 +70,14 @@ public class JMB_CASignUp_046_1 extends BaseClass {
 
         logger.info("Validate if it displayed Where are you looking for a job page");
 
-        if(signUpPage.pageTitle("//h2[contains(text(),'job')]", "Where are you looking for a job?")){
-            logger.info("Test passed!");
-        }
-        else{
-            logger.info("Test Failed! User is redirected to other page! Title is: " + ca_jobLocationsPage.actTitle("//h2[contains(text(),'job')]"));
-            captureScreen(driver,"JMB_CASignUp_046_1 title");
-        }
+        softassert.assertTrue(ca_jobLocationsPage.pageTitle("Where are you looking for a job?"));
+
+
         softassert.assertTrue(ca_jobLocationsPage.getFontValue(),
                 "Title font is not bold and is : "
                         + driver.findElement(By.xpath("//h2[contains(text(),'job')]")).getCssValue("font-weight")
                         + "while bold is between 700 and 900");
-        if (ca_jobLocationsPage.getFontValue()) {
-            logger.info("Test passed");
-        } else {
-            captureScreen(driver, "JMB_CASignUp_046_1 font");
-        }
+
 
 
         softassert.assertAll();

@@ -68,8 +68,9 @@ public class JMB_CASignUp_039 extends BaseClass {
         logger.info("submit form");
         verifyEmailPage.submitForm();
 
-        logger.info("validating if error message meets requirements");
-        verifyEmailPage.validateErrorMessageMail("Only numbers are allowed.", "JMB_CASignUp_039");
+        logger.info("validating if error message meets requirements: 'Only numbers are allowed.'");
+        softassert.assertTrue(verifyEmailPage.validateError("Only numbers are allowed."),
+                "Test Failed! Message is: " + verifyEmailPage.actError());
 
         softassert.assertAll();
         logger.info("Completed JMB_CASignUp_039");

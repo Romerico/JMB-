@@ -68,11 +68,7 @@ public class JMB_CASignUp_046_3 extends BaseClass {
 
         logger.info("Validate if it displayed landing page image on left hand side");
         softassert.assertTrue(ca_jobLocationsPage.getImagePosition(), "landing page image is NOT on left hand side");
-        if (ca_jobLocationsPage.getImagePosition()) {
-            logger.info("Landing page image is on left hand side");
-        } else {
-            captureScreen(driver, "JMB_CASignUp_046_3 left image");
-        }
+
 
 
         softassert.assertAll();

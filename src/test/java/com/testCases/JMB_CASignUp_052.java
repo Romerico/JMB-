@@ -79,14 +79,10 @@ public class JMB_CASignUp_052 extends BaseClass {
         logger.info("click next to get redirected to next page");
         ca_jobLocationsPage.nextClick();
 
-        logger.info("validate if user gets an error message");
-        softassert.assertTrue(ca_jobLocationsPage.popupError().equals("Please select at least one location."), "Test Failed. The message is  : " + ca_jobLocationsPage.popupError());
-        if(ca_jobLocationsPage.popupError().equals("Please select at least one location")){
-            logger.info("Test passed!");
-        }
-        else{
-            captureScreen(driver, "JMB_CASignUp_052");
-        }
+        logger.info("validate an error message");
+        softassert.assertTrue(ca_jobLocationsPage.popupError().equals("Please select at least one location."),
+                "Test Failed. The message is  : " + ca_jobLocationsPage.popupError());
+
 
 
         softassert.assertAll();

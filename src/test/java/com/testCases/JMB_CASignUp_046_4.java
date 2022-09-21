@@ -69,12 +69,7 @@ public class JMB_CASignUp_046_4 extends BaseClass {
         logger.info("verifying text in location textbox");
         softassert.assertTrue(ca_jobLocationsPage.locationTextBoxText().equals("Type City/Province/Country"),
                 "Textbox displays other message : " + ca_jobLocationsPage.locationTextBoxText());
-        if(ca_jobLocationsPage.locationTextBoxText().equals("Type City/Province/Country")){
-            logger.info("Test passed. Text is : " + ca_jobLocationsPage.locationTextBoxText());
-        }
-        else{
-            captureScreen(driver, "JMB_CASignUp_046_4 location textbox");
-        }
+
 
 
         softassert.assertAll();

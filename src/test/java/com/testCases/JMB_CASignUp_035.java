@@ -41,13 +41,10 @@ public void JMB_CASignUp_035() throws IOException, NoSuchElementException {
 
     logger.info("Validate if it displayed Privacy Policy by the element of an actual title of a page user was redirected to");
 
-    if(signUpPage.pageTitle("//div[@id='privacy']/h2", "PRIVACY POLICY")){
-        logger.info("Test passed!");
-    }
-    else{
-        logger.info("Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle("//div[@id='privacy']/h2"));
-        captureScreen(driver,"JMB_CASignUp_035");
-    }
+    softassert.assertTrue(signUpPage.pageTitle("PRIVACY POLICY"),
+            "Test Failed! User is redirected to other page! Title is: " + signUpPage.actTitle());
+
+
 
 
     softassert.assertAll();
