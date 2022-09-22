@@ -1,0 +1,759 @@
+2022-09-22 17:30:52,719 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:30:54,344 [main] INFO Jombone - Started Candidate click on candidate link Test
+2022-09-22 17:30:54,416 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:30:56,705 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:30:56,705 [main] INFO Jombone - Validate if user is redirected to signup form
+2022-09-22 17:30:56,723 [main] INFO Jombone - Completed JMB_CASignUp_001
+2022-09-22 17:30:58,637 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:30:59,987 [main] INFO Jombone - Started  Candidate -First Name- characters and space (Positive) Test
+2022-09-22 17:31:00,815 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:02,607 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:02,607 [main] INFO Jombone - Passing characters with space in First Name
+2022-09-22 17:31:02,702 [main] INFO Jombone - Validating if there's any error message
+2022-09-22 17:31:02,731 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:31:02,732 [main] INFO Jombone - Completed JMB_CASignUp_002
+2022-09-22 17:31:04,639 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:06,026 [main] INFO Jombone - Started Candidate -First Name- special characters (Negative) Test
+2022-09-22 17:31:06,718 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:08,016 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:08,016 [main] INFO Jombone - Entered special characters in First Name
+2022-09-22 17:31:08,111 [main] INFO Jombone - Validating if error message meets requirements: 'Only character and spaces allowed'
+2022-09-22 17:31:10,441 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:11,951 [main] INFO Jombone - Started Candidate -First Name- blank (Negative) Test
+2022-09-22 17:31:12,637 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:13,962 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:13,963 [main] INFO Jombone - Clicked the textbox and left it
+2022-09-22 17:31:14,043 [main] INFO Jombone - Validate if the empty name error message meets requirements: 'Please enter first name'
+2022-09-22 17:31:14,089 [main] INFO Jombone - Completed JMB_CASignUp_004
+2022-09-22 17:31:15,955 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:17,771 [main] INFO Jombone - Started Candidate -First Name- No longer than 50 characters (Postive)
+2022-09-22 17:31:18,319 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:19,779 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:19,908 [main] INFO Jombone - Passing 50 acceptable symbols to textbox
+2022-09-22 17:31:19,908 [main] INFO Jombone - validating if there's any error message
+2022-09-22 17:31:19,925 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:31:19,926 [main] INFO Jombone - Completed JMB_CASignUp_005
+2022-09-22 17:31:21,762 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:23,118 [main] INFO Jombone - Started Candidate -First Name- No longer than 50 characters (Negative)
+2022-09-22 17:31:23,832 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:25,138 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:25,139 [main] INFO Jombone - Passing 51 acceptable symbols to textbox
+2022-09-22 17:31:25,298 [main] INFO Jombone - Test passed! Max character functionality is working fine and is 50
+2022-09-22 17:31:25,299 [main] INFO Jombone - Completed JMB_CASignUp_006
+2022-09-22 17:31:27,147 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:28,231 [main] INFO Jombone - Started Candidate -First Name- number (Negative)
+2022-09-22 17:31:28,704 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:29,873 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:29,960 [main] INFO Jombone - passing a number into a First name textbox
+2022-09-22 17:31:29,960 [main] INFO Jombone - Validating if error message meets requirements: 'Only character and spaces allowed'
+2022-09-22 17:31:32,228 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:33,853 [main] INFO Jombone - Started  Candidate - Last Name- characters and space (Positive)
+2022-09-22 17:31:34,497 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:35,859 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:35,958 [main] INFO Jombone - Enter characters with space in Last Name.
+2022-09-22 17:31:35,959 [main] INFO Jombone - validate if there's any error
+2022-09-22 17:31:35,980 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:31:35,981 [main] INFO Jombone - Completed JMB_CASignUp_008 
+2022-09-22 17:31:37,827 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:39,114 [main] INFO Jombone - Started Candidate - Last Name  - special characters (Negative)
+2022-09-22 17:31:39,986 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:42,212 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:42,303 [main] INFO Jombone - Enter special characters in Last Name.
+2022-09-22 17:31:42,304 [main] INFO Jombone - validate an error
+2022-09-22 17:31:44,488 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:46,198 [main] INFO Jombone - Started Candidate - Last Name  - special characters (Negative)
+2022-09-22 17:31:47,228 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:48,654 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:48,730 [main] INFO Jombone - Activating textbox and tab out leaving it blank to call the error message: 'Please enter Last Name'
+2022-09-22 17:31:48,731 [main] INFO Jombone - validate an error
+2022-09-22 17:31:51,074 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:52,596 [main] INFO Jombone - Started Candidate -Last Name- No longer than 50 characters (Positive)
+2022-09-22 17:31:53,288 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:31:54,791 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:31:54,924 [main] INFO Jombone - Activating textbox and tab out leaving it blank to call the error message
+2022-09-22 17:31:54,924 [main] INFO Jombone - validate if there's any error
+2022-09-22 17:31:54,942 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:31:54,942 [main] INFO Jombone - Completed JMB_CASignUp_011
+2022-09-22 17:31:56,788 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:31:58,384 [main] INFO Jombone - Started Candidate -Last Name- longer than 50 characters (Negative)
+2022-09-22 17:31:58,892 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:00,065 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:00,065 [main] INFO Jombone - passing 50 acceptable symbols to textbox + validating if max character meets requirement
+2022-09-22 17:32:00,215 [main] INFO Jombone - Test passed! Max character functionality is working fine and is 50
+2022-09-22 17:32:00,216 [main] INFO Jombone - Completed JMB_CASignUp_012
+2022-09-22 17:32:02,077 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:03,565 [main] INFO Jombone - Started Candidate -Last Name- number (Negative)
+2022-09-22 17:32:04,277 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:05,617 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:05,705 [main] INFO Jombone - passing number to last name textbox
+2022-09-22 17:32:05,705 [main] INFO Jombone - validate an error: ;Only character and spaces allowed'
+2022-09-22 17:32:07,966 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:09,359 [main] INFO Jombone - Started Candidate - Email (Negative) Blank
+2022-09-22 17:32:10,050 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:11,272 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:11,354 [main] INFO Jombone - leaving email textbox empty
+2022-09-22 17:32:11,354 [main] INFO Jombone - validate an error message: 'Please enter a valid email'
+2022-09-22 17:32:13,622 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:15,129 [main] INFO Jombone - Started Candidate -Email- regular expression (Positive)
+2022-09-22 17:32:15,639 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:17,244 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:17,244 [main] INFO Jombone - passing regex email
+2022-09-22 17:32:17,364 [main] INFO Jombone - Passing :0w2h3cl@2uf.ez244
+2022-09-22 17:32:17,364 [main] INFO Jombone - Validating if there's any error message
+2022-09-22 17:32:17,382 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:32:17,382 [main] INFO Jombone - Completed JMB_CASignUp_015
+2022-09-22 17:32:19,219 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:20,463 [main] INFO Jombone - Started Candidate -Email- No longer than 255 characters (Positive)
+2022-09-22 17:32:21,010 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:22,254 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:22,255 [main] INFO Jombone - passing email of 255 chars
+2022-09-22 17:32:22,467 [main] ERROR Jombone - Max character is other than required and is 80
+2022-09-22 17:32:22,467 [main] INFO Jombone - validate if there's any error message
+2022-09-22 17:32:22,483 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:32:22,483 [main] INFO Jombone - Completed JMB_CASignUp_016
+2022-09-22 17:32:24,307 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:25,775 [main] INFO Jombone - Started Candidate -Email- longer than 80 characters (Negative)
+2022-09-22 17:32:26,400 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:27,791 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:27,791 [main] INFO Jombone - passing email of 255 chars
+2022-09-22 17:32:28,005 [main] INFO Jombone - Passing :4@q.f3a84uh6v2jxuoo2kg43axqdg30k334yi809p3cv460014821cxh6208i4o9z2i30sy26yyj7gf2x38m81425vg3695kcw5i0f29dqg8t2ryk56m7der27228pmfq2z677bto4qz7uy96ae1q645x85e9z4884mb5xc3mfzsl9qs6xe971b38y7fybk2u4y61ek49351eb6105dhr5r417uur3l4ug2l020ivgwo5e29w1pt2i5j2962q4i3je0j4
+2022-09-22 17:32:28,021 [main] INFO Jombone - validate an error message: 'Please enter a valid email'
+2022-09-22 17:32:30,199 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:31,581 [main] INFO Jombone - Started Candidate - Country Code - Canada 
+2022-09-22 17:32:32,141 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:33,542 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:33,542 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:32:33,671 [main] INFO Jombone - passing first name
+2022-09-22 17:32:33,777 [main] INFO Jombone - passing last name
+2022-09-22 17:32:33,778 [main] INFO Jombone - passing email
+2022-09-22 17:32:33,865 [main] INFO Jombone - Passing :o7@ubb.oe851ctn8vq0x
+2022-09-22 17:32:33,865 [main] INFO Jombone - passing phone
+2022-09-22 17:32:33,955 [main] INFO Jombone - passing 1614119
+2022-09-22 17:32:33,955 [main] INFO Jombone - passing password
+2022-09-22 17:32:34,027 [main] INFO Jombone - Passing : d_$?@@@'
+2022-09-22 17:32:34,028 [main] INFO Jombone - click consent label
+2022-09-22 17:32:34,093 [main] INFO Jombone - click policy label
+2022-09-22 17:32:34,170 [main] INFO Jombone - submit captcha
+2022-09-22 17:32:40,727 [main] INFO Jombone - click join now
+2022-09-22 17:32:42,313 [main] INFO Jombone - validate a page user was redirected to
+2022-09-22 17:32:42,329 [main] INFO Jombone - Completed JMB_CASignUp_018
+2022-09-22 17:32:44,190 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:45,437 [main] INFO Jombone - Started Candidate - Country Code - Other than Canada 
+2022-09-22 17:32:46,094 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:48,028 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:48,028 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:32:48,166 [main] INFO Jombone - passing first name
+2022-09-22 17:32:48,272 [main] INFO Jombone - passing last name
+2022-09-22 17:32:48,273 [main] INFO Jombone - passing email
+2022-09-22 17:32:48,359 [main] INFO Jombone - Passing :vzz1k@s3bb.9s
+2022-09-22 17:32:48,360 [main] INFO Jombone - passing Canada phone
+2022-09-22 17:32:48,460 [main] INFO Jombone - passing 9493661
+2022-09-22 17:32:48,461 [main] INFO Jombone - passing password
+2022-09-22 17:32:48,531 [main] INFO Jombone - Passing : 5''((?_)
+2022-09-22 17:32:48,531 [main] INFO Jombone - click consent label
+2022-09-22 17:32:48,601 [main] INFO Jombone - click policy label
+2022-09-22 17:32:48,677 [main] INFO Jombone - submit captcha
+2022-09-22 17:32:49,981 [main] INFO Jombone - click join now
+2022-09-22 17:32:51,492 [main] INFO Jombone - validate a page user was redirected to
+2022-09-22 17:32:53,779 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:32:55,452 [main] INFO Jombone - Started Candidate - Country Code - Canada 
+2022-09-22 17:32:56,126 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:32:57,861 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:32:57,862 [main] INFO Jombone - passing phone
+2022-09-22 17:32:57,975 [main] INFO Jombone - passing 7087208
+2022-09-22 17:32:57,975 [main] INFO Jombone - validate if there's an error message
+2022-09-22 17:32:57,993 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:32:57,994 [main] INFO Jombone - Completed JMB_CASignUp_020
+2022-09-22 17:32:59,795 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:01,440 [main] INFO Jombone - Started Candidate -Phone number- blank (Negative)
+2022-09-22 17:33:02,154 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:03,811 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:03,812 [main] INFO Jombone - leaving phone textbox empty
+2022-09-22 17:33:03,894 [main] INFO Jombone - validate an error message: 'Please enter your mobile number'
+2022-09-22 17:33:03,928 [main] INFO Jombone - Completed JMB_CASignUp_021
+2022-09-22 17:33:05,865 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:07,584 [main] INFO Jombone - Started Candidate -Phone number- contain 10 digits (Positive)
+2022-09-22 17:33:08,277 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:10,352 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:10,353 [main] INFO Jombone - passing valid phone number
+2022-09-22 17:33:10,447 [main] INFO Jombone - passing 9733387
+2022-09-22 17:33:10,448 [main] INFO Jombone - validate if there's an error message
+2022-09-22 17:33:10,467 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:33:10,467 [main] INFO Jombone - Completed JMB_CASignUp_022
+2022-09-22 17:33:12,283 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:13,835 [main] INFO Jombone - Started Candidate -Phone Number- (Negative)
+2022-09-22 17:33:14,433 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:16,633 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:16,634 [main] INFO Jombone - passing less than 10 digits phone number
+2022-09-22 17:33:16,725 [main] INFO Jombone - passing 75488
+2022-09-22 17:33:16,726 [main] INFO Jombone - validate an error message: 'Please enter a valid 10 digit mobile number'
+2022-09-22 17:33:16,766 [main] INFO Jombone - Completed JMB_CASignUp_023
+2022-09-22 17:33:18,615 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:19,992 [main] INFO Jombone - Started Candidate -Phone number- contain spaces and hyphens (Negative)
+2022-09-22 17:33:20,773 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:22,513 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:22,513 [main] INFO Jombone - passing phone number with space and hyphen
+2022-09-22 17:33:22,642 [main] INFO Jombone - passing 2680411
+2022-09-22 17:33:22,642 [main] INFO Jombone - validate if there's an error message
+2022-09-22 17:33:22,663 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:33:22,663 [main] INFO Jombone - Completed JMB_CASignUp_024
+2022-09-22 17:33:24,544 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:25,872 [main] INFO Jombone - Started Candidate -Password- Blank (Negative)
+2022-09-22 17:33:26,492 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:28,274 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:28,274 [main] INFO Jombone - passing empty password
+2022-09-22 17:33:28,358 [main] INFO Jombone - validate an error message: 'Please enter strong password'
+2022-09-22 17:33:28,403 [main] INFO Jombone - Completed JMB_CASignUp_025
+2022-09-22 17:33:30,205 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:31,430 [main] INFO Jombone - Started Candidate -Password- at least 6 characters, contains at least one lowercase letter,one uppercase letter, one number and one special character (#, @, -, _, ! and ?) (Positive)
+2022-09-22 17:33:31,919 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:33,202 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:33,203 [main] INFO Jombone - passing 6 char password
+2022-09-22 17:33:33,307 [main] INFO Jombone - Passing : 8??__?$!_
+2022-09-22 17:33:33,307 [main] INFO Jombone - validate if there's an error message
+2022-09-22 17:33:33,322 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:33:33,323 [main] INFO Jombone - Completed JMB_CASignUp_026
+2022-09-22 17:33:35,122 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:36,490 [main] INFO Jombone - Started Candidate  -Password- at least 6 characters, contains at least one lowercase letter and/or, one uppercase letter and/or, one number and/or,  one special character (#, @, -, _, ! and ?) (Negative)
+2022-09-22 17:33:37,013 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:38,292 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:38,293 [main] INFO Jombone - passing 6 char password
+2022-09-22 17:33:38,394 [main] INFO Jombone - Passing : !?#!_d
+2022-09-22 17:33:38,394 [main] INFO Jombone - validate if there's an error message
+2022-09-22 17:33:38,412 [main] INFO Jombone - Test Passed! User did not get any error message.
+2022-09-22 17:33:38,413 [main] INFO Jombone - Completed JMB_CASignUp_028
+2022-09-22 17:33:40,204 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:41,465 [main] INFO Jombone - Started Candidate click on User Agreement link
+2022-09-22 17:33:42,094 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:43,558 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:43,558 [main] INFO Jombone - Click on User Agreement link
+2022-09-22 17:33:43,644 [main] INFO Jombone - Validate if it displayed Terms and conditions by the element of an actual title of a page user was redirected to
+2022-09-22 17:33:44,215 [main] INFO Jombone - Completed JMB_CASignUp_034
+2022-09-22 17:33:46,024 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:47,565 [main] INFO Jombone - Started - Candidate- verify your email page  
+2022-09-22 17:33:48,128 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:49,326 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:49,326 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:33:49,456 [main] INFO Jombone - passing first name
+2022-09-22 17:33:49,560 [main] INFO Jombone - passing last name
+2022-09-22 17:33:49,560 [main] INFO Jombone - passing email
+2022-09-22 17:33:49,646 [main] INFO Jombone - Passing :58@3gelw4.298b
+2022-09-22 17:33:49,647 [main] INFO Jombone - passing phone
+2022-09-22 17:33:50,118 [main] INFO Jombone - passing 6988028
+2022-09-22 17:33:50,118 [main] INFO Jombone - passing password
+2022-09-22 17:33:50,205 [main] INFO Jombone - Passing : h4&*_@ %)#___+@#
+2022-09-22 17:33:50,205 [main] INFO Jombone - click consent label
+2022-09-22 17:33:50,261 [main] INFO Jombone - click policy label
+2022-09-22 17:33:50,317 [main] INFO Jombone - submit captcha
+2022-09-22 17:33:51,624 [main] INFO Jombone - click join now
+2022-09-22 17:33:52,934 [main] INFO Jombone - validate text and font of a title
+2022-09-22 17:33:55,197 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:33:56,744 [main] INFO Jombone - Started - Candidate - verify your email page 
+2022-09-22 17:33:57,646 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:33:59,567 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:33:59,568 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:33:59,724 [main] INFO Jombone - passing first name
+2022-09-22 17:33:59,850 [main] INFO Jombone - passing last name
+2022-09-22 17:33:59,850 [main] INFO Jombone - passing email
+2022-09-22 17:33:59,944 [main] INFO Jombone - Passing :1m690r@26.z1b3s13
+2022-09-22 17:33:59,944 [main] INFO Jombone - passing phone
+2022-09-22 17:34:00,307 [main] INFO Jombone - passing 9299197
+2022-09-22 17:34:00,307 [main] INFO Jombone - passing password
+2022-09-22 17:34:00,379 [main] INFO Jombone - Passing : t_!'__?@_
+2022-09-22 17:34:00,379 [main] INFO Jombone - click consent label
+2022-09-22 17:34:00,443 [main] INFO Jombone - click policy label
+2022-09-22 17:34:00,512 [main] INFO Jombone - submit captcha
+2022-09-22 17:34:06,008 [main] INFO Jombone - click join now
+2022-09-22 17:34:07,643 [main] INFO Jombone - Validate if 'We have sent a “4 digit code” to Email' is displayed
+2022-09-22 17:34:07,685 [main] INFO Jombone - Completed JMB_CASignUp_037_2
+2022-09-22 17:34:09,492 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:34:11,561 [main] INFO Jombone - Started - Candidate - verify your email page 
+2022-09-22 17:34:12,167 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:34:13,537 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:34:13,537 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:34:13,669 [main] INFO Jombone - passing first name
+2022-09-22 17:34:13,780 [main] INFO Jombone - passing last name
+2022-09-22 17:34:13,780 [main] INFO Jombone - passing email
+2022-09-22 17:34:13,873 [main] INFO Jombone - Passing :nx@t.a3qdk7o9k147v
+2022-09-22 17:34:13,873 [main] INFO Jombone - passing phone
+2022-09-22 17:34:14,224 [main] INFO Jombone - passing 9276786
+2022-09-22 17:34:14,224 [main] INFO Jombone - passing password
+2022-09-22 17:34:14,303 [main] INFO Jombone - Passing : o@(@__
+2022-09-22 17:34:14,304 [main] INFO Jombone - click consent label
+2022-09-22 17:34:14,366 [main] INFO Jombone - click policy label
+2022-09-22 17:34:14,422 [main] INFO Jombone - submit captcha
+2022-09-22 17:34:15,768 [main] INFO Jombone - click join now
+2022-09-22 17:34:16,918 [main] INFO Jombone - Validate if landing page image is on left hand side
+2022-09-22 17:34:16,959 [main] INFO Jombone - Completed JMB_CASignUp_037_3
+2022-09-22 17:34:18,767 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:34:20,060 [main] INFO Jombone - Started - Candidate- verify your email page  
+2022-09-22 17:34:20,702 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:34:22,212 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:34:22,213 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:34:22,340 [main] INFO Jombone - passing first name
+2022-09-22 17:34:22,453 [main] INFO Jombone - passing last name
+2022-09-22 17:34:22,453 [main] INFO Jombone - passing email
+2022-09-22 17:34:22,546 [main] INFO Jombone - Passing :9k@i1k2y31.qkl3
+2022-09-22 17:34:22,547 [main] INFO Jombone - passing phone
+2022-09-22 17:34:22,887 [main] INFO Jombone - passing 1199775
+2022-09-22 17:34:22,887 [main] INFO Jombone - passing password
+2022-09-22 17:34:22,965 [main] INFO Jombone - Passing : 0(**?@++
+2022-09-22 17:34:22,965 [main] INFO Jombone - click consent label
+2022-09-22 17:34:23,028 [main] INFO Jombone - click policy label
+2022-09-22 17:34:23,090 [main] INFO Jombone - submit captcha
+2022-09-22 17:34:27,492 [main] INFO Jombone - click join now
+2022-09-22 17:34:28,707 [main] INFO Jombone - Verify Your Email page form details on right hand side
+2022-09-22 17:34:28,750 [main] INFO Jombone - Completed JMB_CASignUp_037_6
+2022-09-22 17:34:30,587 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:34:31,802 [main] INFO Jombone - Started - Candidate- verify your email page  
+2022-09-22 17:34:32,601 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:34:33,957 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:34:33,957 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:34:34,088 [main] INFO Jombone - passing first name
+2022-09-22 17:34:34,200 [main] INFO Jombone - passing last name
+2022-09-22 17:34:34,200 [main] INFO Jombone - passing email
+2022-09-22 17:34:34,284 [main] INFO Jombone - Passing :rr@h97u.8j
+2022-09-22 17:34:34,286 [main] INFO Jombone - passing phone
+2022-09-22 17:34:34,607 [main] INFO Jombone - passing 3915187
+2022-09-22 17:34:34,607 [main] INFO Jombone - passing password
+2022-09-22 17:34:34,678 [main] INFO Jombone - Passing : q7@$__
+2022-09-22 17:34:34,678 [main] INFO Jombone - click consent label
+2022-09-22 17:34:34,742 [main] INFO Jombone - click policy label
+2022-09-22 17:34:34,806 [main] INFO Jombone - submit captcha
+2022-09-22 17:34:39,232 [main] INFO Jombone - click join now
+2022-09-22 17:34:40,719 [main] INFO Jombone - validate of initially textboxes are empty
+2022-09-22 17:34:40,758 [main] INFO Jombone - Checkbox 1 of 4 is initially empty
+2022-09-22 17:34:40,782 [main] INFO Jombone - Checkbox 2 of 4 is initially empty
+2022-09-22 17:34:40,801 [main] INFO Jombone - Checkbox 3 of 4 is initially empty
+2022-09-22 17:34:40,819 [main] INFO Jombone - Checkbox 4 of 4 is initially empty
+2022-09-22 17:34:40,819 [main] INFO Jombone - Completed JMB_CASignUp_037_5
+2022-09-22 17:34:42,658 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:34:43,819 [main] INFO Jombone - Started Candidate-Verify Your Email - code textbox- only number 0-9
+2022-09-22 17:34:44,500 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:34:45,792 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:34:45,794 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:34:45,946 [main] INFO Jombone - passing first name
+2022-09-22 17:34:46,049 [main] INFO Jombone - passing last name
+2022-09-22 17:34:46,049 [main] INFO Jombone - passing email
+2022-09-22 17:34:46,124 [main] INFO Jombone - Passing :9pixmj@a5j8a.i
+2022-09-22 17:34:46,124 [main] INFO Jombone - passing phone
+2022-09-22 17:34:46,424 [main] INFO Jombone - passing 3101721
+2022-09-22 17:34:46,425 [main] INFO Jombone - passing password
+2022-09-22 17:34:46,489 [main] INFO Jombone - Passing : 8?_???
+2022-09-22 17:34:46,489 [main] INFO Jombone - click consent label
+2022-09-22 17:34:46,548 [main] INFO Jombone - click policy label
+2022-09-22 17:34:46,600 [main] INFO Jombone - submit captcha
+2022-09-22 17:34:52,055 [main] INFO Jombone - click join now
+2022-09-22 17:34:53,639 [main] INFO Jombone - passing numbers to text boxes
+2022-09-22 17:34:53,899 [main] INFO Jombone - submit form
+2022-09-22 17:34:54,373 [main] INFO Jombone - verifying if error message is displayed
+2022-09-22 17:34:56,754 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:34:58,186 [main] INFO Jombone - Started Candidate- Verify Your Email -code textbox- Characters
+2022-09-22 17:34:58,708 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:34:59,897 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:34:59,897 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:35:00,050 [main] INFO Jombone - passing first name
+2022-09-22 17:35:00,157 [main] INFO Jombone - passing last name
+2022-09-22 17:35:00,157 [main] INFO Jombone - passing email
+2022-09-22 17:35:00,225 [main] INFO Jombone - Passing :j@vc.c34mf4
+2022-09-22 17:35:00,226 [main] INFO Jombone - passing phone
+2022-09-22 17:35:00,530 [main] INFO Jombone - passing 2836885
+2022-09-22 17:35:00,530 [main] INFO Jombone - passing password
+2022-09-22 17:35:00,606 [main] INFO Jombone - Passing : 9@___??
+2022-09-22 17:35:00,607 [main] INFO Jombone - click consent label
+2022-09-22 17:35:00,670 [main] INFO Jombone - click policy label
+2022-09-22 17:35:00,722 [main] INFO Jombone - submit captcha
+2022-09-22 17:35:06,184 [main] INFO Jombone - click join now
+2022-09-22 17:35:07,652 [main] INFO Jombone - passing characters to textboxes
+2022-09-22 17:35:07,884 [main] INFO Jombone - submit form
+2022-09-22 17:35:07,952 [main] INFO Jombone - validating if error message meets requirements: 'Only numbers are allowed.'
+2022-09-22 17:35:07,998 [main] INFO Jombone - Completed JMB_CASignUp_039
+2022-09-22 17:35:09,836 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:35:11,121 [main] INFO Jombone - Started Candidate- verify your email - Code - same as received in email
+2022-09-22 17:35:11,783 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:35:13,489 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:35:13,490 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:35:13,619 [main] INFO Jombone - passing first name
+2022-09-22 17:35:13,726 [main] INFO Jombone - passing last name
+2022-09-22 17:35:13,726 [main] INFO Jombone - passing email
+2022-09-22 17:35:13,814 [main] INFO Jombone - Passing :f630d2u@58esi.39qw6
+2022-09-22 17:35:13,814 [main] INFO Jombone - passing phone
+2022-09-22 17:35:14,144 [main] INFO Jombone - passing 8797800
+2022-09-22 17:35:14,144 [main] INFO Jombone - passing password
+2022-09-22 17:35:14,209 [main] INFO Jombone - Passing : 14____
+2022-09-22 17:35:14,209 [main] INFO Jombone - click consent label
+2022-09-22 17:35:14,274 [main] INFO Jombone - click policy label
+2022-09-22 17:35:14,332 [main] INFO Jombone - submit captcha
+2022-09-22 17:35:22,422 [main] INFO Jombone - click join now
+2022-09-22 17:35:23,736 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:35:23,924 [main] INFO Jombone - submit form
+2022-09-22 17:35:24,991 [main] INFO Jombone - validating if user is redirected to a required page
+2022-09-22 17:35:37,584 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:35:39,045 [main] INFO Jombone - Started Candidate- verify your email - Code - not same as received in email .
+2022-09-22 17:35:39,657 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:35:40,998 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:35:40,998 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:35:41,141 [main] INFO Jombone - passing first name
+2022-09-22 17:35:41,251 [main] INFO Jombone - passing last name
+2022-09-22 17:35:41,251 [main] INFO Jombone - passing email
+2022-09-22 17:35:41,331 [main] INFO Jombone - Passing :c9@306.o8be6g54
+2022-09-22 17:35:41,332 [main] INFO Jombone - passing phone
+2022-09-22 17:35:41,638 [main] INFO Jombone - passing 8963929
+2022-09-22 17:35:41,638 [main] INFO Jombone - passing password
+2022-09-22 17:35:41,708 [main] INFO Jombone - Passing : 7@%_)__
+2022-09-22 17:35:41,708 [main] INFO Jombone - click consent label
+2022-09-22 17:35:41,773 [main] INFO Jombone - click policy label
+2022-09-22 17:35:41,831 [main] INFO Jombone - submit captcha
+2022-09-22 17:35:45,751 [main] INFO Jombone - click join now
+2022-09-22 17:35:47,340 [main] INFO Jombone - passing numbers to text boxes
+2022-09-22 17:35:47,570 [main] INFO Jombone - submit form
+2022-09-22 17:35:48,040 [main] INFO Jombone - verifying a popup error message: 'Please enter a valid verification code.'
+2022-09-22 17:35:48,080 [main] INFO Jombone - Completed JMB_CASignUp_041
+2022-09-22 17:35:49,930 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:35:51,252 [main] INFO Jombone - Started Candidate- verify your email - Code -blank
+2022-09-22 17:35:51,857 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:35:53,374 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:35:53,375 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:35:53,503 [main] INFO Jombone - passing first name
+2022-09-22 17:35:53,610 [main] INFO Jombone - passing last name
+2022-09-22 17:35:53,611 [main] INFO Jombone - passing email
+2022-09-22 17:35:53,683 [main] INFO Jombone - Passing :oes9@f.vuv
+2022-09-22 17:35:53,684 [main] INFO Jombone - passing phone
+2022-09-22 17:35:53,991 [main] INFO Jombone - passing 6940053
+2022-09-22 17:35:53,991 [main] INFO Jombone - passing password
+2022-09-22 17:35:54,059 [main] INFO Jombone - Passing : 8%__%_
+2022-09-22 17:35:54,060 [main] INFO Jombone - click consent label
+2022-09-22 17:35:54,122 [main] INFO Jombone - click policy label
+2022-09-22 17:35:54,186 [main] INFO Jombone - submit captcha
+2022-09-22 17:36:01,225 [main] INFO Jombone - click join now
+2022-09-22 17:36:02,739 [main] INFO Jombone - passing blank text boxes
+2022-09-22 17:36:02,922 [main] INFO Jombone - submit form
+2022-09-22 17:36:02,989 [main] INFO Jombone - calidate an error message :'Please enter a valid verification code.'
+2022-09-22 17:36:03,027 [main] INFO Jombone - Completed JMB_CASignUp_042_1
+2022-09-22 17:36:04,863 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:36:06,653 [main] INFO Jombone - Started Candidate- verify your email - Code - Less than 4 digits(error page element)
+2022-09-22 17:36:07,493 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:36:08,856 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:36:08,856 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:36:08,993 [main] INFO Jombone - passing first name
+2022-09-22 17:36:09,104 [main] INFO Jombone - passing last name
+2022-09-22 17:36:09,104 [main] INFO Jombone - passing email
+2022-09-22 17:36:09,195 [main] INFO Jombone - Passing :49@pqpz7o5lwd9blk7.i
+2022-09-22 17:36:09,195 [main] INFO Jombone - passing phone
+2022-09-22 17:36:09,547 [main] INFO Jombone - passing 4829735
+2022-09-22 17:36:09,548 [main] INFO Jombone - passing password
+2022-09-22 17:36:09,614 [main] INFO Jombone - Passing : i4e?_(
+2022-09-22 17:36:09,614 [main] INFO Jombone - click consent label
+2022-09-22 17:36:09,672 [main] INFO Jombone - click policy label
+2022-09-22 17:36:09,731 [main] INFO Jombone - submit captcha
+2022-09-22 17:36:17,821 [main] INFO Jombone - click join now
+2022-09-22 17:36:19,126 [main] INFO Jombone - passing less than 4 digits
+2022-09-22 17:36:19,270 [main] INFO Jombone - submit form
+2022-09-22 17:36:19,764 [main] INFO Jombone - verifying if error message is present: 'Please enter a valid verification code.'
+2022-09-22 17:36:21,998 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:36:23,439 [main] INFO Jombone - Started Candidate- verify your email - Code - Less than 4 digits
+2022-09-22 17:36:24,068 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:36:25,432 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:36:25,433 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:36:25,571 [main] INFO Jombone - passing first name
+2022-09-22 17:36:25,683 [main] INFO Jombone - passing last name
+2022-09-22 17:36:25,683 [main] INFO Jombone - passing email
+2022-09-22 17:36:25,776 [main] INFO Jombone - Passing :exi@u8u1qy.8i0tyf34
+2022-09-22 17:36:25,776 [main] INFO Jombone - passing phone
+2022-09-22 17:36:26,117 [main] INFO Jombone - passing 5328188
+2022-09-22 17:36:26,118 [main] INFO Jombone - passing password
+2022-09-22 17:36:26,197 [main] INFO Jombone - Passing : 0???(%___,(#_
+2022-09-22 17:36:26,197 [main] INFO Jombone - click consent label
+2022-09-22 17:36:26,253 [main] INFO Jombone - click policy label
+2022-09-22 17:36:26,317 [main] INFO Jombone - submit captcha
+2022-09-22 17:36:30,254 [main] INFO Jombone - click join now
+2022-09-22 17:36:31,703 [main] INFO Jombone - passing less than 4 digits
+2022-09-22 17:36:31,848 [main] INFO Jombone - submit form
+2022-09-22 17:36:32,173 [main] INFO Jombone - verifying a popup error message: 'Please enter a valid verification code.'
+2022-09-22 17:36:32,216 [main] INFO Jombone - Completed JMB_CASignUp_042_2
+2022-09-22 17:36:34,058 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:36:35,424 [main] INFO Jombone - Started Candidate- verify your email - Edit Email link
+2022-09-22 17:36:36,026 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:36:37,159 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:36:37,159 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:36:37,299 [main] INFO Jombone - passing first name
+2022-09-22 17:36:37,404 [main] INFO Jombone - passing last name
+2022-09-22 17:36:37,405 [main] INFO Jombone - passing email
+2022-09-22 17:36:37,487 [main] INFO Jombone - Passing :2@1ftbroj.nf6g
+2022-09-22 17:36:37,489 [main] INFO Jombone - passing phone
+2022-09-22 17:36:37,823 [main] INFO Jombone - passing 5903864
+2022-09-22 17:36:37,823 [main] INFO Jombone - passing password
+2022-09-22 17:36:37,899 [main] INFO Jombone - Passing : 0?"?)*@_)
+2022-09-22 17:36:37,899 [main] INFO Jombone - click consent label
+2022-09-22 17:36:37,963 [main] INFO Jombone - click policy label
+2022-09-22 17:36:38,012 [main] INFO Jombone - submit captcha
+2022-09-22 17:36:42,392 [main] INFO Jombone - click join now
+2022-09-22 17:36:43,651 [main] INFO Jombone - click edit email
+2022-09-22 17:36:43,719 [main] INFO Jombone - verifying that edit email popup is visible
+2022-09-22 17:36:43,761 [main] INFO Jombone - Completed JMB_CASignUp_044
+2022-09-22 17:36:45,579 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:36:46,828 [main] INFO Jombone - Started Candidate- verify your email - Resend verification Code link
+2022-09-22 17:36:47,542 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:36:49,001 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:36:49,001 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:36:49,135 [main] INFO Jombone - passing first name
+2022-09-22 17:36:49,245 [main] INFO Jombone - passing last name
+2022-09-22 17:36:49,246 [main] INFO Jombone - passing email
+2022-09-22 17:36:49,325 [main] INFO Jombone - Passing :q@fx.kjjyw
+2022-09-22 17:36:49,325 [main] INFO Jombone - passing phone
+2022-09-22 17:36:49,628 [main] INFO Jombone - passing 9241351
+2022-09-22 17:36:49,628 [main] INFO Jombone - passing password
+2022-09-22 17:36:49,699 [main] INFO Jombone - Passing : ul_@"#?
+2022-09-22 17:36:49,700 [main] INFO Jombone - click consent label
+2022-09-22 17:36:49,764 [main] INFO Jombone - click policy label
+2022-09-22 17:36:49,825 [main] INFO Jombone - submit captcha
+2022-09-22 17:36:53,739 [main] INFO Jombone - click join now
+2022-09-22 17:36:55,542 [main] INFO Jombone - click resend code
+2022-09-22 17:36:55,657 [main] INFO Jombone - verifying that resend code popup is visible
+2022-09-22 17:36:55,688 [main] INFO Jombone - Completed JMB_CASignUp_045
+2022-09-22 17:36:57,536 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:36:59,512 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page 
+2022-09-22 17:37:00,907 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:37:02,383 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:37:02,384 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:37:02,519 [main] INFO Jombone - passing first name
+2022-09-22 17:37:02,629 [main] INFO Jombone - passing last name
+2022-09-22 17:37:02,629 [main] INFO Jombone - passing email
+2022-09-22 17:37:02,715 [main] INFO Jombone - Passing :7@tc77j60.4n4
+2022-09-22 17:37:02,715 [main] INFO Jombone - passing phone
+2022-09-22 17:37:03,044 [main] INFO Jombone - passing 9844828
+2022-09-22 17:37:03,044 [main] INFO Jombone - passing password
+2022-09-22 17:37:03,120 [main] INFO Jombone - Passing : 3___@'_
+2022-09-22 17:37:03,120 [main] INFO Jombone - click consent label
+2022-09-22 17:37:03,180 [main] INFO Jombone - click policy label
+2022-09-22 17:37:03,240 [main] INFO Jombone - submit captcha
+2022-09-22 17:37:10,320 [main] INFO Jombone - click join now
+2022-09-22 17:37:11,959 [main] INFO Jombone - passing valid code
+2022-09-22 17:37:12,145 [main] INFO Jombone - submit form
+2022-09-22 17:37:13,275 [main] INFO Jombone - Validate if it displayed Where are you looking for a job page
+2022-09-22 17:37:15,437 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:37:16,612 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page 
+2022-09-22 17:37:17,418 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:37:18,649 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:37:18,649 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:37:18,764 [main] INFO Jombone - passing first name
+2022-09-22 17:37:18,853 [main] INFO Jombone - passing last name
+2022-09-22 17:37:18,853 [main] INFO Jombone - passing email
+2022-09-22 17:37:18,929 [main] INFO Jombone - Passing :b@37.k1906u
+2022-09-22 17:37:18,930 [main] INFO Jombone - passing phone
+2022-09-22 17:37:19,235 [main] INFO Jombone - passing 7253474
+2022-09-22 17:37:19,236 [main] INFO Jombone - passing password
+2022-09-22 17:37:19,318 [main] INFO Jombone - Passing : 4#_@)__+_@
+2022-09-22 17:37:19,318 [main] INFO Jombone - click consent label
+2022-09-22 17:37:19,379 [main] INFO Jombone - click policy label
+2022-09-22 17:37:19,430 [main] INFO Jombone - submit captcha
+2022-09-22 17:37:24,864 [main] INFO Jombone - click join now
+2022-09-22 17:37:26,223 [main] INFO Jombone - passing valid code
+2022-09-22 17:37:26,410 [main] INFO Jombone - submit form
+2022-09-22 17:37:27,487 [main] INFO Jombone - Validate if it displayed 'Select as many locations as needed' text
+2022-09-22 17:37:27,518 [main] INFO Jombone - Completed JMB_CASignUp_046_2
+2022-09-22 17:37:29,359 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:37:30,876 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page 
+2022-09-22 17:37:31,516 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:37:32,757 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:37:32,758 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:37:32,889 [main] INFO Jombone - passing first name
+2022-09-22 17:37:32,989 [main] INFO Jombone - passing last name
+2022-09-22 17:37:32,989 [main] INFO Jombone - passing email
+2022-09-22 17:37:33,078 [main] INFO Jombone - Passing :b@o.868z75
+2022-09-22 17:37:33,078 [main] INFO Jombone - passing phone
+2022-09-22 17:37:33,409 [main] INFO Jombone - passing 6710183
+2022-09-22 17:37:33,409 [main] INFO Jombone - passing password
+2022-09-22 17:37:33,473 [main] INFO Jombone - Passing : v@#? $
+2022-09-22 17:37:33,474 [main] INFO Jombone - click consent label
+2022-09-22 17:37:33,536 [main] INFO Jombone - click policy label
+2022-09-22 17:37:33,600 [main] INFO Jombone - submit captcha
+2022-09-22 17:37:37,502 [main] INFO Jombone - click join now
+2022-09-22 17:37:38,925 [main] INFO Jombone - passing valid code
+2022-09-22 17:37:39,083 [main] INFO Jombone - submit form
+2022-09-22 17:37:40,414 [main] INFO Jombone - Validate if it displayed landing page image on left hand side
+2022-09-22 17:37:40,449 [main] INFO Jombone - Completed JMB_CASignUp_046_3
+2022-09-22 17:37:42,269 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:37:43,943 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page  - Location - Enter already exist location
+2022-09-22 17:37:44,662 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:37:46,033 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:37:46,033 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:37:46,174 [main] INFO Jombone - passing first name
+2022-09-22 17:37:46,272 [main] INFO Jombone - passing last name
+2022-09-22 17:37:46,272 [main] INFO Jombone - passing email
+2022-09-22 17:37:46,342 [main] INFO Jombone - Passing :z2@61.160xdx8v
+2022-09-22 17:37:46,343 [main] INFO Jombone - passing phone
+2022-09-22 17:37:46,647 [main] INFO Jombone - passing 9898076
+2022-09-22 17:37:46,647 [main] INFO Jombone - passing password
+2022-09-22 17:37:46,719 [main] INFO Jombone - Passing : 4_?___
+2022-09-22 17:37:46,720 [main] INFO Jombone - click consent label
+2022-09-22 17:37:46,785 [main] INFO Jombone - click policy label
+2022-09-22 17:37:46,842 [main] INFO Jombone - submit captcha
+2022-09-22 17:37:51,785 [main] INFO Jombone - click join now
+2022-09-22 17:37:53,183 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:37:53,358 [main] INFO Jombone - submit form
+2022-09-22 17:37:54,275 [main] INFO Jombone - choose same location twice
+2022-09-22 17:38:02,865 [main] INFO Jombone - validate the text of an error message
+2022-09-22 17:38:03,971 [main] INFO Jombone - Completed JMB_CASignUp_048
+2022-09-22 17:38:05,836 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:38:07,066 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page  - Location - Enter 10 Location
+2022-09-22 17:38:07,776 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:38:09,234 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:38:09,234 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:38:09,357 [main] INFO Jombone - passing first name
+2022-09-22 17:38:09,494 [main] INFO Jombone - passing last name
+2022-09-22 17:38:09,495 [main] INFO Jombone - passing email
+2022-09-22 17:38:09,569 [main] INFO Jombone - Passing :938450k940@y.u
+2022-09-22 17:38:09,569 [main] INFO Jombone - passing phone
+2022-09-22 17:38:09,954 [main] INFO Jombone - passing 9819334
+2022-09-22 17:38:09,955 [main] INFO Jombone - passing password
+2022-09-22 17:38:10,016 [main] INFO Jombone - Passing : o!@@__
+2022-09-22 17:38:10,016 [main] INFO Jombone - click consent label
+2022-09-22 17:38:10,076 [main] INFO Jombone - click policy label
+2022-09-22 17:38:10,117 [main] INFO Jombone - submit captcha
+2022-09-22 17:38:16,127 [main] INFO Jombone - click join now
+2022-09-22 17:38:17,427 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:38:17,614 [main] INFO Jombone - submit form
+2022-09-22 17:38:18,659 [main] INFO Jombone - choose same location twice
+2022-09-22 17:38:51,665 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:38:52,944 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page  - Location - Enter more than location
+2022-09-22 17:38:53,502 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:38:55,111 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:38:55,111 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:38:55,256 [main] INFO Jombone - passing first name
+2022-09-22 17:38:55,368 [main] INFO Jombone - passing last name
+2022-09-22 17:38:55,368 [main] INFO Jombone - passing email
+2022-09-22 17:38:55,456 [main] INFO Jombone - Passing :bl2k@2.1ru
+2022-09-22 17:38:55,457 [main] INFO Jombone - passing phone
+2022-09-22 17:38:55,780 [main] INFO Jombone - passing 8154408
+2022-09-22 17:38:55,780 [main] INFO Jombone - passing password
+2022-09-22 17:38:55,846 [main] INFO Jombone - Passing : 1#@_*_?
+2022-09-22 17:38:55,846 [main] INFO Jombone - click consent label
+2022-09-22 17:38:55,915 [main] INFO Jombone - click policy label
+2022-09-22 17:38:55,976 [main] INFO Jombone - submit captcha
+2022-09-22 17:39:05,623 [main] INFO Jombone - click join now
+2022-09-22 17:39:07,129 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:39:07,306 [main] INFO Jombone - submit form
+2022-09-22 17:39:08,567 [main] INFO Jombone - choose more than 10 locations
+2022-09-22 17:41:04,138 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:41:05,896 [main] INFO Jombone - Started Candidate -Where are you looking for a job? Page - Next Button
+2022-09-22 17:41:06,506 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:41:08,551 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:41:08,551 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:41:08,684 [main] INFO Jombone - passing first name
+2022-09-22 17:41:08,790 [main] INFO Jombone - passing last name
+2022-09-22 17:41:08,790 [main] INFO Jombone - passing email
+2022-09-22 17:41:08,868 [main] INFO Jombone - Passing :lbj@z.2uw9
+2022-09-22 17:41:08,868 [main] INFO Jombone - passing phone
+2022-09-22 17:41:09,221 [main] INFO Jombone - passing 2681006
+2022-09-22 17:41:09,221 [main] INFO Jombone - passing password
+2022-09-22 17:41:09,286 [main] INFO Jombone - Passing : pazo++
+2022-09-22 17:41:09,286 [main] INFO Jombone - click consent label
+2022-09-22 17:41:09,349 [main] INFO Jombone - click policy label
+2022-09-22 17:41:09,406 [main] INFO Jombone - submit captcha
+2022-09-22 17:41:19,645 [main] INFO Jombone - click join now
+2022-09-22 17:41:21,112 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:41:21,303 [main] INFO Jombone - submit form
+2022-09-22 17:41:22,643 [main] INFO Jombone - extract title from current page
+2022-09-22 17:41:22,652 [main] INFO Jombone - choose random location
+2022-09-22 17:41:26,882 [main] INFO Jombone - click next to get redirected to next page
+2022-09-22 17:41:31,120 [main] INFO Jombone - validate if user is redirected
+2022-09-22 17:41:31,137 [main] INFO Jombone - Completed JMB_CASignUp_051
+2022-09-22 17:41:33,034 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:41:34,433 [main] INFO Jombone - Started Candidate- Where are you looking for a job? page  - Location - blank
+2022-09-22 17:41:34,912 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:41:36,411 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:41:36,411 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:41:36,550 [main] INFO Jombone - passing first name
+2022-09-22 17:41:36,663 [main] INFO Jombone - passing last name
+2022-09-22 17:41:36,663 [main] INFO Jombone - passing email
+2022-09-22 17:41:36,736 [main] INFO Jombone - Passing :a@4.b37hf8vi
+2022-09-22 17:41:36,736 [main] INFO Jombone - passing phone
+2022-09-22 17:41:37,061 [main] INFO Jombone - passing 0048835
+2022-09-22 17:41:37,061 [main] INFO Jombone - passing password
+2022-09-22 17:41:37,131 [main] INFO Jombone - Passing : d_#'@?_
+2022-09-22 17:41:37,131 [main] INFO Jombone - click consent label
+2022-09-22 17:41:37,197 [main] INFO Jombone - click policy label
+2022-09-22 17:41:37,262 [main] INFO Jombone - submit captcha
+2022-09-22 17:41:41,674 [main] INFO Jombone - click join now
+2022-09-22 17:41:42,801 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:41:42,980 [main] INFO Jombone - submit form
+2022-09-22 17:41:44,284 [main] INFO Jombone - choose no locations by no actions
+2022-09-22 17:41:44,286 [main] INFO Jombone - click next to get redirected to next page
+2022-09-22 17:41:44,350 [main] INFO Jombone - validate an error message
+2022-09-22 17:41:44,421 [main] INFO Jombone - Completed JMB_CASignUp_052
+2022-09-22 17:41:46,258 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:41:47,806 [main] INFO Jombone - Started Candidate -Where are you looking for a job? Page -Delete selected location
+2022-09-22 17:41:48,498 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:41:49,680 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:41:49,680 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:41:49,808 [main] INFO Jombone - passing first name
+2022-09-22 17:41:49,915 [main] INFO Jombone - passing last name
+2022-09-22 17:41:49,915 [main] INFO Jombone - passing email
+2022-09-22 17:41:49,994 [main] INFO Jombone - Passing :mwc@2.g0xn
+2022-09-22 17:41:49,994 [main] INFO Jombone - passing phone
+2022-09-22 17:41:50,316 [main] INFO Jombone - passing 8748994
+2022-09-22 17:41:50,316 [main] INFO Jombone - passing password
+2022-09-22 17:41:50,382 [main] INFO Jombone - Passing : e??*'_
+2022-09-22 17:41:50,382 [main] INFO Jombone - click consent label
+2022-09-22 17:41:50,444 [main] INFO Jombone - click policy label
+2022-09-22 17:41:50,494 [main] INFO Jombone - submit captcha
+2022-09-22 17:41:54,409 [main] INFO Jombone - click join now
+2022-09-22 17:41:55,709 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:41:55,873 [main] INFO Jombone - submit form
+2022-09-22 17:41:56,993 [main] INFO Jombone - choose certain location
+2022-09-22 17:41:59,263 [main] INFO Jombone - delete location
+2022-09-22 17:42:05,435 [main] INFO Jombone - validate an error message
+2022-09-22 17:42:12,683 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:42:13,879 [main] INFO Jombone - Started Candidate-Verify Your Mobile- code textbox- only number 0-9
+2022-09-22 17:42:14,479 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:42:15,697 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:42:15,697 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:42:15,817 [main] INFO Jombone - passing first name
+2022-09-22 17:42:15,922 [main] INFO Jombone - passing last name
+2022-09-22 17:42:15,922 [main] INFO Jombone - passing email
+2022-09-22 17:42:16,005 [main] INFO Jombone - Passing :xa@54r.mmk0b
+2022-09-22 17:42:16,005 [main] INFO Jombone - passing phone, Canada country code by default
+2022-09-22 17:42:16,092 [main] INFO Jombone - passing 2161091
+2022-09-22 17:42:16,093 [main] INFO Jombone - passing password
+2022-09-22 17:42:16,160 [main] INFO Jombone - Passing : w+_? (
+2022-09-22 17:42:16,160 [main] INFO Jombone - click consent label
+2022-09-22 17:42:16,231 [main] INFO Jombone - click policy label
+2022-09-22 17:42:16,304 [main] INFO Jombone - submit captcha
+2022-09-22 17:42:21,224 [main] INFO Jombone - click join now
+2022-09-22 17:42:22,538 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:42:22,727 [main] INFO Jombone - submit form
+2022-09-22 17:42:23,923 [main] INFO Jombone - choose certain location
+2022-09-22 17:42:26,184 [main] INFO Jombone - click next to get redirected to next page
+2022-09-22 17:42:26,471 [main] INFO Jombone - pass 1234 as a mobile OTP
+2022-09-22 17:42:26,672 [main] INFO Jombone - submit form
+2022-09-22 17:42:29,307 [main] INFO Jombone - verify if error message is displayed
+2022-09-22 17:42:29,331 [main] INFO Jombone - Test Passed! User did not get any error message
+2022-09-22 17:42:29,332 [main] INFO Jombone - Completed JMB_CASignUp_055
+2022-09-22 17:42:31,167 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:42:32,796 [main] INFO Jombone - Started Candidate-Verify Your Mobile- code textbox- Characters
+2022-09-22 17:42:33,424 [main] INFO Jombone - Clicked on Looking for Work
+2022-09-22 17:42:34,897 [main] INFO Jombone - Clicked on Sign up
+2022-09-22 17:42:34,897 [main] INFO Jombone - registering new account by passing random credentials to get to verification stage
+2022-09-22 17:42:35,027 [main] INFO Jombone - passing first name
+2022-09-22 17:42:35,133 [main] INFO Jombone - passing last name
+2022-09-22 17:42:35,133 [main] INFO Jombone - passing email
+2022-09-22 17:42:35,220 [main] INFO Jombone - Passing :iw@53513250.4
+2022-09-22 17:42:35,220 [main] INFO Jombone - passing phone, Canada country code by default
+2022-09-22 17:42:35,323 [main] INFO Jombone - passing 4417277
+2022-09-22 17:42:35,323 [main] INFO Jombone - passing password
+2022-09-22 17:42:35,399 [main] INFO Jombone - Passing : 9)___?
+2022-09-22 17:42:35,399 [main] INFO Jombone - click consent label
+2022-09-22 17:42:35,470 [main] INFO Jombone - click policy label
+2022-09-22 17:42:35,547 [main] INFO Jombone - submit captcha
+2022-09-22 17:42:46,267 [main] INFO Jombone - click join now
+2022-09-22 17:42:47,628 [main] INFO Jombone - passing valid '1234' to textboxes
+2022-09-22 17:42:47,807 [main] INFO Jombone - submit form
+2022-09-22 17:42:49,203 [main] INFO Jombone - choose certain location
+2022-09-22 17:42:51,470 [main] INFO Jombone - click next to get redirected to next page
+2022-09-22 17:42:51,891 [main] INFO Jombone - pass chars instead of numbers
+2022-09-22 17:42:52,159 [main] INFO Jombone - submit form
+2022-09-22 17:42:52,227 [main] INFO Jombone - validate am error message
+2022-09-22 17:42:52,268 [main] INFO Jombone - Completed JMB_CASignUp_056
+2022-09-22 17:44:09,990 [main] DEBUG Jombone - Debug logging has started 
+2022-09-22 17:44:10,340 [main] INFO Jombone - Started Candidate -Email- longer than 80 characters (Negative)
